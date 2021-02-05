@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte generale de toutes les costes du Monde : et les pays nouvellement decouvert, dresse sur les relations les plus nouvelles et principalement sur le carte que Monsieur N. Witsen a donnee au public. It was published by Iean Covens et Corneille Mortier Libraires in [1725]. Scale [ca. 1:450,000]. This layer is image 1 of 2 total images of the two sheet source map representing the western portion of the map. Text in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3201_S12_1725_C6_SH_1_RECTO",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "World maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "World Map, 1725  (Image 1 of 2) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Western Hemisphere",
+    "North America",
+    "South America",
+    "Arctic regions"
+  ],
+  "dct_temporal_sm": [
+    "1725"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3201_S12_1725_C6_SH_1_RECTO",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3201-s12-1725-c6-sh-1-recto",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 6.213748, 84.371461, -69.048112)",
+  "solr_year_i": 1725
+}

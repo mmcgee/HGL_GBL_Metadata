@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "Supporting Natural Landscape is one of two datalayers resulting from the BioMap biodiversity mapping project (also see the NHESP BioMap Core Habitat datalayer description). The Supporting Natural Landscape buffers and connects Core Habitat polygons, which depict the most viable habitat for rare species and natural communities in Massachusetts, and identifies large, naturally vegetated blocks that are relatively free from the impact of roads and other development. The quality of undeveloped land considered in the landscape analysis was evaluated based on four major components: natural vegetation patch characteristics; size of relatively roadless areas; subwatershed integrity; and contribution to buffering BioMap Core Habitat polygons for plants and exemplary communities. These components were represented in seven Factor Maps in 30-meter x 30-meter raster datasets: size of natural vegetation patch; distance from development; forest history; size of individual roadless blocks; size of aggregated roadless blocks; subwatershed integrity; and distance to BioMap Core Habitat. A weighted overlay was performed on these Factor Maps using the Model Builder extension of Spatial Analyst in ArcView 3.2a to produce the Supporting Natural Landscape datalayer.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISBIOSNLP",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Habitat (Ecology)",
+    "Biodiversity conservation",
+    "Animal diversity conservation",
+    "Plant diversity conservation",
+    "Natural areas",
+    "biota",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts NHESP BioMap Supporting Natural Landscape (July 2001)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISBIOSNLP",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisbiosnlp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.504727, -69.919213, 42.873921, 41.230698)",
+  "solr_year_i": 2001
+}

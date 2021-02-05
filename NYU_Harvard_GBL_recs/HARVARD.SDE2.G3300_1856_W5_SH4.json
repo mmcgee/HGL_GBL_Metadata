@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Mitchell's new national map exhibiting the United States : with the north American British provinces, Sandwich Islands, Mexico and Central America, together with Cuba and other West India Islands, engraved by W. Williams, map engraver, Philadelphia. It was published by  S. Augustus Mitchell in 1856. Scale [ca. 1:2,500,000]. This layer is image 4 of 4 total images, representing the northwest portion of the four sheet source map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the North America Lambert Conformal Conic projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, railroads, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures. Includes tables and inset maps:  Map of the Sandwich Islands discovered by Capt.n Cook in 1778 -- Map of the world on the Mercator projection exhibiting the American continent as its centre -- Map of the world on the Globular projection exhibiting the eastern and western Hemispheres. This layer is part of a selection of digitally scanned and georeferenced historic maps of North America from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3300_1856_W5_SH4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "North America, 1856 (Image 4 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Mexico",
+    "Canada",
+    "North America"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3300_1856_W5_SH4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3300-1856-w5-sh4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-135.955816, -93.402781, 55.470779, 24.918312)",
+  "solr_year_i": 1856
+}

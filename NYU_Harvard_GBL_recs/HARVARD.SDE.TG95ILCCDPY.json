@@ -1,0 +1,39 @@
+{
+  "dc_description_s": "This datalayer displays Census County Divisions and Minor Civil Divisions based on the 1990 Census. Census county divisions (CCDs) are county subdivisions that were delineated by the U.S. Census Bureau, in cooperation with state and local government officials for data presentation purposes. CCDs have been established in 21 states where there are no legally established minor civil divisions (MCDs), where the MCDs do not have governmental or administrative purposes, where the boundaries of the MCDs are ambiguous or change frequently, and/or where the MCDs generally are not known to the public. CCDs have no legal functions and are not governmental units. The boundaries of CCDs usually are delineated to follow visible features and coincide with census tracts where applicable. (In a few instances, two CCDs may constitute a single census tract.) The name of each CCD is based on a place, county, or well-known local name that identifies its location. Minor civil divisions (MCDs) are the primary governmental or administrative divisions of a county in many states (parish in Louisiana). MCDs represent many different kinds of legal entities with a wide variety of governmental and/or administrative functions. NOTE: The U.S. Census Bureau recognizes MCDs for Illinois.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95ILCCDPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Administrative divisions"
+  ],
+  "dc_title_s": "Census County Divisions and Minor Civil Divisions, 1990 - Illinois",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95ILCCDPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95ilccdpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-91.511858, -87.495829, 42.508302, 36.972676)",
+  "solr_year_i": 1990
+}

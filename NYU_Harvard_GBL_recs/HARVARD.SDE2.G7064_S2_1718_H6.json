@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Topographische Vorstellung der neuen russischen Haupt-Residenz und See-Stadt St. Petersburg : samt ihrer zu erst aufgerichten Vestug welche von Ihro Czaar. Maj. Petro Alexiewitz aller Russen selbst Erhalter etc., etc., etc., An. 1703 an der Spitze der Ost-See auf etlichen Insuln bey dem aussflus des Neva Stroms erbaut und zur Aufnahm der Handelschafft und Schiffarth fur die Russischen Nation mit einer machtigen Flotte versehen worden, herausgegeben von Ioh. Baptist Homann. It was published by Io. Baptist Homann ca. 1718. Scale [ca. 1:25,000]. Map in German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Pulkovo 1995 Gauss Kruger Zone 6N' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortification, ground cover, and more. Relief is shown by hachures. Includes text, index, inset: Charte des Neva-Stroms von der Ladogischen biss in die Ost. See allwo St. Petersburg, and view: Crohn Schlot.  This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7064_S2_1718_H6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Saint Petersburg, Russia, 1718 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Russia",
+    "Saint Petersburg"
+  ],
+  "dct_temporal_sm": [
+    "1718"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7064_S2_1718_H6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7064-s2-1718-h6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.15891, 30.436619, 60.02149, 59.893909)",
+  "solr_year_i": 1718
+}

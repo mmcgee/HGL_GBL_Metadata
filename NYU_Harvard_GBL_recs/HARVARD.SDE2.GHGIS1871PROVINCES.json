@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "These polygons represent 12 provinces existing in the sovereign states of the German Confederation (the Deutscher Bund) in 1867, which were located within the (future) boundaries of the German Empire that would be founded in 1871 (\"core Germany\"). Since in 1867 only Prussia used provinces as administrative units, the provincial dataset as a layer likewise represents the territorial extension of Kingdom of Prussia in 1867. As compared to 1863, 3 new provinces have been added, reflecting the territorial gains made by Prussia in the wake of the German War of 1866: Hanover (the former kingdom of Hanover), Hessen-Nassau (the former Grand Duchy of Hesse-Kassel and the Duchy of Nassau), and Schleswig-Holstein (the former Duchies of Schleswig and Holstein).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1871PROVINCES",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "Population Statistics"
+  ],
+  "dc_title_s": "Germany Provincial Boundaries, 1871, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GHGIS1871PROVINCES",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1871provinces",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.401637)",
+  "solr_year_i": 1871
+}

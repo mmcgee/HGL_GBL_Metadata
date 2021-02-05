@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer contains polygons representing Massachusetts Priority Natural Vegetation Communities : Upland Forest. The data covers only a portion of southeastern Massachusetts. This theme is a polygon coverage vectorized from classified satellite imagery. It depicts the distribution of several upland forest types derived from Landsat 5 imagery acquired on April 7, 1998. Additional information about the methods used to create these data is available from Philip John at MassGIS at (617) 626-1185. This layer is part of the MassGIS Priority Natural Vegetation Communities dataset, which depicts the distribution of the eight natural community systems identified by the Massachusetts Natural Heritage and Endangered Species Program (NHESP) as most critical to the conservation of the Commonwealth's biological diversity (Barbour et al., 1998).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISVCFRSTP",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Forests and forestry",
+    "Plant communities",
+    "Biodiversity conservation",
+    "environment",
+    "biota"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Priority Natural Vegetation Communities : Upland Forest (April 2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISVCFRSTP",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisvcfrstp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.376563, -70.481846, 42.263416, 41.4952)",
+  "solr_year_i": 2003
+}

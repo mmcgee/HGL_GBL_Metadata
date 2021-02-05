@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This datalayer consists of 25 distinct \"statistical reporting areas\" covering a large portion of the Gulf of Maine and south, including the territorial waters of the Commonwealth of Massachusetts. Fourteen of the areas compose the territorial waters, while the other 11 match those of the National Marine Fisheries Service areas for offshore bodies of water bordering the Commonwealth's territorial areas, including George's Bank. These areas are used mainly on maps for fishermen to report their landings (including lobster harvest), as well as for producing plots in various Massachusetts Division of Marine Fisheries (DMF) annual publications showing landings per area. The data distributed by MassGIS includes statistics for lobster harvest zones only; 1997 is the only year data currently available.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISLOBHARA1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Lobsters",
+    "Fisheries",
+    "Marine resources",
+    "oceans",
+    "biota"
+  ],
+  "dc_title_s": "MassGIS 2000 Massachusetts Lobster Harvest Zones, 1997 (Polylines)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Atlantic Ocean",
+    "George's Bank",
+    "Gulf of Maine"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISLOBHARA1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgislobhara1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.69884, -65.66597, 44.095888, 39.833451)",
+  "solr_year_i": 1997
+}

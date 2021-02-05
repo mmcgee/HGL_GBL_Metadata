@@ -1,0 +1,54 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the Sherbrooke, Eastern Townships and Kennebec Railway : with connections, prepared by G.W. C.B. Colton   Co. It was published in 1874. Scale [ca. 1:1,267,200]. Covers New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, and portions of New Jersey, Pennsylvania, New York, Maine, and the province of Quebec, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as railroads, railroad connections and stations, drainage, state and county boundaries, and more. Includes inset: [Sherbrooke, Eastern Townships and Kennebec Railway in province of Quebec]. Scale [ca. 1:921,600]. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3721_P3_1874_G2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Railroads",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Sherbrooke, Eastern Townships and Kennebec Railway, New England, 1874 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island",
+    "Vermont",
+    "New Hampshire",
+    "Maine",
+    "New York",
+    "New Jersey",
+    "Pennsylvania",
+    "Canada",
+    "Quebec",
+    "New England"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3721_P3_1874_G2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3721-p3-1874-g2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-78.767591, -64.621575, 49.703578, 38.036735)",
+  "solr_year_i": 1874
+}

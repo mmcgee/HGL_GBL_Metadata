@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "The linework in this layer - representing Massachusetts roadways and railroads - was produced as part of the 1:5,000 Black and White Digital Orthophoto images project. The goal was to eventually use the roadway linework as the geometry for the Mass. Highway Dept. Roads layer and the railroads in the Trains layer. The processing to conflate (attach) the MHD attributes to the roads in this layer has begun and will be completed in late 2003. The Central Transportation Planning Staff is updating the Trains layer. Currently this layer is best suited for plotting purposes, particularly when the desired result is to display transportation features that match the centerline of roads and train tracks visible in an underlying orthophoto.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISROAD5KA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Roads",
+    "Express highways",
+    "Transportation"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts 1:5,000 Road and Rail Centerlines (October 2002)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISROAD5KA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisroad5ka",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.544547, -69.90914, 42.908627, 41.231603)",
+  "solr_year_i": 2002
+}

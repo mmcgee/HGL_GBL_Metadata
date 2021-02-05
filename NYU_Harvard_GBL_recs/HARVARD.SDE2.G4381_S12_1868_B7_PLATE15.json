@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Wm. T. Brigham on Hawaiian volcanoes, G.W. Boynton, sc. Pl. 15 : Crater of Kilauea in 1865, surveyed and drawn by William T. Brigham. It was published by the Boston Society of Natural History in [1868]. Scale [ca. 1:25,000]. Covers K?lauea Crater, Island of Hawai'i, Hawaii. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as volcanoes, active cones, lava flows and lakes, soil types, and more. Relief shown by hachures and spot heights. Includes also inset maps: Kilauea 1841 U.S. Expl. Exped. -- Kilauea 1825 Lieut. Malden, and sectional view. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4381_S12_1868_B7_PLATE15",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Landforms",
+    "Volcanoes",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "K?lauea Crater, Island of Hawai'i, Hawaii, 1865 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Hawaii",
+    "Island of Hawai'i",
+    "Klauea Crater"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4381_S12_1868_B7_PLATE15",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4381-s12-1868-b7-plate15",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-155.36536, -155.254312, 19.467875, 19.396146)",
+  "solr_year_i": 1865
+}

@@ -1,0 +1,48 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the New York   Boston Railway : with its connections with other railways. It was published ca. 1851 by Swett   Powers. Scale not given. Covers Connecticut, Rhode Island, Massachusetts, and portions of New York and New Hampshire.The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as railroads, drainage, selected cities, towns and villages, county and state boundaries, and more. Includes inset: Map showing the plan for shortning [sic.] the transit between New York   London.This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3721_P3_1851_S9",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Railroads",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "New York   Boston Railway, New England, ca. 1851 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Connecticut",
+    "Rhode Island",
+    "New Hampshire",
+    "New York",
+    "New England"
+  ],
+  "dct_temporal_sm": [
+    "1851"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3721_P3_1851_S9",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3721-p3-1851-s9",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.067618, -68.890038, 43.868684, 39.701903)",
+  "solr_year_i": 1851
+}

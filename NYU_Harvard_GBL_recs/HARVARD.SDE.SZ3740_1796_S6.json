@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a digitized geo-referenced raster image of a 1796 map of New Hampshire drawn by D.F. Sotzmann. These Sotzmann maps (10 maps of New England and Mid-Atlantic states) typically portray both natural and manmade features. They are highly detailed with symbols for churches, roads, court houses, distilleries, iron works, mills, academies, county lines, town lines, and more. Relief is usually indicated by hachures and country boundaries have also been drawn. Place names are shown in both German and English and each map usually includes an index to land grants. Prime meridians used for this series are Greenwich and Washington, D.C.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE.SZ3740_1796_S6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Land Use",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "Administrative and political divisions"
+  ],
+  "dc_title_s": "New Hampshire, 1796 Raster Image",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "New England"
+  ],
+  "dct_temporal_sm": [
+    "1796"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:SZ3740_1796_S6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-sz3740-1796-s6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.972797, -70.080102, 45.092762, 42.293752)",
+  "solr_year_i": 1796
+}

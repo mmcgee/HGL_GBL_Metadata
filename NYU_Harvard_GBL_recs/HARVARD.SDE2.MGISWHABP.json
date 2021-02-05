@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "The Estimated Habitats of Rare Wildlife datalayer consists of polygons representing estimations of the habitats of Massachusetts state-protected rare wildlife populations that occur in Resource Areas*. (*The definition of \"Resource Area\" (Area Subject to Regulation) is included in the Wetlands Protection Act Regulations (310 CMR 10.02(1)).)  These habitats are based on rare species records maintained in the Natural Heritage   Endangered Species Program's (NHESP) database. Estimated population locations are spatially represented at 1:25,000 or 1:24,000 scale on NHESP's series of USGS topographic maps. NHESP scientists draw estimated habitats by analyzing population records, species habitat requirements, available information about the landscape (particularly from topographic maps and wetland inventory maps), as well as personal observations. Most habitat sites are not visited prior to the drawing of these estimated habitats. Estimated habitats are not equivalent to Resource Area delineation. These estimated habitats are designed for use with the Wetlands Protection Act Regulations (310 CMR 10.00). Projects that are subject to the Wetlands Protection Act and that fall within Estimated Habitats of Rare Wildlife require the filing of a Notice of Intent form with NHESP.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISWHABP",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Habitat (Ecology)",
+    "Wetlands",
+    "Rare animals",
+    "biota",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts NHESP Estimated Habitats of Rare Wildlife (June 1999)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISWHABP",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgiswhabp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.522958, -69.814341, 42.873758, 41.230155)",
+  "solr_year_i": 1999
+}

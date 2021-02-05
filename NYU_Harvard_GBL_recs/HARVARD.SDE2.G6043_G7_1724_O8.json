@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Nouvelle carte du pays de Grisons : avec ses dependances la Valteline, les comtÃ©s de Chiavenne, et Bormio, dressÃ©e sur les observations du Ph. Cluvere geographe, et du Collonel Schmid de Gruenek ; Johannes van Lugtenburg gesneden ; en door Jacob Keyzer gecorrigeert. It was published by R. Ottens in 1724. Scale [ca. 1:260,000]. Covers the Kanton GraubÃ¼nden region of Switzerland and portions of Liechtenstein, Italy, and Austria. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities, towns, villages, and other human settlements, territorial and administrative boundaries, shoreline features, and more. Relief shown pictorially. Includes also  This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6043_G7_1724_O8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "GraubÃ¼nden Region, Switzerland, 1724 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Switzerland",
+    "GraubÃ¼nden, Kanton",
+    "Liechtenstein",
+    "Italy",
+    "Austria"
+  ],
+  "dct_temporal_sm": [
+    "1724"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6043_G7_1724_O8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6043-g7-1724-o8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.155701, 10.778941, 47.356274, 45.841639)",
+  "solr_year_i": 1724
+}

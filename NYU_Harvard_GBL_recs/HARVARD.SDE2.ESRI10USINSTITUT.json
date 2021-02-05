@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "U.S. Institutions represents point locations within the United States for common institution landmark types including hospitals, educational institutions, places of worship, government offices, cemeteries, museums, and libraries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.ESRI10USINSTITUT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hospitals",
+    "Medical centers",
+    "School facilities",
+    "Religious facilities",
+    "Municipal buildings",
+    "Cemeteries",
+    "Public institutions"
+  ],
+  "dc_title_s": "U.S. Institutions : ESRI Data   Maps 2010",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:ESRI10USINSTITUT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-esri10usinstitut",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-166.770911, -65.650222, 71.292682, 17.996208)",
+  "solr_year_i": 2010
+}

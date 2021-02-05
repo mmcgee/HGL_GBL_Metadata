@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This datalayer is a polygon coverage for Massachusetts towns which will display town boundaries and estimated state aid for the forthcoming Fiscal Year. The attribute data in this layer was derived from the Commonwealth of Massachusetts Department of Revenue, Division of Local Services, Municipal Data Bank/ Local Aid Section \"Cherry Sheet\" reports for each respective fiscal year. Named for the cherry colored paper on which it was originally printed, the Cherry Sheet is the official notification by the Commissioner of Revenue to municipalities and regional school districts of estimated state aid to be paid and charges to be assessed over the next fiscal year. Cherry Sheets are usually issued each spring, following enactment by the Legislature of the state budget for the following year. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. For more information on the definitions, data sources and process steps please read the \"Supplemental Information\" and \"Data Quality\" sections which follow. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MEASTAID02",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society",
+    "Government aid to education",
+    "Municipal budgets"
+  ],
+  "dc_title_s": "Massachusetts Estimated State Aid to Municipalities, 2002",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MEASTAID02",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-meastaid02",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.50824, -69.927802, 42.886818, 41.237962)",
+  "solr_year_i": 2002
+}

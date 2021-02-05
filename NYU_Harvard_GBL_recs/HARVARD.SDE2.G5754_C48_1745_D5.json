@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A plan of the castle of Chester : with additional new works errected by order of ... the Earl of Cholmondeley, whereunto is added a project of four bastions in order to defend the antient walls against a regular seige ... by ... Alexander de Lavaux. R. Parr sculp. It was published by Alexander de Lavaux ca. 1745. Scale [ca. 1:300]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows fortification features such as buildings, stables, guard houses, towers, quarters, stairs, gates, parade grounds, arsenals, wells, ground cover, and more. Includes also index. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5754_C48_1745_D5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Fortification",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Chester Castle, Chester, England, ca. 1745 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Chester",
+    "Chester Castle (Chester, England)"
+  ],
+  "dct_temporal_sm": [
+    "1745"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5754_C48_1745_D5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5754-c48-1745-d5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.894798, -2.890079, 53.187509, 53.184334)",
+  "solr_year_i": 1745
+}

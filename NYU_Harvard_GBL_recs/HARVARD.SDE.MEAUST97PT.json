@@ -1,0 +1,39 @@
+{
+  "dc_description_s": "This datalayer is a point coverage displaying Underground Storage Tank Locations throughout Massachusetts. These tanks may store some of the following substances: chemical, diesel, fuel oil, gas(eous), gasoline, glycol, hazardous, kerosene, lubricant, mixture, solid, water. The Underground Storage Tank Locations datalayer (UST) was compiled by the U.S. Environmental Protection Agency through a contract with Camp, Dresser and McKee Federal Systems, Inc. Tabular information on tank sites was obtained from the Massachusetts Department of Public Safety's Division of Fire Protection Tanks database. NOTE: Funding restrictions prevented all sites from being cataloged and included in the original MAssGIS datalayer. The data here were originally produced by MassGIS, then used to creat a layer for the Massachusetts Electronic Atllas (MEA). This layer was then derived from the Massachusetts Electronic Atlas (MEA) which was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library. For more information on the original MassGIS datalayer please consult their website at: http://www.state.ma.us/mgis/ust.htm",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MEAUST97PT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Communication",
+    "Underground storage tanks",
+    "Petroleum products underground storage"
+  ],
+  "dc_title_s": "Massachusetts Underground Storage Tanks, 1997",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MEAUST97PT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-meaust97pt",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.383357, -69.922687, 42.87191, 41.260689)",
+  "solr_year_i": 1997
+}

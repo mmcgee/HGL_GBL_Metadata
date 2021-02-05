@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the boundary lines between the United States and the adjacent British provinces : from the mouth of the river St. Croix to the intersections of the parallel of 45 degrees of north latitude with the river St. Lawrence near St. Regis, shewing the lines as respectively claimed by the United States and Great Britain under the Treaty of 1783, as awarded by the King of the Netherlands, and as settled in 1842 by the Treaty of Washington, compiled by Lieut.T.J. Lee, topl. engineers and W.M.C. Fairfax, civil engr. It was published in Mar. 1843 by the United States House of Representatives. Scale [ca. 1:1,020,000]. Shows in different colors: claimed boundaries of 1783, boundary awarded by the King of the Netherlands, and boundary under the Treaty of 1842. Covers northern Maine and portions of New York, Vermont, New Hampshire, and the provinces of Quebec and New Brunswick, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to Universal Transverse Mercator projection (UTM Zone 19N, meters, NAD 83). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, boundaries between the United States and Canada, and more. Inset: Rouse's Point and its vicinity on Lake Champlain. Scale 1:33,780. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.ME3730_1843_L4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Northeast boundary of the United States",
+    "Boundaries",
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Boundary lines between northern New England states and Canada, 1843 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "New York",
+    "Vermont",
+    "New Hampshire",
+    "Canada",
+    "Quebec",
+    "New Brunswick"
+  ],
+  "dct_temporal_sm": [
+    "1843"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:ME3730_1843_L4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-me3730-1843-l4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-76.792225, -64.501813, 49.779742, 43.18227)",
+  "solr_year_i": 1843
+}

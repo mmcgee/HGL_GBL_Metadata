@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This layer contains arcs representing rivers and streams for the state for Massachusetts. The National Wetlands Inventory (NWI) project, administered by the U.S. Fish and Wildlife Service, was established to generate information about the characteristics, extent and status of the Nation's wetlands and deepwater habitats. This information is used by Federal, State, and local agencies, academic institutions, U.S. Congress, and the private sector. The Emergency Wetland Resources Act of 1986 directs the Service to map the wetlands of the United States. The NWI has mapped 89% of the lower 48 states, and 31% of Alaska. The Act also requires the Service to produce a digital wetlands database for the United States. About 39% of the lower 48 states and 11% of Alaska are digitized. Approximately 50 percent of Massachusetts is available in digital format. For full details on the national mapping project visit the National Wetlands Inventory web site: http://www.fws.govwi/",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISNWIA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Wetlands",
+    "Wetland ecology",
+    "Rivers",
+    "Inland Waters",
+    "environment",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts National Wetlands Inventory (Arcs) (February 2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISNWIA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisnwia",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.53063, -69.895669, 43.002513, 41.231279)",
+  "solr_year_i": 2003
+}

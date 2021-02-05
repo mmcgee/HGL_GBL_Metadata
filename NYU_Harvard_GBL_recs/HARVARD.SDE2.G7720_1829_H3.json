@@ -1,0 +1,48 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Birmah, with part of Anam and Siam, by Sidney Hall. It was printed for Longman, Rees, Orme, Brown and Green in April 1st, 1829. Scale [ca. 1:3,300,000]. Covers Burma and portions of Bangladesh, India, China, Laos, and Thailand.   The image inside the map neatline is georeferenced to the surface of the earth and fit to the Asia North Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7720_1829_H3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Burma Region, 1829 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Burma",
+    "Bangladesh",
+    "China",
+    "India",
+    "Laos",
+    "Thailand"
+  ],
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7720_1829_H3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7720-1829-h3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(88.09165, 106.22479, 28.710121, 10.600649)",
+  "solr_year_i": 1829
+}

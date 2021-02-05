@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart of the world on Mercators projection : exhibiting all the new discoveries to the present time, with the tracks of the most distinguished navigators since the year 1700 carefully collected from the best charts, maps, voyages,  c. extant and regulated from the accurate astronomical observations made in three voyages performed under the command of Captn. James Cook in the years 1768, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79   80, compiled and published by A. Arrowsmith, geographer; by permission of Simon McTavish Esq[r] is correctly delineated the discoveries of Mr. McKenzie laid down from his original journal in the year 1789. It was published by A. Arrowsmith, April 1, 1790. Scale [ca. 1:20,000,000]. This layer is image 2 of 8 total images of the seven sheet source map. Covers portions of Europe, Northern Africa, and Asia. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures. Depths shown by soundings. Includes routes, locations, and dates of James Cook's voyages. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3201_S12_1790_A7_SHEET_2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "World maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Discovery and exploration"
+  ],
+  "dc_title_s": "World Map Showing Routes of Exploration and Discovery, 1790 (Image 2 of 8) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa",
+    "Asia",
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3201_S12_1790_A7_SHEET_2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3201-s12-1790-a7-sheet-2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.484359, 130.218444, 83.208997, -12.162037)",
+  "solr_year_i": 1790
+}

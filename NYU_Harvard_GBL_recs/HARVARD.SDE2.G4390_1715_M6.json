@@ -1,0 +1,77 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A map of the West-Indies or the islands of America in the North Sea : with ye adjacent countries, explaning [sic] what belongs to Spain, England, France, Holland  c. also ye trade winds, and ye several tracts made by ye galeons and flota from place to place : according to ye newest and most exact observations, by Herman Moll, geographer. It was printed for Tho. Bowles in St. Pauls Church Yard and John Bowles at the Black Horse in Cornhill ca. 1715. Scale [ca. 1:4,300,000]. Covers the Gulf of Mexico and Caribbean Sea Region including parts of southern United States, Mexico, Central America, West Indies, and northern South America. The image inside the map neatline is georeferenced to the surface of the earth and fit to the North American Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes also historical notes and insets. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4390_1715_M6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Gulf of Mexico and Caribbean Sea Region, ca. 1715 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Caribbean Sea",
+    "Mexico, Gulf of",
+    "Anguilla",
+    "Antigua and Barbuda",
+    "Bahamas, The",
+    "Barbados",
+    "Belize",
+    "British Virgin Islands",
+    "Cayman Islands",
+    "Colombia",
+    "Costa Rica",
+    "Cuba",
+    "Dominica",
+    "Dominican Republic",
+    "El Salvador",
+    "Grenada",
+    "Guadeloupe",
+    "Guatemala",
+    "Guyana",
+    "Haiti",
+    "Honduras",
+    "Jamaica",
+    "Martinique",
+    "Mexico",
+    "Montserrat",
+    "Nicaragua",
+    "Panama",
+    "Saint Kitts and Nevis",
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Trinidad and Tobago",
+    "United States",
+    "Venezuela",
+    "Virgin Islands",
+    "Caribbean Area"
+  ],
+  "dct_temporal_sm": [
+    "1715"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4390_1715_M6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4390-1715-m6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-110.970346, -41.077419, 43.17616, -5.982724)",
+  "solr_year_i": 1715
+}

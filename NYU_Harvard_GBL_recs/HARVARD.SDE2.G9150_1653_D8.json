@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Les Isles Canariespar P. Du Val d'Abbeville, Geographe Ordinaire du Roy. It was published by chez Pierre Mariette, rue S. Jacque a l'Esperance, avec privilege in 1653. Scale [ca. 1:1,050,000]. Covers the Canary Islands, Spain. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, villages and other human settlements, shoreline features, anchorage points, and more. Relief shown pictorially. Includes also notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9150_1653_D8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Canary Islands, Spain, 1653 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Spain",
+    "Canary Islands"
+  ],
+  "dct_temporal_sm": [
+    "1653"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9150_1653_D8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9150-1653-d8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-19.019328, -12.836314, 31.076256, 26.514468)",
+  "solr_year_i": 1653
+}

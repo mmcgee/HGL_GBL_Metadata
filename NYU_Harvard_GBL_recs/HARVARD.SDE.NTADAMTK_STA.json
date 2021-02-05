@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The Amtrak Stations database is a geographic data set containing Amtrak intercity railroad passenger terminals in the United States and Canada. Attribute data include services and passenger amenities provided at the station.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.NTADAMTK_STA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Terminals (Transportation)",
+    "Transportation",
+    "Railroads",
+    "Amtrak"
+  ],
+  "dc_title_s": "Amtrak Stations",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Canada"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:NTADAMTK_STA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ntadamtk-sta",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-124.213006, -70.278275, 50.331293, 24.552591)",
+  "solr_year_i": 2000
+}

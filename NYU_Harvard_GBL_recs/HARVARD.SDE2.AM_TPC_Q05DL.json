@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the United States Aerospace Center's Tactical Pilotage Chart (TPC) 1:500,000 map series sheet entitled: TPC Q-5D : Lesotho, South Africa. Edition: 1. Revision date: 1985. Printed in: 2000. Covers all or portions of: Lesotho, South Africa. The image inside the map neatline is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. All map collar information is also available as part of the raster image. Series source sheets are of varying revision dates (1973-2001) and editions, published by the U.S. Defense Mapping Agency/U.S. National Imagery and Mapping Agency (later the National Geospatial-Intelligence Agency). Some sheets published by the UK Ministry of Defence (later the Defence Geographic and Imagery Intelligence Agency). The source map was scanned and georeferenced for Harvard University's Center for Geographic Analysis' AfricaMap project by East View Cartographic. Individual TPC sheets covering a large portion of Africa (137 sheets in total) were selected from the worldwide TPC series.  The Tactical Pilotage Chart (TPC) is the standard worldwide medium-scale aeronautical chart series. The TPC and other aeronautical navigation and planning charts provide essential cartographic data appropriate to scale, and are overprinted with stable aeronautical information such as obstructions, aerodromes, special use airspace, navigational aids, Maximum Elevation Figures (MEFs), and related data. TPC's also show selected topographic, cultural and hydrographic features such as: city outlines, towns and villages, rivers, lakes, landmark features (labeled), roads, railroads, towers, transmission lines, other landmarks, vegetation areas, clearings, and more. Ground elevation is indicated by contours (500-foot intervals with intermediate contours shown at 250 feet), shading, tints, and spot heights. Please pay close attention to map collar information for original projection information, keys and legends to grid and chart numbering and other numbers, elevations, aeronautical information, vertical obstacles, ground cover, cultural features, and other data which appear inside the neatline.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.AM_TPC_Q05DL",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Aeronautical charts",
+    "Landforms",
+    "Bodies of water",
+    "Human settlements",
+    "Land use",
+    "Infrastructure"
+  ],
+  "dc_title_s": "Lesotho, South Africa, 1985, Tactical Pilotage Chart (TPC) Q-5D (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Lesotho",
+    "South Africa"
+  ],
+  "dct_temporal_sm": [
+    "1985"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:AM_TPC_Q05DL",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-am-tpc-q05dl",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.986284, 31.636935, -27.728008, -32.535656)",
+  "solr_year_i": 1985
+}

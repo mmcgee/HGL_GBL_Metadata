@@ -1,0 +1,57 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Neue und vollstÃ¤ndige Postkarte durch ganz Deutschland und durch die angrÃ¤nzende Theile der benachbarten LÃ¤nder = Nouvelle carte geographique des postes d'Allemagne et des provinces limitrophes, zusammen getragen und ausgefertiget von Franz Ioseph Heger. It was published by im Verlag bey denen Homaennischen Erben in 1764. Scale [ca. 1:1,500,000]. Covers the Central Europe region. Map in German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, postal roads with distances between towns, territorial and administrative boundaries, shoreline features, and more. Relief shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6081_P2_1764_H4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Postal service",
+    "Post roads",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms"
+  ],
+  "dc_title_s": "Post Roads, Central Europe Region, 1764 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Austria",
+    "Belgium",
+    "Czech Republic",
+    "France",
+    "Germany",
+    "Hungary",
+    "Italy",
+    "Liechtenstein",
+    "Luxembourg",
+    "Netherlands",
+    "Poland",
+    "Slovakia",
+    "Slovenia",
+    "Switzerland",
+    "Europe, Central"
+  ],
+  "dct_temporal_sm": [
+    "1764"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6081_P2_1764_H4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6081-p2-1764-h4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-1.431477, 24.37964, 55.76391, 43.51378)",
+  "solr_year_i": 1764
+}

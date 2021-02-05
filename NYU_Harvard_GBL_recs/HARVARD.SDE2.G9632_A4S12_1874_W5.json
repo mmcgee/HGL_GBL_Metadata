@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de L'ile Ahe, d'aprÃ¨s Wilkes ; gravÃ© par P. MÃ©a. It was published by DÃ©pÃ´t des Cartes et Plans de la Marine in 1874. Scale 1:150,000. Covers Atoll Ahe, Archipel des Tuamotu, French Polynesia. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows shoreline features such as drainage, shoreline features, bays, harbors, inlets, points, rocks, and more. Includes inset: EntrÃ©e du Lagon par M[r]. Lachave, Lieu[t] de Vaisseau assistÃ© de M[r] Besson, Ã©lÃ¨ve. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9632_A4S12_1874_W5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Islands",
+    "Coral reefs and islands",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Atoll Ahe, French Polynesia, 1874 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "French Polynesia",
+    "Tuamotu, Archipel des",
+    "Ahe, Atoll"
+  ],
+  "dct_temporal_sm": [
+    "1874"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9632_A4S12_1874_W5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9632-a4s12-1874-w5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-146.540777, -146.074889, -14.316746, -14.819241)",
+  "solr_year_i": 1874
+}

@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: The Union News Company's indexed map of the World's Columbian exposition at Chicago, 1893. It was published  in 1893. Scale [1:7,000]. Covers the Exposition grounds, now Jackson Park and Midway Plaisance. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Illinois East State Plane Coordinate System NAD83 (in Feet) (Fipszone 1201). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, cable and electric car lines, drainage, lagoons and ponds, buildings, paths, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4104_C6_2W95_1893_U5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Exhibitions",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "World's Columbian Exposition, Chicago, Illinois, 1893 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Chicago",
+    "Jackson Park",
+    "Midway Plaisance"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4104_C6_2W95_1893_U5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4104-c6-2w95-1893-u5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-87.608633, -87.565368, 41.795546, 41.771197)",
+  "solr_year_i": 1893
+}

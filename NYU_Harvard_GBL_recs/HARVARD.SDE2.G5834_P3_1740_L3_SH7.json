@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Environs de Paris : levÃ©s geometriquement par M. l'AbbÃ© de la Grive de la SocietÃ© Roiale de Londres   geographe de la Ville de Paris. It was published by De l'imprimerie de Charbonnier, rue S. Jacques au Chariot d'or in [1740]. Scale [ca. 1:18,500]. Covers Paris, France region. This layer is image 7 of 9 total images, representing the northwestern portion of the nine sheet source map, VII feuille. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortification, ground cover, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5834_P3_1740_L3_SH7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Paris region, France, 1740 (Image 7 of 9) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Paris"
+  ],
+  "dct_temporal_sm": [
+    "1740"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5834_P3_1740_L3_SH7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5834-p3-1740-l3-sh7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.019014, 2.252649, 49.005594, 48.893173)",
+  "solr_year_i": 1740
+}

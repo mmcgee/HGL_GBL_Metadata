@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "Landslides triggered by Hurricane Mitch for the Berlin region, El Salvador. This cover contains the outlines of landslides and debris flows caused by heavy rainfall associated with Hurricane Mitch in October-November 1998. The landslides and debris flows shown in this coverage were mapped using 1:40,000-scale and 1:15,000-scale black-and-white aerial photographs. Much of the photography was taken a few months after the storm, but additional photography was taken in late 2000. The photographs were visually examined using 4-X mirror stereoscopes, and the landslides were plotted by hand on mylar overlays that were registered to topographic maps. The landslides were plotted on 1:25,000-scale maps where these high-quality maps were available; for other parts of the country, the landslides were plotted on 1:50,000-scale maps. The plotted landslides were then manually digitized and registered to digital raster graphic (DRG) images of 1:50,000-scale topographic maps. Some of the areas in this coverage are composites of parts of two or more 1:50,000-scale quadrangles. To produce these composites, the edges of adjoining quadrangles had to be digitally adjusted in ArcInfo to assure continuity between adjacent maps. These adjustments were also necessary to resolve differences in the resolution between 1:50,000-scale and 1:25,000-scale topographic maps. After these adjustments, the areas of each plate were cut from merged DRGs and the digital landslides were then plotted on the DRG images of the map areas. The cover portrays the shapes, relative location, and size of landslides and the associated downslope channel deposits caused by the hurricane. For those features that were originally mapped on 1:25,000-scale topographic maps, we estimate that their locations are accurate to within less than 100 m and probably to within 50m. For features that were originally mapped on 1:50,000-scale topographic maps, their locations are probably accurate to within 100-200m. Hurricane Mitch devastated Central America during the months of October- November of 1998. From 1998 to 2001 the US Geological Survey was involved along with other federal agencies in the reconstruction effort. The source CD consists of a compilation of GIS data layers and computer applications focused on hazard prevention and useful in municipal planning. Each dataset includes layers for a base area of one hundred square kilometers around the urban center of each municipality in the Hurricane Mitch project.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.USGS_ES_BERLIN_ELSMITCH",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Landslides",
+    "Debris avalanches",
+    "Earthflows"
+  ],
+  "dc_title_s": "Landslides Triggered by Hurricane Mitch, Berlin Region, El Salvador, 2001",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "El Salvador",
+    "Usulutan, Departamento de",
+    "Berlin"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:USGS_ES_BERLIN_ELSMITCH",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-usgs-es-berlin-elsmitch",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-88.526418, -88.493859, 13.496835, 13.464831)",
+  "solr_year_i": 2002
+}

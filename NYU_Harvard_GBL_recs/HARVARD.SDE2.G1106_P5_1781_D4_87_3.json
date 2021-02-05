@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic map entitled: A plan of the town of Newport in the province of Rhode Island (sheet originally published in 1776). The map is [sheet 11] from the Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England, from surveys taken by Samuel Holland and published by J.F.W. Des Barres, 1781. Scale [ca. 1:6,400]. The image is georeferenced to the surface of the earth and fit to the 'World Mercator' (WGS 84) projected coordinate system. All map collar information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, public buildings, churches, wharves, American Revolution military defenses and structures, drainage, and more. Relief shown by hachures. Indexed for street names and points of interest. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection. The entire Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England has been scanned and georeferenced as part of this selection.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G1106_P5_1781_D4_87_3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "United States History Revolution, 1775-1783",
+    "Fortification",
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Newport, Rhode Island, 1776 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island",
+    "Newport"
+  ],
+  "dct_temporal_sm": [
+    "1776"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G1106_P5_1781_D4_87_3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g1106-p5-1781-d4-87-3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.364149, -71.293795, 41.509525, 41.465755)",
+  "solr_year_i": 1776
+}

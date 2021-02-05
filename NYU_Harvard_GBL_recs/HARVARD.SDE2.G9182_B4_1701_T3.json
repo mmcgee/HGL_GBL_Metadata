@@ -1,0 +1,54 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte marine, depuis Suratte jusqu'au detroit de Malaca : les plans de l'EntrÃ©e de Goa du port de Merguy et du port de Negrailles y sont exactement marques ; avec les routes que ce R. P. a fait dans ces mers en diferens temps, et les sondes des costes et ports qu'il a reconnus ; avec Privilege du Roy, dressÃ©e par le R. P. Tachard de la Compagnie de Jesus. It was published by Chez I. B. Nolin, GÃ©ographer du Roy in 1701. Scale [ca. 1:5,100,000]. Covers the Bay of Bengal region and the southern coast of Asia from Surat, India to the Gulf of Thailand, including Sri Lanka, Maldives, and a portion of Indonesia. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as rocks, channels, points, ports, coves, islands, shoals, anchorage points, and more. Includes also selected land features such as towns and villages, drainage, and more. Shows also voyage routes of Guy Tachard. Includes also three insets: Plan de L'entrÃ©e de Goa -- Plan du port de Negrailles -- EntrÃ©e du port de Mergui. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9182_B4_1701_T3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms"
+  ],
+  "dc_title_s": "Coasts, Bay of Bengal   South Asia Region, 1701 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Bengal, Bay of",
+    "Bangladesh",
+    "Burma",
+    "Cambodia",
+    "India",
+    "Indonesia",
+    "Maldives",
+    "Malaysia",
+    "Sri Lanka",
+    "Thailand",
+    "South Asia",
+    "Southeast Asia"
+  ],
+  "dct_temporal_sm": [
+    "1701"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9182_B4_1701_T3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9182-b4-1701-t3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(68.462967, 106.526017, 25.04418, -1.021665)",
+  "solr_year_i": 1701
+}

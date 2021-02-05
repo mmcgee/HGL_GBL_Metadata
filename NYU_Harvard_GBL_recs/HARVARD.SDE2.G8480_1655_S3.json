@@ -1,0 +1,77 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Basse Aethiopie, qui comprend les Royaume de Congo, coste, et pays des Cafres, empires du Monomatapa, Monoemugi : la coste deÃ§a le Cap Negre est tirÃ©e en partie de Samuel Blommaert ; en dela, avecq l'Isle de Madagascar, de Sanuto ; le dedans du pays, d'autres, par N. Sanson. I. Somer Pruthenus Sculp. It was published by Chez Pierre Mariette in 1655. Scale [ca. 1:11,250,000]. Covers portions of Southern, Central, and Eastern Africa. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8480_1655_S3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Southern, Central,   Eastern Africa, 1655 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Angola",
+    "Botswana",
+    "Burundi",
+    "Cameroon",
+    "Central Africian Republic",
+    "Comoros",
+    "Congo, Democratic Republic of the",
+    "Congo, Republic of the",
+    "Equatorial Guinea",
+    "Ethiopia",
+    "Gabon",
+    "Glorioso Islands",
+    "Juan de Nova Island",
+    "Kenya",
+    "Lesotho",
+    "Madagascar",
+    "Malawi",
+    "Mayotte",
+    "Mozambique",
+    "Namibia",
+    "Nigeria",
+    "Rwanda",
+    "Sao Tome and Principe",
+    "Seychelles",
+    "Somalia",
+    "South Africa",
+    "Sudan",
+    "Swaziland",
+    "Uganda",
+    "Tanzania",
+    "Zambia",
+    "Zimbabwe",
+    "Africa, Southern",
+    "Africa, Central",
+    "Africa, Eastern"
+  ],
+  "dct_temporal_sm": [
+    "1655"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8480_1655_S3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8480-1655-s3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.800432, 67.693086, 8.003977, -39.321315)",
+  "solr_year_i": 1655
+}

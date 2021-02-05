@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "Land cover : land surfaces for the Managua region, Nicaragua. This layer was vectorized from original hard copy 1:50,000 topographic maps produced by the Instituto Geogra?fico Nacional, Nicaragua. Hurricane Mitch devastated Central America during the months of October-November of 1998. From 1998 to 2001 the US Geological Survey was involved along with other federal agencies in the reconstruction effort. The source CD consists of a compilation of GIS data layers and computer applications focused on hazard prevention and useful in municipal planning. Each dataset includes layers for a base area around the urban center of each municipality in the Hurricane Mitch project.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.USGS_NU_MANAGUA_LCA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Landforms",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Land Cover : Land Surfaces, Managua Region, Nicaragua, 2001",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Nicaragua",
+    "Managua, Departamento de",
+    "Masaya, Departamento de",
+    "Managua"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:USGS_NU_MANAGUA_LCA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-usgs-nu-managua-lca",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-86.183528, -86.139852, 12.099703, 12.001103)",
+  "solr_year_i": 2001
+}

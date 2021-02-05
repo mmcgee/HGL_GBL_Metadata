@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This point datalayer represents major highway exit locations for the state of Massachusetts. It was produced by the Massachusetts Highway Department (MHD). Feature attributes include the exit number and the highway route number associated with each exit.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISEXITSX2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Roads",
+    "Express highway interchanges",
+    "Express highways",
+    "Transportation"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts MHD Highway Exit Locations (December 2002)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISEXITSX2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisexitsx2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.382146, -69.958263, 42.875192, 41.622719)",
+  "solr_year_i": 2002
+}

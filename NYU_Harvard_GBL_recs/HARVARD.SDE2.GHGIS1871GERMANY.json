@@ -1,0 +1,53 @@
+{
+  "dc_description_s": "In the wake of the Franco-Prussian War of 1870/71 the German Empire (Deutsches Reich) was founded in 1871. It is a more centralized federated state, although its 25 founding member states still hold important sovereign rights. For example, passports are still issued by the authorities in the various states, which led to the fact that German immigrants to America were still counted under the rubric of the member states (i.e., Bavaria, Prussia, etc.) rather than as \"German citizens\". Alsace-Lorraine was annexed from France in 1871, receiving the status of a Federal Territory (Reichsland) and administered directly from Berlin, the Imperial (and Prussian) capital. The external boundaries of the Empire remain stable until 1914 with the exception of 1890, when the North Sea island of Heligoland is ceded to Germany by Britain. The dataset includes the external boundaries of the Empire as a separate layer.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1871GERMANY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "German states",
+    "Population Statistics"
+  ],
+  "dc_title_s": "Germany State Boundaries, 1871, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "France",
+    "Lithuania",
+    "Luxembourg"
+  ],
+  "dct_temporal_sm": [
+    "1871"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GHGIS1871GERMANY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1871germany",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.490331, 23.157687, 56.025202, 47.03629)",
+  "solr_year_i": 1871
+}

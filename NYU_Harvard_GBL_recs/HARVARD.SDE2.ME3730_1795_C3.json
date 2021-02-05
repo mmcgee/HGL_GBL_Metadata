@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A map of the district of Maine : drawn from the latest surveys and other best authorities, by Osgood Carleton. It was published in 1795 by Thomas   Andrews in Judge Sullivan's History of the district of Maine. Scale [ca. 1:1,170,000]. Covers also portions of Quebec and New Brunswick, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to Universal Transverse Mercator projection (UTM Zone 19N, meters, NAD 83). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as cities and towns, drainage, land grant, town, county, state, and national boundaries and more. Relief is shown by hachures. Inset: [Southeastern Maine]. Scale [ca. 1:337,920]. Includes references to land grants. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.ME3730_1795_C3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages"
+  ],
+  "dc_title_s": "Maine, 1795 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Canada",
+    "Quebec",
+    "New Brunswick"
+  ],
+  "dct_temporal_sm": [
+    "1795"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:ME3730_1795_C3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-me3730-1795-c3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.542004, -63.691111, 49.236627, 42.218721)",
+  "solr_year_i": 1795
+}

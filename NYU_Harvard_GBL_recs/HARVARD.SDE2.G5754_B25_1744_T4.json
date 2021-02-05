@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: An actual survey of the city of Bath, in the county of Somerset, and of five miles round : wherein are laid down all the villages, gentlemen's seats, farm houses, roads, high-ways, rivers, water courses,   all things worthy of observation, survey'd by Tho. Thorpe in the year 1742 ; engrav'd by James Cole. It was published by Thomas Thorpe, and Mr. Leake   Mr. Frederick Booksellers in 1743/4 [i.e. 1744]. Scale [ca. 1:16,300]. Covers the Bath Region, England. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, selected names of landowners, ground cover, parks, and more. Relief shown by hachures. Includes also index and a list of subscribers. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5754_B25_1744_T4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Bath Region, England, 1744 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Bath"
+  ],
+  "dct_temporal_sm": [
+    "1744"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5754_B25_1744_T4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5754-b25-1744-t4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-2.508106, -2.215391, 51.472732, 51.292202)",
+  "solr_year_i": 1744
+}

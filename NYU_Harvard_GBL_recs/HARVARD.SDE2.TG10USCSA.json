@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This polygon data layer represents the 2010 TIGER/Line Census combined statistical areas for the United States. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Combined Statistical Areas (CSAs) are defined by the Office of Management and Budget (OMB) and consist of two or more adjacent Core Based Statistical Areas (CBSAs) that have significant employment interchanges. The CBSAs that combine to create a CSA retain separate identities within the larger CSAs. Because CSAs represent groupings of CBSAs, they should not be ranked or compared with individual CBSAs.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.TG10USCSA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Administrative and political divisions",
+    "Boundaries",
+    "Nation",
+    "Combined Statistical Area"
+  ],
+  "dc_title_s": "Combined Statistical Areas (CSA) United States 2010",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "United States",
+    "U.S."
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG10USCSA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg10uscsa",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.231086, 179.859681, 71.441059, 17.831509)",
+  "solr_year_i": 2010
+}

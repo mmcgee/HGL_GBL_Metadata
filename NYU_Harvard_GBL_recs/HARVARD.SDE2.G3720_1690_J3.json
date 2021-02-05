@@ -1,0 +1,60 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Belgii novi, angliae novae, et partis Virginiae : novissima delineatio. It was published by Petrum Schenk and Gerardum Valk, ca. 1690. Scale [ca. 1:2,450,000]. Covers the northeast Atlantic States from Maine to Virginia, and a portion of Canada. In Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Mercator (world) projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as human settlements, forts, Native American tribal lands, drainage, territory boundaries, shoreline features, and more. Relief is shown pictorially. Includes illustrations and decorative cartouches. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3720_1690_J3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "New England and Middle Atlantic States, ca. 1690 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Vermont",
+    "New Hampshire",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "Pennsylvania",
+    "New Jersey",
+    "Delaware",
+    "Maryland",
+    "District of Columbia",
+    "Virginia",
+    "Canada",
+    "Ontario",
+    "Quebec",
+    "New England",
+    "Middle Atlantic States"
+  ],
+  "dct_temporal_sm": [
+    "1690"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3720_1690_J3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3720-1690-j3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.857253, -65.331884, 47.683682, 34.923519)",
+  "solr_year_i": 1690
+}

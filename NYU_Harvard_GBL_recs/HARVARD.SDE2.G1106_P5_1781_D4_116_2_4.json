@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the untitled, historic nautical chart: [A chart of the Island of Grand Manan, Passamaquody Bay   River]. The map is [sheet 50] from the Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England, from surveys taken by Samuel Holland and published by J.F.W. Des Barres, 1781. Scale [ca. 1:50,000]. This layer is image 4 of 4 total images of the four sheet source map, representing the northeast portion of the map. Covers Cobscook Bay, Maine, Passamaquoddy Bay, and Saint Croix River, Maine and New Brunswick, Canada. The image is georeferenced to the surface of the earth and fit to the 'World Mercator' (WGS 84) projected coordinate system. All map collar information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as cities and towns, buildings. Depths shown by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection. The entire Atlantic Neptune atlas Vol. 3 : Charts of the coast and harbors of New England has been scanned and georeferenced as part of this selection.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G1106_P5_1781_D4_116_2_4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements"
+  ],
+  "dc_title_s": "Grand Manan Island, New Brunswick, Passamaquoddy Bay, Maine and Saint Croix River, Nautical Chart, 1781 (Image 4 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "Maine",
+    "Cobscook Bay",
+    "Saint Croix River",
+    "Passamaquoddy Bay",
+    "Canada",
+    "New Brunswick"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G1106_P5_1781_D4_116_2_4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g1106-p5-1781-d4-116-2-4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.261414, -66.827347, 45.204304, 44.795454)",
+  "solr_year_i": 1781
+}

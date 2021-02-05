@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Topographical map of the city of Providence showing proposed sewerage system together with sewers already constructed, compiled in the City Engineers Office. It was published Oct. 24, 1884 by the City Engineers Office, Sewer Dept. Scale [ca. 1:20,000]. Covers the city of Providence, Rhode Island and portions of the surrounding towns/cities. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Rhode Island State Plane Coordinate System (Feet) (FIPS 3800). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, topography, drainage, selected buildings, constructed and proposed sewer lines, town boundaries, city districts, and more. Relief shown by contours. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3774_P9N46_1884_P7_C2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Topographic",
+    "Sewerage",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Providence, Rhode Island, -- Sewers, 1884 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island",
+    "Providence",
+    "Pawtucket",
+    "North Providence",
+    "Johnston",
+    "Cranston",
+    "East Providence"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3774_P9N46_1884_P7_C2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3774-p9n46-1884-p7-c2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.487697, -71.363183, 41.874529, 41.770227)",
+  "solr_year_i": 1884
+}

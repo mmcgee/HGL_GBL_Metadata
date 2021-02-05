@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This datalayer displays the Public Use Microdata Areas (PUMAs) for the state. A public use microdata area is a decennial census area for which the U.S. Census Bureau provides selected extracts of raw data from a small sample of long-form census records that are screened to protect confidentiality. These extracts are referred to as Public Use Microdata Sample (PUMS) files. Since 1960, data users have been using these files to create their own statistical tabulations and data summaries. For Census 2000, state, District of Columbia, and Puerto Rico participants, following U.S. Census Bureau criteria, delineated two types of PUMAs within their states or statistically equivalent entity. PUMAs of one type comprise areas that contain at least 100,000 people. The PUMS files for these PUMAs contain a 5-percent sample of the long-form records. The other type of PUMAs, super-PUMAs, comprise areas of at least 400,000 people. The sample size is 1-percent for the PUMS files for super-PUMAs. PUMAs cannot be in more than one state or statistically equivalent entity. The larger 1-percent PUMAs are aggregations of the smaller 5-percent PUMAs. The UA Census 2000 TIGER/Line files contain a Public Use Microdata Area File, 2000 field containing the PUMA codes from the 5- percent sample.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG00NCPUMA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Census districts",
+    "Statistics",
+    "Boundaries",
+    "Public use microdata areas"
+  ],
+  "dc_title_s": "UA Census Public Use Microdata Areas, 2000 - North Carolina",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG00NCPUMA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg00ncpuma",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-84.321869, -75.4599769996997, 36.588117, 33.834364)",
+  "solr_year_i": 2000
+}

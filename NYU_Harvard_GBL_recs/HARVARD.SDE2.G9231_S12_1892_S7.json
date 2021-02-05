@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Streams, currents and drifts in the Pacific Ocean : mainly from the British Admirality chart No. 2640. It was published by the Hydrographic Office in 1892. Scale [ca. 1:33,000,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'Mercator' projection with the central meridian at 180 degrees west. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. Note: The central meridian of this map is not the same as the Prime Meridian and may wrap the International Date Line or overlap itself when displayed in GIS software. This map shows features such as ocean currents, drainage, cities and other human settlements, shoreline features, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9231_S12_1892_S7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Ocean currents",
+    "Human settlements",
+    "Cities and towns",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Pacific Ocean, Currents, 1892 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Pacific Ocean",
+    "Asia",
+    "Australia",
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1892"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9231_S12_1892_S7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9231-s12-1892-s7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 72.890281, -62.155661)",
+  "solr_year_i": 1892
+}

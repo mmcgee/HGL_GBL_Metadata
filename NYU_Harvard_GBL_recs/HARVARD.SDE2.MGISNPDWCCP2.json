@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This datalayer contains polygons representing Non-Potential Drinking Water Source Areas (NPDWSA) for Cape Cod, Martha's Vineyard, Nantucket, and the Elizabeth Islands, Massachusetts.  For the purpose of identifying areas in which clean up of hazardous waste sites must meet drinking water standards, as defined in the Massachusetts Contingency Plan (MCP) (310 CMR 40.0000), the DEP has coded polygons within the aquifer coverage to identify \"Non Potential Drinking Water Source Areas\" (NPDWSAs). NPDWSAs include any Potentially Productive Aquifer or portion thereof which underlies land areas of at least 100 acres developed for one or more of the following uses as of January 1, 1996: Industry; Commerce; Dense residential development and associated uses; Transportation; or Urban open space; and those portions of Potentially Productive Aquifers that underlie US Census block groups with population densities of greater than 4,400 persons/square mile. Polygons for which the item NPDWSA = 1 are designated as NPDWSAs; those coded 0 for NPDWSA are not designated as NPDWSAs. As defined in the MCP, a Potentially Productive Aquifer means all aquifers delineated by the USGS as high or medium yield, and all aquifers located east of the Cape Cod Canal (Cape Cod), on the Elizabeth Islands, on Martha's Vineyard, or on Nantucket. NPDWSA polygons were delineated by the DEP based on land use information in the MassGIS land use coverage and population density data from the 1990 US Census. Municipalities were given the opportunity to review the DEP's delineation of NPDWSAs prior to the September 1996 promulgation of the current MCP groundwater clean up regulations. The delineation of NPDWSAs may reflect additional land use information provided by municipalities.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISNPDWCCP2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Drinking water",
+    "Groundwater",
+    "Water-supply",
+    "Inland Waters",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Cape Cod Non-potential Drinking Water Source Areas (March 1997)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cape Cod",
+    "Nantucket",
+    "Martha's Vineyard",
+    "Elizabeth Islands"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISNPDWCCP2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisnpdwccp2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-70.952426, -69.918693, 42.088469, 41.240403)",
+  "solr_year_i": 1997
+}

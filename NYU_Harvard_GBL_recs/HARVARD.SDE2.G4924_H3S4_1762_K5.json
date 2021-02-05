@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A plan of the Havana and its environs : with several posts and attacks made by the British forces under the command of the Earl of Albemarle and Sr. Geo. Pocock which was taken 13 Aug. 1762, Ths. Kitchin sculpt. engraver to H.R.H. the Duke of York. It was published by J. Boydell engraver in Cheapside   R. Willcock bookseller in Cornhill, Novr. 1st 1762. Scale [ca. 1:24,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'NAD 1927 Cuba Norte' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features associated with the British Siege of Havana, 1762, such as roads, drainage, built-up areas and selected buildings, fortifications, lines of fire, troop placement, ship locations, ground cover, and more. Relief is shown by hachures; Depths are shown by soundings. Includes indexes for: References to the Moro -- Attack on the Moro -- References to the Town and Harbour -- Attack on the Town and Defences of that Side. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4924_H3S4_1762_K5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Havana, Cuba, 1762 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Cuba",
+    "Havana",
+    "La Habana, BahÃ­a de"
+  ],
+  "dct_temporal_sm": [
+    "1762"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4924_H3S4_1762_K5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4924-h3s4-1762-k5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-82.451504, -82.214597, 23.19793, 23.067989)",
+  "solr_year_i": 1762
+}

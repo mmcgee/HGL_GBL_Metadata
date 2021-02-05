@@ -1,0 +1,53 @@
+{
+  "dc_description_s": "This shapefile includes arcs and polygons that describe U.S. Geological Survey defined geologic provinces of the World. Each province has a set of geologic characteristics distinguishing it from surrounding provinces. These characteristics may include the dominant lithologies, the age of the strata, and the structural style. Some provinces include multiple genetically-related basins. Offshore province boundaries are generally defined by the 2000 meter bathymetric contour, but where appropriate are defined by the 4000 meter bathymetric contour. In some cases province boundaries are delineated by political boundaries, as in the case of The United States and Canada, because United States petroleum resources were assessed separately by the U.S. Geological Survey. Provinces are classified as either Priority or Boutique. A priority province is one of 76 non-U.S. geologic provinces defined by the U.S. Geological Survey that together contain 95 percent of the world's non-U.S. known petroleum volume. All priority provinces were analyzed for undiscovered petroleum-resources. A boutique province is a geologic province, other than a priority province, as defined by the U.S. Geological Survey, considered for petroleum-resource assessment. Boutique provinces can be chosen for a variety of geologic, political, technical and geographic reasons. Resource-assessments are conducted by scientists of the U.S Geological Survey's World Petroleum Assessment 2000 by means of a combination of Petroleum System analysis based on available geologic information, and statistical analysis of production and exploration information. Total petroleum systems are defined in provinces considered for assessment analysis. Total petroleum systems are subdivided into Assessment Units. Assessment results from the analysis of assessment units and total petroleum systems are aggregated and allocated to geologic provinces. Summary results are presented as attributes of this coverage. [Abstract information provided by the USGS metadata record for this dataset]",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_GEOPROV",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Physiographic provinces",
+    "Petroleum",
+    "Petroleum reserves",
+    "Natural gas",
+    "Natural gas reserves",
+    "Mines and mineral resources",
+    "Geology"
+  ],
+  "dc_title_s": "Global GIS : geologic provinces of the world",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GLB_GEOPROV",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-geoprov",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.999434, 179.999893, 89.999481, -89.999423)",
+  "solr_year_i": 2000
+}

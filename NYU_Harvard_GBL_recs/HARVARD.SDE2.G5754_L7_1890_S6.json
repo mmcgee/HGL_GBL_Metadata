@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Environs of London. It was published by W.H. Smith   Son ca. 1890. Scale [1:63,360]. Covers London and portions of the counties of Buckinghamshire, Oxfordshire, Hertfordshire, Essex, Kent, Surrey, and Berkshire. The image inside the map neatline is georeferenced to the surface of the earth and fit to the British National Grid coordinate system (British National Grid, Airy Spheroid OSGB (1936) Datum). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, ground cover, built-up areas, selected buildings, parks, cemeteries, towns, villlages, union and county boundaries, and more. Relief is shown by hachures. Includes legend. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5754_L7_1890_S6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "London, England and vicinity, 1890 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "London",
+    "Berkshire",
+    "Buckinghamshire",
+    "Essex",
+    "Hertfordshire",
+    "Kent",
+    "Oxfordshire"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5754_L7_1890_S6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5754-l7-1890-s6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.668816, 0.19508, 51.738552, 51.272263)",
+  "solr_year_i": 1890
+}

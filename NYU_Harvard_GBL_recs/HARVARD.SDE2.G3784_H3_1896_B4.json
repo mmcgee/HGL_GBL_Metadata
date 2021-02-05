@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: New map of Hartford, Connecticut : from the latest surveys. It was published by Belknap   Warfield, 1896. Copyright 1896, by L.J. Richards   Co., Springfield, Mass. Scale [ca. 1:12,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Connecticut State Plane Coordinate System (Feet) (FIPS 0600). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected public buildings, cemeteries, parks, fire alarm boxes, police patrol locations, city ward boundaries, radial distances from City Hall, and more. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3784_H3_1896_B4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions"
+  ],
+  "dc_title_s": "Hartford, Connecticut, 1896 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "Hartford"
+  ],
+  "dct_temporal_sm": [
+    "1896"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3784_H3_1896_B4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3784-h3-1896-b4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.72353, -72.636569, 41.813315, 41.719188)",
+  "solr_year_i": 1896
+}

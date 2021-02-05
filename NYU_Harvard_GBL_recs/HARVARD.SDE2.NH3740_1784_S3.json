@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: An accurate map of the State and Province of New-Hampshire in New England : taken from actual surveys of all the inhabited part, and from the best information of what is uninhabited, together with the adjacent countries, which exhibits the theatre of this war in that part of the world, by Col. Blanchard and the Revd. Mr. Langdon ; engraved by Thomas Jefferys ; with many additions by Abel Sawyer. It was published in 1784. Scale [ca. 1:633,600]. Covers New Hampshire, Vermont, and portions of Maine, Massachusetts, New York, and the Province of Quebec, Canada.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the New Hampshire State Plane Coordinate System (Feet) (FIPS 2800). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, national, state, county and town boundaries, military forts, churches, and more. Relief shown pictorially. Includes inscription to \"John Hancock, Esqr. Gov.,\" text, and inset of \"A general map of the River St. Lawrence above Montreal to Lake Ontario, with the adjacent country on the west from Albany   Lake Champlain,\" [ca. 1:2,340,000]. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.NH3740_1784_S3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions"
+  ],
+  "dc_title_s": "New Hampshire and Vermont, 1784 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Hampshire",
+    "Vermont",
+    "Maine",
+    "Massachusetts",
+    "New York",
+    "Canada",
+    "Quebec"
+  ],
+  "dct_temporal_sm": [
+    "1784"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:NH3740_1784_S3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-nh3740-1784-s3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-74.620421, -67.796275, 47.165303, 42.095152)",
+  "solr_year_i": 1784
+}

@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Le DuchÃ© de Luxembourg divisÃ© en Quartier Walon, et Allemand : dans chacun desquels sont divisÃ©z, les Seigneuries, PrevostÃ©s et ComtÃ©s. Le DuchÃ© de Bouillon ; le ComtÃ© de Namur et le Pays entre Sambre et Meuse, DediÃ© au Roy par son tres-humble, tres-obeissant, tres-fidele sujet et serviteur Hubert Jaillot, Geographe du Roy. It was published by chez l'auteur, joignant les grands Augustins, aux deux Globes, avec privilÃ©ge du roy in 1705. Scale [ca. 1:143,370]. Covers Luxembourg and portions of Belgium, Germany, and France. This layer is image 2 of 4 total images of the four sheet source map, representing the northeast portion of the map. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, cities and other human settlements, fortifications, territorial and administrative boundaries, ground cover, and more. Relief shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6020_1705_J3_SHEET2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Luxembourg and Portions of Belgium, Germany, and France, 1705 (Image 2 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Luxembourg",
+    "Belgium",
+    "France",
+    "Germany"
+  ],
+  "dct_temporal_sm": [
+    "1705"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6020_1705_J3_SHEET2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6020-1705-j3-sheet2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(5.631976, 7.177946, 50.790551, 49.772991)",
+  "solr_year_i": 1705
+}

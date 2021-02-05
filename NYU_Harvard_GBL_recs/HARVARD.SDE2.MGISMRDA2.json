@@ -1,0 +1,39 @@
+{
+  "dc_description_s": "This datalayer represents linework from the USGS 1:100,000 Roads Digital Line Graphs (DLGs)  with additional linework from the Massachusetts Highway Department (MHD). Many of the new roads were provided to MHD by municipalities on various town-scale maps. Also, MHD made edits to existing DLG features, in many cases using the MassGIS 1:5,000 digital orthophotography as a backdrop to better spatially position the linework. In addition, this layer includes extensive attribute information maintained by the MHD which has been linked to all features. The layer is up-to-date through 2001. By late 2003 the linework in this datalayer will be replaced with 1:5,000 Road Centerlines that were interpreted as part of the Digital Orthophoto development project. The MHD inventory and street attribute data will then be attached (conflated) to the larger-scale mapping.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISMRDA2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Roads",
+    "Transportation"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Highway Department Roads (December 2002)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISMRDA2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgismrda2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.521297, -69.909337, 42.88831, 41.231483)",
+  "solr_year_i": 2001
+}

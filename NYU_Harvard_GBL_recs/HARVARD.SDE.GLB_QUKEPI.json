@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This datalayer is a point coverage representing earthquake epicenters (1973 through March, 2003). Historical data for this layer were derived from: USGS/NEIC, 1973- March 2003: (PDE) Preliminary Determinations of Epicenters, Monthly Listing. This list is the most complete computation of hypocenters and magnitudes done by the USGS NEIC. It is normally produced a few months after the events occur. The publication is called \"Preliminary\" because the \"final\" computation of hypocenters for the world is considered to be the Bulletin of the Internation Seismological Centre (ISC), which is produced about two years after the earthquakes occur. The NEIC PDE program contributes about one-third off all data used by the ISC.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_QUKEPI",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Earthquakes",
+    "Seismic event Location",
+    "Seismology"
+  ],
+  "dc_title_s": "Global GIS : Earthquake epicenters (1973-2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:GLB_QUKEPI",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-qukepi",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 87.22, -82.06)",
+  "solr_year_i": 1973
+}

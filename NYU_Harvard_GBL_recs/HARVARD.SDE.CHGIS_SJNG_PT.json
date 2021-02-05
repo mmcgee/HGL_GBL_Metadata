@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This datalayer contains point features which represent the county seats of  the Songjiang area of China. Songjiang is the name of the Prefecture which roughly overlies contemporary Shanghai City. There are two layers, one which contains the county seat (points) and the other county boundaries (polygons) that were within the jurisdiction of Songjiang, from it's founding in the 8th Century CE until 1911 CE. These layers are from the CHGIS Version 2 Time Series dataset. Time Series Data refers to GIS layers that contain many instances of spatial objects as they changed over time. Therefore, when spatial changes occurred to an object, both the previous and subsequent objects are included. Visually, this results in many overlapping objects, or \"spaghetti,\" as it is referred to in GIS terms. For example, looking at two adjacent prefecture boundaries, let us presume that from Time 1 to Time 2 a certain boundary was valid. But at Time 3 a boundary change occurred. Because the boundary is shared by both the adjacent areas, it means that new objects are created for both areas. Therefore, instead of two objects we would have four objects. The changed portion of the boundary would show up as a distinct line, while the unchanged portion of the boundary would overlap the previous version. When dealing with Time Series Data it is necessary to keep in mind the visual ambiguity of the temporally distinct spatial objects, or \"historical instances,\" which are all stored in a single GIS layer. It is necessary to do a selection of the objects by a particular year, in order to see the equivalent of a Time Slice. Time Slice Data refers to GIS layers that contain spatial objects representing a single year, or \"slice in time.\" All of the 1820 and 1911 layers fall into this category. When working with time slice data, all of the spatial objects are represented as the documentation indicates they existed for a particular year. Therefore two adjacent areas, such as two prefectures, would share a boundary, and by means of visual exploration of the data it is easy to distinguish one from the other. For more information on Time Slice and Time Series data, please access the \"HOW TO\" link at the following CHGIS website: http://www.fas.harvard.edu/~chgis/data/chgis/downloads/v2/  The CHGIS will establish a database of historical administrative units for different periods in Chinese History, and will also provide a base GIS platform for researchers to use for spatial analysis, temporal statistical modeling, and representation of selected historical units as digital maps.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.CHGIS_SJNG_PT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "CHGIS, Harvard Yenching Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Location",
+    "Cities",
+    "Towns",
+    "s",
+    "Administrative divisions",
+    "County government",
+    "County Capitals"
+  ],
+  "dc_title_s": "CHGIS Songjiang Region County Capitals, 1820",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Shanghai",
+    "Songjiang"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:CHGIS_SJNG_PT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-chgis-sjng-pt",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(120.890351, 121.842222, 31.627645, 30.72955)",
+  "solr_year_i": 1820
+}

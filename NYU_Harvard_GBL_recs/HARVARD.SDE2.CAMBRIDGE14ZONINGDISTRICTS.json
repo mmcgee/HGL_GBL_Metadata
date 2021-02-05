@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This polygon layer contains the zoning overlay districts in the City of Cambridge that set out additional or alternative zoning regulations to an area's base zoning restrictions. Overlay districts typically govern aesthetic and physical features, rather than restricting use.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14ZONINGDISTRICTS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Zoning",
+    "Economic zoning",
+    "Administrative and political divisions",
+    "Planning and Cadastral",
+    "Boundaries",
+    "CDD"
+  ],
+  "dc_title_s": "Zoning Overlay Districts, Cambridge, Massachusetts, 2014",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14ZONINGDISTRICTS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14zoningdistricts",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.157671, -71.06381, 42.403833, 42.353423)",
+  "solr_year_i": 2014
+}

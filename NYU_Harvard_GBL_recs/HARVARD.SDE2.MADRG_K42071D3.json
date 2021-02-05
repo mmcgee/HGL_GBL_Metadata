@@ -1,0 +1,57 @@
+{
+  "dc_description_s": "This layer is a digital raster graphic of the 7.5 x 15 Minute USGS topographic map of the Maynard, Massachusetts quadrangle, 1987. Scale 1:25,000. The DRG was published in 1996. A digital raster graphic (DRG) is a scanned image of a U.S. Geological Survey (USGS) standard series topographic map, including all map collar information. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM) projection. The horizontal positional accuracy and datum of the DRG matches the accuracy and datum of the source map. The source paper map was produced by the United States Geological Survey in cooperation with Massachusetts Department of Public Works. It was compiled by photogrammetric methods from aerial photographs taken 1978 and 1981. Field checked 1978. Map edited 1987.  The names of quadrangles which border this one appear in a table on the map collar in their respective positions (N,S,E,W) in relation to this map.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MADRG_K42071D3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps, Topographic",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Human settlements",
+    "Bodies of water",
+    "Landforms",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Maynard, Massachusetts, 1987 (USGS 7.5 x 15 Minute Quadrangle DRG)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Maynard",
+    "Boxborough",
+    "Stow",
+    "Hudson",
+    "Marlborough",
+    "Acton",
+    "Sudbury",
+    "Concord",
+    "Lincoln",
+    "Wayland",
+    "Bedford",
+    "Lexington",
+    "Waltham",
+    "Weston"
+  ],
+  "dct_temporal_sm": [
+    "1987"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MADRG_K42071D3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-madrg-k42071d3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.513159, -71.207344, 42.511805, 42.363177)",
+  "solr_year_i": 1987
+}

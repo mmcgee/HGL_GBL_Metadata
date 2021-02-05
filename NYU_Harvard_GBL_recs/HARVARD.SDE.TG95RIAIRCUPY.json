@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer depicts feature location and other associated data for American Indian tribal entities. Categories included here are: American Indian Reservation Names, Off-reservation trust lands, and various codes for legal or statistical entities. The 1995 TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER data base. The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on January 1, 1995 legal boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts. However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole nation and its territories. The 1995 TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries. The files contain information distributed over a series of record types for the spatial objects of a county. Geographic information contained in the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude and longitude coordinates of linear and point features, landmark point features, area landmarks, key geographic features, and area boundaries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95RIAIRCUPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Indian reservations",
+    "Census",
+    "Population",
+    "Demography"
+  ],
+  "dc_title_s": "Census American Indian Reservations, 1995 - Rhode Island",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95RIAIRCUPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95riaircupy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.701904, -71.645652, 41.430511, 41.385045)",
+  "solr_year_i": 1995
+}

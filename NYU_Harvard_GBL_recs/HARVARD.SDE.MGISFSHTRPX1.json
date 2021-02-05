@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The Fish Traps (weirs) datalayer contains the point locations of fish trap permit holders' traps. These permit holders are licensed by the town in which the traps reside as well as by the MA Division of Marine Fisheries (DMF). Not all locations are active, and attributes in the PAT file reflect which trap was active each year from 1990 through 1998 based on catch reports submitted monthly by the permit holders.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISFSHTRPX1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Fish traps",
+    "Weirs",
+    "Fisheries",
+    "biota",
+    "economy",
+    "oceans"
+  ],
+  "dc_title_s": "MassGIS 2000 Fish Traps (Weirs) (August 1999)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISFSHTRPX1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisfshtrpx1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-70.885326, -69.991127, 42.691206, 41.520386)",
+  "solr_year_i": 1999
+}

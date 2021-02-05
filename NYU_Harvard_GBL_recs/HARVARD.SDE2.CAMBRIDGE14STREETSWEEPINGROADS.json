@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This polygon layer shows all the roads in Cambridge and the street cleaning district for that road. The attribute district in the layer corresponds to the street cleaning schedule posted on the Cambridge Public Works website. This layer can be used in conjunction with the layer, StSweepDistricts to show the street cleaning districts in Cambridge at various scales.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14STREETSWEEPINGROADS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Street cleaning",
+    "Refuse and refuse disposal",
+    "Roads",
+    "Communication",
+    "Transportation",
+    "Boundaries"
+  ],
+  "dc_title_s": "Street Sweeping Roads, Cambridge, Massachusetts, 2014",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "City of Cambridge, MA",
+    "USA",
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14STREETSWEEPINGROADS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14streetsweepingroads",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.161324, -71.063066, 42.404386, 42.351878)",
+  "solr_year_i": 2014
+}

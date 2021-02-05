@@ -1,0 +1,51 @@
+{
+  "dc_description_s": "In the wake of the revolutions of 1848, the catholic line of the House of Hohenzollern abdicated. The duchies of Hohenzollern Sigmaringen and Hohenzollern Hechingen, located in the south western part of \"core Germany\", became part of Prussia, where the protestant line of the House of Hohenzollern ruled. - For the overall picture, see the description for 1820. [changes as compared to 1850].",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1863CORE",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "German states",
+    "Population Statistics"
+  ],
+  "dc_title_s": "Germany State Boundaries, 1863, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GHGIS1863CORE",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1863core",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.056982)",
+  "solr_year_i": 1863
+}

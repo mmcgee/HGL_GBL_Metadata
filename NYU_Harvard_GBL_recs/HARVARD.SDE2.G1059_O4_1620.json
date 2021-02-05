@@ -1,0 +1,70 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the untitled, historic paper map: [Portolan chart of the Mediterranean and coast]. It was published in 1620. Scale [ca. 1:6,675,000]. Map in Latin and Italian. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, shoreline features, ports, harbors, rhumb lines, navigational aids, and more. Manuscript is pen-and-ink and watercolor with illumination. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G1059_O4_1620",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Human settlements",
+    "Cities and towns",
+    "Harbors"
+  ],
+  "dc_title_s": "Coast, Mediterranean Sea, 1620 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mediterranean Region",
+    "Albania",
+    "Algeria",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Cyprus",
+    "Egypt",
+    "France",
+    "Gaza Strip",
+    "Greece",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Lebanon",
+    "Libya",
+    "Malta",
+    "Monaco",
+    "Montenegro",
+    "Morocco",
+    "Romania",
+    "San Marino",
+    "Slovenia",
+    "Spain",
+    "Syria",
+    "Tunisia",
+    "Turkey",
+    "Ukraine"
+  ],
+  "dct_temporal_sm": [
+    "1620"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G1059_O4_1620",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g1059-o4-1620",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-11.351977, 45.365992, 51.112083, 22.004876)",
+  "solr_year_i": 1620
+}

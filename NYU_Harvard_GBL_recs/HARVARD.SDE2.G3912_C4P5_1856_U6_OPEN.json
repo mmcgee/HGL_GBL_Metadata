@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper nautical chart entitled: Preliminary chart of Charleston harbor and its approaches. A trigonometrical survey under the direction of A.D. Bache, superintendent of the Survey of the Coast of the United States ; triangulation by C.O. Boutelle ; topography by S.A. Gilbert ; hydrography by the party under the command of J.N. Maffitt ; engd. by F. Danworth, J. Knight, E. Yeager &amp; G. Mc Coy. It was published by U.S. Coast Survey Office in 1856. Scale 1:30,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the South Carolina State Plane NAD 1983 coordinate system (Fipszone 3900). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, built-up areas and selected buildings, docks, wharves, shoreline features (rocks, shoals, anchorage points, ports, inlets, etc.), and more. Relief shown by hachures; depths shown by contours and soundings. Includes 2 views, notes, sailing directions, tides' table, table of currents, list of buoys and of beacons. Images includes manuscript additions and newspaper clippings.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3912_C4P5_1856_U6_OPEN",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms"
+  ],
+  "dc_title_s": "Charleston Harbor, South Carolina, 1856 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "South Carolina",
+    "Charleston Harbor",
+    "Charleston"
+  ],
+  "dct_temporal_sm": [
+    "1856"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3912_C4P5_1856_U6_OPEN",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3912-c4p5-1856-u6-open",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-80.034041, -79.707048, 32.844834, 32.614138)",
+  "solr_year_i": 1856
+}

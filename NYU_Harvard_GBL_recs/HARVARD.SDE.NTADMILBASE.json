@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "The United States Military Installations database contains the boundaries, location, and areal information for important military installations in the United States and Puerto Rico. The database includes 436 polygons that represent 365 military installations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.NTADMILBASE",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Espionage",
+    "Military bases"
+  ],
+  "dc_title_s": "U.S. Military Installations",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:NTADMILBASE",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ntadmilbase",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-158.146847, -65.589426, 64.877772, 18.196659)",
+  "solr_year_i": 1998
+}

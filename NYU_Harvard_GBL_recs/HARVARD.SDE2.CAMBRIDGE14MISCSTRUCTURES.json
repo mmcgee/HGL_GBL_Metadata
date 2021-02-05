@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer contains polygon features representing miscellaneous structures in Cambridge, Massachusetts, 2010",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14MISCSTRUCTURES",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Buildings",
+    "Structure",
+    "Planimetric Data",
+    "Contour",
+    "Digital Terrain Model (DTM)"
+  ],
+  "dc_title_s": "Miscellaneous Structures, Cambridge, Massachusetts, 2010 (pub. 2014)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "City of Cambridge, MA",
+    "USA",
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14MISCSTRUCTURES",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14miscstructures",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.158991, -71.066799, 42.401791, 42.353188)",
+  "solr_year_i": 2010
+}

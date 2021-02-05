@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "These lines represent the boundary of the North German Federation (Norddeutscher Bund) in 1867. This Federation included Prussia and the northern German states as well as the territory of Hohenzollern in the south. It excluded the south German states (Bavaria, Wurttemberg, Baden). One state - Hesse-Darmstadt - was within the Federation only by membership of its northern territorial domain.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1867NORTHGERMANFED",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "German states"
+  ],
+  "dc_title_s": "Germany : North German Federation Boundary Lines, 1867, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Lithuania",
+    "Kaliningrad Oblast",
+    "Poland"
+  ],
+  "dct_temporal_sm": [
+    "1867"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:GHGIS1867NORTHGERMANFED",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1867northgermanfed",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.401637)",
+  "solr_year_i": 1867
+}

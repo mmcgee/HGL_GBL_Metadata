@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of a map plate of a section of Alexandria, Egypt from the Charles E. Goad map set entitled: Insurance plan of Alexandria Egypt, Vol. 2, published May 1905. This image is of the Key Plan (index) sheet. Scale 1:6,000. Covers the central part of Alexandria. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Egypt Red Belt projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. These large scale fire insurance maps typically include: building footprints, building construction material (frame, brick, plaster, stone), building heights, roof types, doors, windows, selected owner names, selected building functions, property boundaries, building street addresses, street names, railroads, fire hydrants, fire floats, fire brigades, cotton bales, and more. Building construction material is shown by colored shading. The index plate of the map set includes an explanation of map features. This layer is part of a selection of digitally scanned and georeferenced historic fire insurance and land ownership atlases and map sets of various regions from the Harvard Map Collection. The selection of scanned atlases and maps sets represent a range of originators and ground condition dates.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.H009375496_0021",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Insurance, Fire",
+    "Real property",
+    "Landowners",
+    "Buildings",
+    "Imagery and Base Maps",
+    "Structure"
+  ],
+  "dc_title_s": "Fire Insurance Map, Alexandria, Egypt, Vol. 2, Key Plan (Index), 1905 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Alexandria"
+  ],
+  "dct_temporal_sm": [
+    "1905"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:H009375496_0021",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-h009375496-0021",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.874952, 29.924891, 31.218731, 31.172957)",
+  "solr_year_i": 1905
+}

@@ -1,0 +1,39 @@
+{
+  "dc_description_s": "point features showing towns, mountains,   lakes in Qinghai and Xinjiang from Qinghai Lake west across the Altun Shan Range to Khotan;  digitized from H.M. Prezhavalsky \"Map of Central Asia\"  1884  CHGIS V4 also provides supplemental datasets, including points derived from Russian Historical Maps, and other features that have been developed or processed from publicly available sources for use with CHGIS layers. -- text from CHGIS v4 CD-ROM.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CHGIS_V4_RAS_1884_QINGHAI_PTS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "towns and natural features, Qinghai and Xinjiang",
+    "Names, Geographical",
+    "Location"
+  ],
+  "dc_title_s": "CHGIS Version 4 : Qinghai 1884 Points",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1884"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:CHGIS_V4_RAS_1884_QINGHAI_PTS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-chgis-v4-ras-1884-qinghai-pts",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(76.124538, 101.731096, 45.64862, 30.32375)",
+  "solr_year_i": 1884
+}

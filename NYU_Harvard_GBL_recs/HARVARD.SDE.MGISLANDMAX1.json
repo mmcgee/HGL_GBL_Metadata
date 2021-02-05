@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "MassGIS derived coverage of point landmarks from the 1990 U.S. Census TIGER Line files database. This datalayer includes the locations of: airports or airfields; bus terminals; campgrounds; cemeteries; convents or monasteries; educational institutions; hospitals; federal penitentiaries, state prisons or prison farms; golf courses; government centers; jail or detention centers; lookout towers; marinas; marine terminals; office Parks; religious institutions; state or local parks or forests; train stations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISLANDMAX1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Airports",
+    "Bus terminals",
+    "Campgrounds",
+    "Cemeteries",
+    "Convents",
+    "Education",
+    "Hospitals"
+  ],
+  "dc_title_s": "MassGIS 2000 Massachusetts Landmarks",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISLANDMAX1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgislandmax1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.453813, -69.969553, 42.740257, 41.258206)",
+  "solr_year_i": 1996
+}

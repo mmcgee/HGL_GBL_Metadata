@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de la ville de Berlin : levÃ© et dessinÃ© par ordre et privilege privatif du Roy sous la direction du Marchall Comte de Schmettau, par Hildner approuvÃ© par l'Academie Royale de Science Ã¢ Berlin ; gravÃ© sous la direction de G.F. Schmidt Graveur du Roy. It was published by l'Academie Royale de Science Ã¢ Berlin in 1748. Scale [ca. 1:6,500]. Covers Berlin, Germany. This layer is image 3 of 4 total images of the four sheet source map, representing the northwest portion of the map. Map in French and German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Deutsches Hauptdreiecksnetz (DHDN) 3-degree Gauss-Kruger Zone 4 coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortification, parks, cemeteries, ground cover, and more. Relief shown by hachures. Includes also view and inset engravings: Prospect du Stadt Berlin von SÃ¼den gegen Norden -- 1. Prospect des grossen Platzes von Opera Hausse 2. der Cathol. Kirche St. Hedwig 3. und einer Seite des Marggraff Henrich. Pallais -- Prospect der Neuen Schloss u Dohm Kirche -- Prospect des Neuen KÃ¶nigl. Printz Heinrich. Pallais den Opern Hausse gegen Ã¼ber. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6299_B3_1748_H5_SHEET3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Berlin, Germany, 1748 (Image 3 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "Berlin"
+  ],
+  "dct_temporal_sm": [
+    "1748"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6299_B3_1748_H5_SHEET3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6299-b3-1748-h5-sheet3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(13.342044, 13.40702, 52.555329, 52.508736)",
+  "solr_year_i": 1748
+}

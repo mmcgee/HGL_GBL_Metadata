@@ -1,0 +1,69 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Accuratissima orientalioris districtus maris Mediterranei tabula, authore Iusto Danckerts. It was published by Iusto Danckerts, between 1690 and 1699. Scale [ca. 1:5,300,000]. Covers the eastern Mediterranean Sea region. Map in Latin.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, shoreline features, and more. Relief shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5672_M4_1690_D3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Mediterranean Sea Region, East, 1690-1699 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mediterranean Sea",
+    "Albania",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Cyprus",
+    "Egypt",
+    "Gaza Strip",
+    "Greece",
+    "Hungary",
+    "Israel",
+    "Italy",
+    "Jordan",
+    "Lebanon",
+    "Libya",
+    "Macedonia",
+    "Moldova",
+    "Montenegro",
+    "Romania",
+    "Saudi Arabia",
+    "Serbia",
+    "Syria",
+    "Turkey",
+    "Ukraine",
+    "West Bank",
+    "Europe",
+    "Africa, North",
+    "Middle East"
+  ],
+  "dct_temporal_sm": [
+    "1690"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5672_M4_1690_D3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5672-m4-1690-d3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.624639, 45.712635, 48.969015, 25.458221)",
+  "solr_year_i": 1690
+}

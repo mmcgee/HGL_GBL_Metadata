@@ -1,0 +1,48 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of lands on the Back Bay : belonging to the Boston Water Power Co., the Commonwealth, and other parties, showing the system of streets   grades as laid out and recommended by the Back Bay Commissioners, compiled and surveyed under the direction of the Commissioners by James Slade ; H.M. Wightman, surveyor ; E.R. Brown, de. It was printed by A. Meisel, lith., Dec. 31st, 1861. Covers Back Bay and South End, Boston, Massachusetts, and portions of Roxbury and Brookline.   The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, property owners, selected public buildings, parks, radial distances from City Hall, and more.  This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MATWN_3764_B6_2B2_1861_B6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "City planning",
+    "Landowners",
+    "Real property",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Back Bay, Boston, Massachusetts, 1861 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston",
+    "Back Bay",
+    "South End",
+    "Roxbury",
+    "Brookline"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MATWN_3764_B6_2B2_1861_B6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-matwn-3764-b6-2b2-1861-b6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.124134, -71.054731, 42.361477, 42.320844)",
+  "solr_year_i": 1861
+}

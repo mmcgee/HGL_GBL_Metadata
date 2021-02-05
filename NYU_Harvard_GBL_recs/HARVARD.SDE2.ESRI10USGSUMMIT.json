@@ -1,0 +1,52 @@
+{
+  "dc_description_s": "U.S. Geographic Names Information System Summits represents the Federal standard for geographic nomenclature and contains information about the proper names and locations of physical and cultural geographic features located throughout the United States and its Territories. The U.S. Geological Survey developed the Geographic Names Information System (GNIS) for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature name usage throughout the Government and to promulgate standard names to the public.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.ESRI10USGSUMMIT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Mountains",
+    "Altitudes",
+    "environment",
+    "summit"
+  ],
+  "dc_title_s": "U.S. Geographic Names Information System Summits : ESRI Data   Maps 2010",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico",
+    "Virgin Islands of the United States",
+    "Guam",
+    "Micronesia (Federated States)",
+    "Palau",
+    "Marshall Islands",
+    "American Samoa",
+    "Northern Mariana Islands",
+    "United States",
+    "U.S. Commonwealths",
+    "U.S. Territories",
+    "U.S. Freely Associated States"
+  ],
+  "dct_temporal_sm": [
+    "1981"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:ESRI10USGSUMMIT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-esri10usgsummit",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-178.793725, 179.829606, 70.492566, -14.3575)",
+  "solr_year_i": 1981
+}

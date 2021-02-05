@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This point datalayer represents place names for hydrographic features in the state of Massachusetts (March 2003), which may be used for map labels. The Massachusetts Department of Environmental Protection (DEP) GIS Group and MassGIS maintain the data. Geographic Place Names for the state are grouped into 3 separate datalayers:   Hydrographic Features - lakes, ponds, streams, rivers, bays, harbors, channels   Civic Features - city and town names, sections, villages   Hypsographic Features - hills, mountains, points, beaches, islands",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISGEONAMHYD2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bodies of water",
+    "Rivers",
+    "Lakes",
+    "Reservoirs",
+    "Bays",
+    "Harbors",
+    "Channels (Hydraulic engineering)"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Geographic Place Names : Hydrographic Features (March 2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISGEONAMHYD2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisgeonamhyd2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.947455, -69.915125, 42.885526, 34.244387)",
+  "solr_year_i": 2003
+}

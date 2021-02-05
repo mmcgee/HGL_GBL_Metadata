@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "Core Habitat is one of two datalayers resulting from the BioMap biodiversity mapping project (also see the NHESP BioMap Supporting Natural Landscape datalayer description). The Core Habitat layer depicts the most viable habitat for rare species and natural communities in Massachusetts. Using a variety of data sources, primarily field data, ancillary literature, and color-infrared aerial photographs, Natural Heritage and Endangered Species Program scientists delineated Core Habitat polygons. A Core Habitat polygon may consist of many individual species or natural community polygons- this individual species information is not identified in the Core Habitat layer.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISBIOCHP",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Habitat (Ecology)",
+    "Biodiversity conservation",
+    "Animal diversity conservation",
+    "Plant diversity conservation",
+    "Natural areas",
+    "biota",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts NHESP BioMap Core Habitat (July 2001)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISBIOCHP",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisbiochp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.532815, -69.897279, 42.873936, 41.231147)",
+  "solr_year_i": 2001
+}

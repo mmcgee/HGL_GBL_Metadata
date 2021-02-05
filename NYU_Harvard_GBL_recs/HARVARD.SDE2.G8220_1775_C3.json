@@ -1,0 +1,52 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte de la Barbarie : contenant les royaumes de Maroc, de Fez, d'Alger, de Tunis et de Tripoli, avec les dÃ©serts limitrophes de l'intÃ©rieur de l'Afrique, dressÃ©e sur les cartes des Ssrs. d'Anville et Robert de Vaugondy ; par P. Santini, 1775. It was published by P. Santini in 1775. Scale [ca. 1:4,900,000]. Covers North Africa and a portion of the Mediterranean coast of Europe. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads and routes, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8220_1775_C3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "North Africa   Mediterranean Sea Region, 1775 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Gibraltar",
+    "Italy",
+    "Libya",
+    "Mediterranean Sea",
+    "Morocco",
+    "Portugal",
+    "Spain",
+    "Tunisia",
+    "Africa, North"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8220_1775_C3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8220-1775-c3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-22.586189, 25.520758, 44.466128, 16.313599)",
+  "solr_year_i": 1775
+}

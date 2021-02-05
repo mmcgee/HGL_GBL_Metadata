@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte minï¿½ï¿½ralogique de France : oï¿½ï¿½ sont marquï¿½ï¿½s les diffï¿½ï¿½rens terreins principaux qui partagent ce Royaume, et les substances particuliï¿½ï¿½res qu'il renferme, dressï¿½ï¿½e sur les observations de Mr. Guettard de l'Accadï¿½ï¿½mie des Sciences, par Mr. Dupain-Triel, pï¿½ï¿½re, Gï¿½ï¿½og'he du Roy et de Monsieur Censeur Royal, 1781. It was published by Chez Mr. Dupain-Triel, pere, Gï¿½ï¿½o.ghe du Roy et de Monsieur in 1781. Scale approximately 1:2,750,000. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as mines and mineral resource locations, geologic areas, drainage, cities and other human settlements, territorial and administrative boundaries, and more. Relief shown pictorially. Includes also note, 2 legends, coat of arms, and illustration of mining.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5831_H1_1781_D8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Mines and mineral resources",
+    "Geology",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms"
+  ],
+  "dc_title_s": "Mineral Resources, France, 1784 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "France"
+  ],
+  "dct_temporal_sm": [
+    "1781"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5831_H1_1781_D8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5831-h1-1781-d8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-10.462193, 12.286358, 52.522117, 39.780293)",
+  "solr_year_i": 1781
+}

@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This datalayer is a point coverage representing a gazetteer of populated place features located between the Greenwich meridian (0 degrees) and 180 degrees east of the Greenwich meridian, encompassing the Eastern Hemisphere, excluding  Antarctica. Features and attributes were derived from the GNS (GEOnet Names Server) and include populated place names. The GEOnet Names Server provides access to the National Geospatial-Intelligence Agency's (NGA) (formerly the National Imagery and Mapping Agency (NIMA)) database of foreign geographic feature names. Approximately 20,000 of the database's 3.5 million features are updated monthly with names information approved by the U.S. Board on Geographic Names (US BGN). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_GAZPPE",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Names, Geographical",
+    "Gazetteers",
+    "Cities and towns",
+    "Human settlements",
+    "Location",
+    "Populated places"
+  ],
+  "dc_title_s": "Global GIS : Gazetteer of populated places, Eastern Hemisphere",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Eastern Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:GLB_GAZPPE",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-gazppe",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-0.0, 180.0, 86.216667, -49.349998)",
+  "solr_year_i": 2003
+}

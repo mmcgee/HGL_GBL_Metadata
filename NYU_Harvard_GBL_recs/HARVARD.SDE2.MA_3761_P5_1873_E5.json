@@ -1,0 +1,61 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Eldridge's new chart from Lynn to Halibut Point : with the harbors of Salem, Beverly, Marblehead, Manchester, Gloucester   Rockport, compiled from the latest surveys, [by George Eldridge] ; G.W. Boynton, sc. It was published by S. Thaxter   Son, 1873. Scale [ca. 1:58,370]. This map is a nautical chart covering the Atlantic Coast of Massachusetts from Lynn to Halibut Point, Rockport, Massachusetts. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows coastal features such as lighthouses, buoys, beacons, rocks, channels, points, coves, islands, and more. Depths are shown by soundings and shading. Includes sailing directions and table of tides. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MA_3761_P5_1873_E5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Bodies of water",
+    "Harbors",
+    "Coasts",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Lynn to Halibut Point, Rockport, Massachusetts, Atlantic Coast, 1873 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Lynn",
+    "Swampscott",
+    "Marblehead",
+    "Salem",
+    "Beverly",
+    "Manchester-by-the-Sea",
+    "Gloucester",
+    "Rockport",
+    "Lynn Harbor",
+    "Nahant Bay",
+    "Nahant Harbor",
+    "Marblehead Harbor",
+    "Salem Harbor",
+    "Salem Sound",
+    "Beverly Harbor",
+    "Manchester Bay",
+    "Manchester Harbor",
+    "Gloucester Harbor",
+    "Sandy Bay"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MA_3761_P5_1873_E5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ma-3761-p5-1873-e5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.988702, -70.517908, 42.709109, 42.41694)",
+  "solr_year_i": 1873
+}

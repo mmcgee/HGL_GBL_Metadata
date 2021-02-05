@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte ancienne et comparÃ©e de la Basse Ã‰gypte, rÃ©digÃ© par M. le Colonel Jacotin et par M. Jomard, Membre de l'Institut ; d'aprÃ¨s la Grande Carte Topographique levÃ©e pendant l'expÃ©dition de l'ArmÃ©e FranÃ§aise par les ingÃ©nieurs gÃ©ographes, les ingÃ©nieurs militaires et les ingÃ©nieurs des ponts et chaussÃ©es ; Blondeau Sct. It was published by Impr. Royale between 1821 and 1823. Scale 1:500,000. Covers the Nile River Delta Region, Egypt. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Egypt Red Belt projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, canals, cities and other human settlements, shoreline features, and more. Relief shown by shading and hachures. Harvard Map Collection copies contain manuscript historical annotations and corrections. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8300_1821_J3_COPYA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Rivers"
+  ],
+  "dc_title_s": "Nile River Delta Region, Egypt, 1821-1823 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile River",
+    "Nile Delta"
+  ],
+  "dct_temporal_sm": [
+    "1821"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8300_1821_J3_COPYA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8300-1821-j3-copya",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.374974, 33.111043, 31.838968, 29.70284)",
+  "solr_year_i": 1821
+}

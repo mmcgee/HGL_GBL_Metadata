@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This datalayer displays Census County Divisions and Minor Civil Divisions based on the 1990 Census. Census county divisions (CCDs) are county subdivisions that were delineated by the U.S. Census Bureau, in cooperation with state and local government officials for data presentation purposes. CCDs have been established in 21 states where there are no legally established minor civil divisions (MCDs), where the MCDs do not have governmental or administrative purposes, where the boundaries of the MCDs are ambiguous or change frequently, and/or where the MCDs generally are not known to the public. CCDs have no legal functions and are not governmental units. The boundaries of CCDs usually are delineated to follow visible features and coincide with census tracts where applicable. (In a few instances, two CCDs may constitute a single census tract.) The name of each CCD is based on a place, county, or well-known local name that identifies its location. Minor civil divisions (MCDs) are the primary governmental or administrative divisions of a county in many states (parish in Louisiana). MCDs represent many different kinds of legal entities with a wide variety of governmental and/or administrative functions. NOTE: The U.S. Census Bureau has established MCDs for Massachusetts. The MCDs in Massachusetts also serve as general-purpose local governments that generally can perform the same governmental functions as incorporated places.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95MACCD",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Administrative divisions",
+    "Boundaries"
+  ],
+  "dc_title_s": "Census County Divisions and Minor Civil Divisions, 1990 - Massachusetts",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95MACCD",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95maccd",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-88.473227, -84.888967, 35.007882, 30.194045)",
+  "solr_year_i": 1990
+}

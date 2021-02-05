@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A map of the town of Sharon, Mass., drawn from actual survey by Elijah Hewin[s], surveyor. It was published by Pendleton's Lithography in 1831. Scale [ca. 1:20,250]. Covers the town of Sharon and also a portion of Walpole, Massachusetts.    The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, public buildings, schools, churches, cemeteries, industry locations (e.g. mills, factories, mines, etc.), private buildings with names of property owners, town boundaries and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MATWN_3764_S34_1831_H4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Sharon, Massachusetts, 1831 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Sharon",
+    "Walpole"
+  ],
+  "dct_temporal_sm": [
+    "1831"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MATWN_3764_S34_1831_H4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-matwn-3764-s34-1831-h4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.249532, -71.122204, 42.175009, 42.047409)",
+  "solr_year_i": 1831
+}

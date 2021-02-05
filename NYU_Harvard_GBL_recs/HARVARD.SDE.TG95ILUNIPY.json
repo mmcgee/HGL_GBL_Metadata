@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer displays the Unified School Districts for the entire state. A unified school district is inclusive of kindergarten through twelfth grade. The Census Bureau defines a school district as the territory administered by the elected or appointed authorities of a state, county, or other local governmental unit to provide educational services to a resident population. A school district typically includes several school buildings, teachers, and related staff. The Census Bureau provided data tabulations for school districts from the 1970, 1980, and 1990 censuses.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95ILUNIPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Schools",
+    "School districts",
+    "Education"
+  ],
+  "dc_title_s": "Census Unified School Districts, 1995 - Illinois",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Illinois"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95ILUNIPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95ilunipy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-91.511858, -87.495829, 42.508302, 36.972676)",
+  "solr_year_i": 1995
+}

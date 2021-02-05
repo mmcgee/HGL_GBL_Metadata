@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Town of Beverly, Mass., published ca. 1888. This map is colored to show land ownership by resident type and property valuation, and shows \"petitioners line.\" It shows features such as roads, railroads, drainage, schools, private buildings with names of property owners, town boundaries and more. Relief is shown by hachures. It includes tables in the lower margin showing statistical information on real estate, taxes, income, etc. Text on the verso of the paper source map entitled: \"a few reasons why the town of Beverly should not be divided.\"       The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MATWN_3764_B5_1888_T6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Real property",
+    "Tax assessment"
+  ],
+  "dc_title_s": "Beverly, Massachusetts, 1888 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Beverly"
+  ],
+  "dct_temporal_sm": [
+    "1888"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MATWN_3764_B5_1888_T6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-matwn-3764-b5-1888-t6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-70.928826, -70.779003, 42.601367, 42.510938)",
+  "solr_year_i": 1888
+}

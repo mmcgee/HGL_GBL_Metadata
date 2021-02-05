@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte de la basse Egypte et du canal maritime de Suez, dressÃ©e par Desbuissons ; gravÃ© sur pier. et chrom. par P. MÃ©a. It was published by E. Andriveau-Goujon in 1880. Scale 1:500,000. Covers the Nile River Delta and Suez Canal region, Egypt. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Lambert Conformal Conic projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, canals, railroads, selected buildings, cultivated and uncultivated lands, and more. Relief shown by hachures. Includes also insets: Plan d'IsmaÃ¯lia (1:25,000) -- Plan de la rade de Port SaÃ¯d et de l'embouchure du Canal dans la MÃ©diterranÃ©e (1:60,000) -- Plan de la rade de Suez et de l'embouchure du Canal dans la Mer Rouge (1:60,000). This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8202_N5_1880_D4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Nile River Delta   Suez Canal Region, Egypt, 1880 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Egypt",
+    "Nile Delta",
+    "Nile River",
+    "Suez Canal"
+  ],
+  "dct_temporal_sm": [
+    "1880"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8202_N5_1880_D4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8202-n5-1880-d4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(29.344685, 32.994781, 32.136439, 29.582357)",
+  "solr_year_i": 1880
+}

@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This datalayer displays polygon landmark features throughout the District of Columbia. \"Landmark\" is the general name given to a cartographic (or locational) landmark, a land-use area, and a key geographic location (KGL). A cartographic landmark is identified for use by an enumerator while working in the field. A land-use area is identified in order to minimize enumeration efforts in uninhabited areas or areas where human access is restricted. A key geographic location is identified in order to more accurately geocode and enumerate a place of work or residence. Feature classes represented in this layer include bodies of water (bays, rivers, lakes, ponds, estuaries, creeks, etc.), campgrounds, cemeteries, state or local parks and forests, and airports.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95DCLPYPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation",
+    "Espionage",
+    "Structure",
+    "Inland Waters",
+    "Census",
+    "Rivers",
+    "Airports"
+  ],
+  "dc_title_s": "Census Landmark Polygon Features, 1995 - District of Columbia",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Washington (D.C.)"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95DCLPYPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95dclpypy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-77.1199, -76.941696, 38.97791, 38.791513)",
+  "solr_year_i": 1995
+}

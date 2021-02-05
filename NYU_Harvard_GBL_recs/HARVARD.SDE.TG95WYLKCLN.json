@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This datalayer displays miscellaneous ground transportation features in the state. Features other than roads or railroads may be included in this layer. The predominant feature in this layer has a Census Feature Class Code (CFCC) of C20 -- which is classed as power transmission lines. Other features that may be included are: Pipelines: enclosed pipe, carrying fluid or slurry, situated above ground, or in special conditions, below ground when marked by a cleared right-of way and signage. Power Transmission Line: High voltage electrical line, on towers, situated on cleared right-of-way. Miscellaneous Ground Transportation With Special Characteristics: A portion of a ground transportation system that has separately identifiable characteristics. This category is for specialized transportation, usually confined to a local area, that is separate from other ground transportation. Other ground transportation that is not a pipeline or a power transmission line, such as aerial tramway, monorail, or ski lift.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95WYLKCLN",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Communication",
+    "Census",
+    "Transportation",
+    "Pipelines",
+    "Public Utilities",
+    "Electric lines"
+  ],
+  "dc_title_s": "Census Miscellaneous Ground Transportation Features, 1995 - Wyoming",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Wyoming"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:TG95WYLKCLN",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95wylkcln",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-111.047101, -104.052691, 45.0028, 40.997056)",
+  "solr_year_i": 1995
+}

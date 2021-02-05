@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This datalayer displays the counties for the state, based on a ground condition of January 1, 1990. The primary legal divisions of most states are termed ''counties.'' Each county and statistically equivalent entity is assigned a three-digit Federal Information Processing Standards code that is unique within the state. These codes are assigned in alphabetical order of county or county equivalent within each state. Maryland has no primary divisions, and the entire area is considered equivalent to a county for data presentation purposes. The Census Bureau treats independent cities in Maryland as equivalents of counties for purposes of data presentation.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95MDCTYPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Administrative divisions",
+    "County government"
+  ],
+  "dc_title_s": "Census Counties, 1990 - Maryland",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maryland"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95MDCTYPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95mdctypy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-79.487651, -75.048939, 39.723043, 37.911717)",
+  "solr_year_i": 1990
+}

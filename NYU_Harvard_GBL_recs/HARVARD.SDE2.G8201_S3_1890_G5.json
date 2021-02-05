@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Afrique : d'apres les documents les plus recents et les derniers traites, dressee par E. Giffault ; grave et imp. par Erhard Fres. It was published by Le Temps Bureaux in 1890. Scale 1:18,000,000. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to a non-standard 'World Sinusoidal' projection with the central meridian at 20 degrees east. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, caravan routes, cities and other human settlements, territorial boundaries, colonial possessions, and more. Relief is shown by hachures and spot heights. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8201_S3_1890_G5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Africa, 1890 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8201_S3_1890_G5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8201-s3-1890-g5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-126.032625, 155.729432, 71.330211, -45.438705)",
+  "solr_year_i": 1890
+}

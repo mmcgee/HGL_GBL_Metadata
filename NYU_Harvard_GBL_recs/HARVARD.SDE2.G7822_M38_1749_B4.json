@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte de la baye d'Hocsieu et des entrÃ©es de la riviere de Chang situÃ©es dans la province de Fokyen : tirÃ©es de manuscrits hollandois, J.V. Schley direx. It was published by Pierre de Hondt in 1749. Scale [ca. 1:270,000]. Covers the Minjiang Kou region, China. Map in French and Dutch. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Asia North Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, selected buildings, fortification, and temples, shoreline features, and more. Relief shown pictorially, depths by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7822_M38_1749_B4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Min River Estuary, Fujian Sheng, China, 1749 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Fujian Sheng",
+    "Minjiang Kou",
+    "Min Jiang"
+  ],
+  "dct_temporal_sm": [
+    "1749"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7822_M38_1749_B4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7822-m38-1749-b4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(118.810994, 120.438196, 26.810038, 25.426385)",
+  "solr_year_i": 1749
+}

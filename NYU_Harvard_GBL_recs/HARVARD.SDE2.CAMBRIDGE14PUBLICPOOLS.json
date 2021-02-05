@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This polygon layer contains the outdoor public pool facilities within Cambridge. Data layer created in 2006 from the Open Space layer, which derives from the Planimetric dataset.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14PUBLICPOOLS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Swimming pools",
+    "Structure",
+    "city pools",
+    "outdoor pools",
+    "Public Pools"
+  ],
+  "dc_title_s": "Public Pools, Cambridge, Massachusetts, 2006 (pub. 2014)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14PUBLICPOOLS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14publicpools",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.137593, -71.090247, 42.394912, 42.356589)",
+  "solr_year_i": 2006
+}

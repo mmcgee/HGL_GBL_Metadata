@@ -1,0 +1,78 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart of Boston Harbor and Massachusetts Bay : with map of the adjacent country. It was published by E.P. Dutton   Co. at the Boston Map Store in 1865. Scale [ca. 1:65,400].    The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows coastal features such as lighthouses, buoys, beacons, rocks, channels, points, coves, islands, and more. It also shows land features  such as roads, railroads, drainage, residences, selected public buildings and places of industry (schools, churches, town halls, hospitals, factories, etc.), parks, cemeteries, township boundaries and more. Relief is shown by hachures.  This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MAPRT_3762_B65_1865_E2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Harbors",
+    "Bays",
+    "Coasts",
+    "Cities and towns",
+    "Villages",
+    "Land use"
+  ],
+  "dc_title_s": "Boston Harbor, Massachusetts Bay, 1865 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston Harbor",
+    "Massachusetts Bay",
+    "Beverly",
+    "Salem",
+    "Marblehead",
+    "Swampscott",
+    "Nahant",
+    "Lynn",
+    "Peabody",
+    "Danvers",
+    "North Reading",
+    "Reading",
+    "Lynnfield",
+    "Wakefield",
+    "Saugus",
+    "Revere",
+    "Winthrop",
+    "Boston",
+    "Chelsea",
+    "Everett",
+    "Malden",
+    "Melrose",
+    "Stoneham",
+    "Woburn",
+    "Winchester",
+    "Medford",
+    "Somerville",
+    "Cambridge",
+    "Brookline",
+    "Milton",
+    "Quincy",
+    "Weymouth",
+    "Hingham",
+    "Hull",
+    "Cohasset"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MAPRT_3762_B65_1865_E2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-maprt-3762-b65-1865-e2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.187546, -70.734552, 42.616822, 42.199479)",
+  "solr_year_i": 1865
+}

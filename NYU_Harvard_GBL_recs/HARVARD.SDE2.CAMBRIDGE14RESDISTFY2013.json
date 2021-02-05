@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This polygon layer contains residential taxing districts for the City of Cambridge. This data is updated through January 1, 2012.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14RESDISTFY2013",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tax assessment",
+    "Property tax",
+    "Planning and Cadastral",
+    "Boundaries",
+    "Cambridge",
+    "Residential"
+  ],
+  "dc_title_s": "Residential Districts, Cambridge, Massachusetts, FY 2013",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14RESDISTFY2013",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14resdistfy2013",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.160581, -71.06381, 42.403841, 42.352358)",
+  "solr_year_i": 2013
+}

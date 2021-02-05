@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Guatemala : from official and other sources, prepared in the Bureau of the American republics, William Woodville Rockhill, director, compiled and drawn by M. Hendges, 1902. It was published by Andrew B. Graham, photo-litho. in 1902. Scale 1:792,000. Covers Guatemala and portions of Mexico, Belize, Honduras, and El Salvador. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, ruins, territorial boundaries including Departamentos, roads, railroads, telegraph stations, mines and minerals, ports of entry, shoreline features, lighthouses, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4810_1902_H4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Guatemala, 1902 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Guatemala",
+    "Belize",
+    "El Salvador",
+    "Honduras",
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1902"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4810_1902_H4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4810-1902-h4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-92.72371, -87.602435, 18.588663, 13.037773)",
+  "solr_year_i": 1902
+}

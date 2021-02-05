@@ -1,0 +1,38 @@
+{
+  "dc_description_s": "This datalayers contains polygons representing Massachusetts drainage sub-basins (see also the Drainage Sub-basins (Arc) datalayer). MassGIS has produced a statewide digital datalayer of the approximately 2300 sub-basins as defined and used by the USGS Water Resources Division and the Mass Water Resources Commission and as modified by Executive Office of Environmental Affairs (EOEA) agencies. These sub-basins were aggregated together to make the 28 basins of the Major Basins Datalayer. Cape Cod and the Islands do not have much lateral 'surface' drainage because the soils are so porous. The sub-basin line shown for Cape Cod is the approximate groundwater divide between Cape Cod Bay, Vineyard Sound, and the Atlantic Ocean, taken from sub-surface groundwater contours.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISSUBBP2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Watersheds",
+    "Inland Waters"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Drainage Sub-basins (Polygons) (March 2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISSUBBP2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgissubbp2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.53335, -69.898477, 42.888351, 41.230341)",
+  "solr_year_i": 2003
+}

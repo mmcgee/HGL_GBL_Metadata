@@ -1,0 +1,53 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of China : compiled from original surveys and sketches, by James Wyld. It was published by Jas. Wyld in 1840. Scale [ca. 1:15,000,000]. Covers East Asia including portion of China, North Korea, South Korea, Japan, Philippines, Vietnam, Laos, Thailand, Burma, and India. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Asia North Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial and administrative boundaries, roads, the Great Wall of China, shoreline features, districts of trade and production, and more. Includes notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7811_F7_1840_W9",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "East Asia, 1840 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Burma",
+    "India",
+    "Japan",
+    "Laos",
+    "North Korea",
+    "Philippines",
+    "South Korea",
+    "Thailand",
+    "Vietnam",
+    "East Asia"
+  ],
+  "dct_temporal_sm": [
+    "1840"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7811_F7_1840_W9",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7811-f7-1840-w9",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(90.100055, 141.700137, 48.423175, 10.231842)",
+  "solr_year_i": 1840
+}

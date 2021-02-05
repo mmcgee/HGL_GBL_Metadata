@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: City of New Haven, Connecticut, [by] A.B. Hill, civil engineer. It was published by Geo. H. Walker   Co., 1893. Scale [1:12,000]. Covers also portions of West Haven, Hamden, North Haven, and East Haven. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Connecticut State Plane Coordinate System (Feet) (FIPS 0600). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected public and industrial buildings, schools, churches, cemeteries, parks, city ward boundaries, and more. Includes inset: [Yale campus]. Scale [1:2,400]. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3784_N4_1893_H5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation",
+    "Bodies of water",
+    "Administrative and political divisions"
+  ],
+  "dc_title_s": "New Haven, Connecticut, 1893 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Connecticut",
+    "New Haven",
+    "West Haven",
+    "Hamden",
+    "North Haven",
+    "East Haven",
+    "Yale University"
+  ],
+  "dct_temporal_sm": [
+    "1893"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3784_N4_1893_H5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3784-n4-1893-h5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.976765, -72.867105, 41.347495, 41.239396)",
+  "solr_year_i": 1893
+}

@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Base map of the District of Columbia showing railroads, main thoroughfares, alley blocks, and public (government) buildings, base prepared in the Office of the Surveyor, D.C., by direction of the Engineer Commissioner, D.C. It was published in 1936. Scale [ca. 1:19,000]. Base map \"Complete to June 13, 1933.\"   The image inside the map neatline is georeferenced to the surface of the earth and fit to the Maryland State Plane Coordinate System Meters NAD83 (Fipszone 1900). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads and stations, drainage, selected public buildings and points of interest, parks, cemeteries, and more. Also shows block numbers and proposed streets. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3850_1936_D5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Maps, Outline and base.",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Washington, D.C., 1933 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Washington (D.C.)"
+  ],
+  "dct_temporal_sm": [
+    "1933"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3850_1936_D5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3850-1936-d5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.164844, -76.904189, 39.000148, 38.796351)",
+  "solr_year_i": 1933
+}

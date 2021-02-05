@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Athen mit Umgebung, aufgenommen und gezeichnet von J.A. Kaupert 1875; herausgegeben vom Kaiserl. deutschen archÃ¤ologischen Institute; (mit NachtrÃ¤gen bis 1877). It was published by Dietrich Reimer in 1878. Scale 1:125,000. Covers the Athens, Greece region. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Greek Geodetic Reference System (also called the Greek Grid). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, built-up areas, selected buildings, historic sites and points of interest, and more. Relief is shown by hachures and spot heights. Includes indexes. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6814_A9_1878_K3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Athens, Greece, 1878 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Greece",
+    "Athens",
+    "AthÃ­na"
+  ],
+  "dct_temporal_sm": [
+    "1878"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6814_A9_1878_K3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6814-a9-1878-k3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.685255, 23.762458, 38.009989, 37.944771)",
+  "solr_year_i": 1878
+}

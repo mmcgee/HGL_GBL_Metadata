@@ -1,0 +1,37 @@
+{
+  "dc_description_s": "This datalayer is a polyline coverage representing geologic faults of the conterminous United States. It is a digital version of the fault features of H.M. Beikman and P.B. King's Geologic Map of the United States, originally published at a scale of 1:2,500,000 (1974). This version of the datalayer was published as part of the USGS Global GIS : global coverage database (2003). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_US_FLT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Faults (Geology)"
+  ],
+  "dc_title_s": "Global GIS : Geology of the conterminous United States at 1:2,500,000 scale : Faults",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1974"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:GLB_US_FLT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-us-flt",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-124.693108, -67.025742, 49.031315, 27.227633)",
+  "solr_year_i": 1974
+}

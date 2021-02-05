@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Die durch die Engellaender beunruhigte franzï¿½ï¿½sische Kï¿½ï¿½sten Ao. 1758 : mit Englische u. Franzï¿½ï¿½sischen Originalien conformirt u. auf das accurateste gezeichnet durch Christian Friederich von der Heyden = Les cotes du France troublï¿½ï¿½es par les Anglois l'An 1758, conformï¿½ï¿½e avec des Originaux de Londres et de Paris, soigneusement designï¿½ï¿½e par Chretien Frederic de Heyden. It was published by verlegt von Tobias Conrad Lotter in 1758. Scale approximately 1:3,100,000. Map in German and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows naval battles of the British and French navies off the coast of France. Features include drainage, cities and other human settlements, roads, territorial and administrative boundaries, shoreline features, and more. Relief shown pictorially. Includes also ornamental cartouche decorated with mythical figures; inset vignette of a naval battle on the 25th of February 1758 fought by Admirals Osbourne and Schiffer in front of Cartagena, Spain; bar scales; routes taken by French and British fleets.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5831_R3_1758_H4_COPYA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Seven Years' War, 1756-1763",
+    "Military maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms"
+  ],
+  "dc_title_s": "Naval Battles, Seven Years' War, France, 1758 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "United Kingdom"
+  ],
+  "dct_temporal_sm": [
+    "1758"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5831_R3_1758_H4_COPYA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5831-r3-1758-h4-copya",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-16.656514, 6.859413, 55.737144, 38.819076)",
+  "solr_year_i": 1758
+}

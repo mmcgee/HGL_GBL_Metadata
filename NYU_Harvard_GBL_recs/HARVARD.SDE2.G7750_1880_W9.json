@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Ceylon. It was published by James Wyld, Geographer to the Queen, between 1880 and 1889. Scale [ca. 1:580,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 44N, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, railroads, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7750_1880_W9",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Sri Lanka, 1880-1889 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Sri Lanka"
+  ],
+  "dct_temporal_sm": [
+    "1690"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7750_1880_W9",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7750-1880-w9",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(78.654993, 82.327275, 10.170024, 5.513706)",
+  "solr_year_i": 1690
+}

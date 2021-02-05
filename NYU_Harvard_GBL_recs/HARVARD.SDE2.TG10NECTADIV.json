@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This polygon data layer represents the 2010 TIGER/Line Census New England city and town area divisions for the United States. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. New England City and Town Area (NECTA) Divisions subdivide a NECTA containing a single core urban area that has a population of at least 2.5 million to form smaller groupings of cities and towns. NECTA Divisions are defined by the Office of Management and Budget (OMB) and consist of a main city or town that represents an employment center, plus adjacent cities and towns associated with the main city or town through commuting ties. Each NECTA Division must contain a total population of 100,000 or more. Because NECTA Divisions represent subdivisions of larger NECTAs, it is not appropriate to rank or compare NECTA Divisions with NECTAs. Not all NECTAs with urban areas of this size will contain NECTA Divisions. The NECTA Divisions for the 2010 Census are those defined by OMB and published in December 2009.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.TG10NECTADIV",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Cities and towns",
+    "Administrative and political divisions",
+    "Boundaries",
+    "Nation"
+  ],
+  "dc_title_s": "New England City and Town Area (NECTA) Divisions United States 2010",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "United States",
+    "U.S."
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG10NECTADIV",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg10nectadiv",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.947694, -70.516363, 43.082038, 41.762821)",
+  "solr_year_i": 2010
+}

@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte archÃ©ologique et topographique des ruines de Carthage : dressÃ©e d'aprÃ¨s les relevÃ©s de M. l'adjoint du gÃ©nie Bordy, avec le concours de MM. le R. P. Delattre, ... le gÃ©nÃ©ral Dolot,... P. Gauckler. It was published by Service gÃ©ographique de l'armÃ©e, ca. 1895. Scale 1:5,000. Covers Carthage, Tunis, Tunisia. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 32N, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and towns, villages, roads, railroads and stations, selected buildings and built-up areas, shoreline features, and more. Relief shown by contours and hachures. Overprinted to show archaeological sites. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8254_C3_1895_C3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Antiquities",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water"
+  ],
+  "dc_title_s": "Archaeological Map, Carthage, Tunisia, ca. 1895 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Tunisia",
+    "Tunis",
+    "Carthage"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8254_C3_1895_C3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8254-c3-1895-c3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(10.305679, 10.360311, 36.889191, 36.831399)",
+  "solr_year_i": 1895
+}

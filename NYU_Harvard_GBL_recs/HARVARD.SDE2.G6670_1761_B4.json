@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte du dÃ©troit de Gibraltar, dressee au depost de cartes et plans de la marine pour le service des vaisseaux du roy par ordre de M. le Duc de Choiseuil, Ministre de la Guerre et de la Marine; par le S. Bellin Ingeniuer de la Marine et du Depost des Plans, Censeur Royal, de l'Academie de Marine, et de la SocietÃ© Royale de Londres. It was published by Minstre de la guerre et de la marine in 1761. Scale [ca 1:2,000]. Covers the Strait of Gibraltar region, including coasts of Gibraltar, Morocco, and Spain. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 30N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features (including anchorage points), and more. Relief shown pictorially, depths by soundings. Includes also insets: Plan de Gibraltar [with index] -- Tables de marÃ©es qui regnent dans le dÃ©troit. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6670_1761_B4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Coasts",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Strait of Gibraltar, 1761 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Gibraltar, Strait of",
+    "Gibraltar",
+    "Morocco",
+    "Spain"
+  ],
+  "dct_temporal_sm": [
+    "1761"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6670_1761_B4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6670-1761-b4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.582994, -4.871175, 37.034762, 35.266344)",
+  "solr_year_i": 1761
+}

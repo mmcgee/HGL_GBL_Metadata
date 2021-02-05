@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "These polygons represent 14 provinces existing in the German Empire in 1890. Since only Prussia used provinces as administrative units, the provincial dataset as a layer likewise represents the territorial extension of the Kingdom of Prussia in 1890. Two changes have occurred as compared to 1871: The province of Prussia has again been split into the two provinces of East- and West Prussia, and the capital city of Berlin has been created as a province in its own jurisdiction.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1890PROVINCES",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "Population Statistics"
+  ],
+  "dc_title_s": "Germany Provincial Boundaries, 1890, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Czech Republic",
+    "Denmark",
+    "Lithuania"
+  ],
+  "dct_temporal_sm": [
+    "1890"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GHGIS1890PROVINCES",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1890provinces",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.401637)",
+  "solr_year_i": 1890
+}

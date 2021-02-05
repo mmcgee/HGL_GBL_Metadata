@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This polygon layer contains 33 wards and 11 precincts within the City of Cambridge. These were adjusted in 2011 from the 2010 U.S. Census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14WARDSPRECINCTS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "Election districts",
+    "Boundaries",
+    "Elections",
+    "Wards",
+    "Precincts"
+  ],
+  "dc_title_s": "Election Wards and Precincts, Cambridge, Massachusetts, 2011",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14WARDSPRECINCTS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14wardsprecincts",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.160581, -71.063845, 42.403841, 42.352358)",
+  "solr_year_i": 2011
+}

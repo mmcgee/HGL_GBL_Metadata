@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan geometral de Gibraltar : avec les nouveaux ouvrages de cette ville faits par les Anglois, les attaques des Espagnols commencees au mois de Fevrier 1727 et les lignes faites apres la levee du siege par ordre du Roy Catholique Philippe V pour empecher la communication de Gibraltar d'avec l'Espagne, construit d'apres plusieurs plans parle Chevalier de Beaurain Geographe Ordinaire du Roy. It was published by Le Chevalier de Beaurian in 1756. Scale [ca. 1:14,286]. Covers Gibraltar. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, UTM Zone 30N coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortification, ground cover, coastal features, and more. Relief is shown by hachures; depths by soundings and shading. Includes index, text, and views: Vue de la Montagne de Gibraltar du cote d'Orient -- Vue de la ville et de la Montagne de Gibraltar du cote d'Occident. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6670_1756_B4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Gibraltar, 1756 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Gibraltar"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6670_1756_B4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6670-1756-b4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-5.393595, -5.30495, 36.185659, 36.09072)",
+  "solr_year_i": 1756
+}

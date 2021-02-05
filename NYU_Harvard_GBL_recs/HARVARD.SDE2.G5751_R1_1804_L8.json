@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A complete representation of the coast of England, together with the interior, divided into counties and military districts : also the coast of France and Holland from the Texel to Brest ... to which is annexed eighteen plans of the ports of the enemy, the principal depÃ´ts of the flotilla intended for the invasion of England, by John Luffman, Geogr. It was published by J. Luffman in 1804. Scale [ca. 1:2,500,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'British National Grid' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, administrative and military district boundaries, shoreline features including distances between selected ports, and more. Includes insets of foreign military installations and index to the military districts. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5751_R1_1804_L8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Administrative and political division",
+    "Fortification",
+    "Coast defenses",
+    "Coasts",
+    "Human settlements",
+    "Cities and towns"
+  ],
+  "dc_title_s": "Military Districts, England and Wales, United Kingdom, 1804 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "England",
+    "Wales",
+    "Belgium",
+    "France",
+    "Ireland",
+    "Netherlands"
+  ],
+  "dct_temporal_sm": [
+    "1804"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5751_R1_1804_L8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5751-r1-1804-l8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-9.911051, 7.248898, 58.323959, 45.883523)",
+  "solr_year_i": 1804
+}

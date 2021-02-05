@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carta della colonia Eritrea coll'Abissinia : e regioni limitrofe tra il Nilo, Suakin e il Golfo d'Aden, costrutta e designata da Guido Cora ; lit[ografia] Salussolia. It was published by Fratelli Bocca in 1895. Scale 1:4,000,000. Covers Djibouti, Eritrea, and portions of Sudan, Ethiopia, Somalia, Yemen, and Saudi Arabia. Map in Italian. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, railroads, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures and spot heights. Includes also inset: \"Parte dell'Italia centrale alla medesima scala.\"  This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8340_1895_C6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Djibouti, Eritrea,   Eastern Africa, 1895 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Djibouti",
+    "Eritrea",
+    "Ethiopia",
+    "Saudi Arabia",
+    "Somalia",
+    "Sudan",
+    "Yemen",
+    "Africa, Eastern"
+  ],
+  "dct_temporal_sm": [
+    "1895"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8340_1895_C6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8340-1895-c6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(30.591271, 48.150088, 21.12614, 7.394354)",
+  "solr_year_i": 1895
+}

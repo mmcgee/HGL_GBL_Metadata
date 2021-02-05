@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This datalayer displays a point coverage displaying shopping centers and malls located in Massachusetts as of 1995. This data was originally prepared and distributed by Richard Gelpke of UMASS-BOSTON, based on data from the National Research Bureau Shopping Center Directory. It was published as part of the Massachusetts Electronic Atlas database in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MEAMALL96PT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "economy",
+    "Location",
+    "Structure",
+    "Shopping malls",
+    "Retail trade",
+    "Shopping centers"
+  ],
+  "dc_title_s": "Massachusetts Shopping Malls, 1996",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MEAMALL96PT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-meamall96pt",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.302206, -70.188756, 42.823184, 41.558471)",
+  "solr_year_i": 1996
+}

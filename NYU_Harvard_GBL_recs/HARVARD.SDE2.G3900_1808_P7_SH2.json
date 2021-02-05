@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: To David Stone and Peter Brown, Esq. : this first actual survey of the state of North Carolina taken by the subscribers is respectfully dedicated by their humble servants, Jona. Price and John Strother ; engraved by W. H. Harrison. It was printed by C.P. Harrison in 1808. Scale [ca. 1:506,880]. This layer is image 2 of 3 total images of the three sheet source map, representing the central portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the North Carolina State Plane NAD 1983 coordinate system (in Feet) (Fipszone 3200). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, canals, cities and towns, selected public buildings (churches, inns), industry locations (e.g. mills, mines, etc.), selected private buildings with names of property owners, state and county boundaries, shoreline features, and more. Relief shown pictorially and by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3900_1808_P7_SH2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "North Carolina, 1808 (Image 2 of 3) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "North Carolina"
+  ],
+  "dct_temporal_sm": [
+    "1808"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3900_1808_P7_SH2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3900-1808-p7-sh2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-81.3928, -78.132758, 37.057116, 33.414787)",
+  "solr_year_i": 1808
+}

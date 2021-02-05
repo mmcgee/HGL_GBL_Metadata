@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A topographical map of the county of Armagh to which is anex'd the plans of Newry and Armagh, by John Rocque = Carte topographique de la Province d'Armagh oÃ¹ se trouve les plans des villes d'Armagh et de Newry, par Jean Rocque. It was published by J. Rocque in 1760. Scale [ca. 1:41,000]. This layer is image 2 of 4 total images of the four sheet source map, representing the northeast portion of the map. Covers County ArmÃ gh, Northern Ireland. Map in English and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Irish Grid (Transverse Mercator 1965 (TM-65)) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, selected names of landowners, ground cover, and more. Relief shown by hachures and pictorially. Includes 2 insets: \"A Plan of the Town of Newry\" -- \"A Plan of the City of Armagh\". This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5793_A6_1760_R6_SH2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "County ArmÃ gh, Northern Ireland, United Kingdom, 1760 (Image 2 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Northern Ireland",
+    "ArmÃ gh, County"
+  ],
+  "dct_temporal_sm": [
+    "1760"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5793_A6_1760_R6_SH2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5793-a6-1760-r6-sh2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-6.629278, -6.225197, 54.561325, 54.242695)",
+  "solr_year_i": 1760
+}

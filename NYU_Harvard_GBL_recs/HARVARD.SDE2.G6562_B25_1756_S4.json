@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte des l'isles de Maiorque, Minorque et d'Yvice, gravÃ©e par Matthieu Seutter, Geographe de S.M. Imper. et Cathol. ; Tob. Conr. Lotter, sc. It was published by M. Seutter ca. 1756. Scale [ca. 1:560,000]. Covers Majorca Island, Minorca Island, and Isla de Ibiza, Spain. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, road, shoreline features, and more. Relief shown by hachures and pictorially. Includes 2 insets, one showing the islands and the western part of the Mediterranean, and, \"Plan du port et ville de Mahon, du Fort. St. Philippe et ses fortifications.\"  This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6562_B25_1756_S4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Majorca Island, Minorca Island, and Isla de Ibiza, Spain, ca. 1756 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Spain",
+    "Majorca Island",
+    "Minorca Island",
+    "Ibiza, Isla de"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6562_B25_1756_S4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6562-b25-1756-s4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(0.275372, 5.270519, 40.439497, 38.129045)",
+  "solr_year_i": 1756
+}

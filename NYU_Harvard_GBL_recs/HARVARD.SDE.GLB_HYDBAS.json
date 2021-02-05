@@ -1,0 +1,52 @@
+{
+  "dc_description_s": "This datalayer is a polygon coverage representing hydrologic drainage basins located worldwide. The data displayed here is derived from the HYDRO 1K Elevation Derivative Database. The drainage basins distributed with the HYDRO1k data set suite are derived using the vector stream networks along with the flow direction data set. Each polygon in the basin data set has been tagged with a Pfafstetter code uniquely identifying each sub-basin. HYDRO1k, developed at the U.S. Geological Survey's (USGS) EROS Data Center, is a geographic database providing comprehensive and consistent global coverage of topographically derived data sets. Developed from the USGS' recently released 30 arc-second digital elevation model (DEM) of the world (GTOPO30), HYDRO1k provides a standard suite of geo-referenced data sets (at a resolution of 1 km) that will be of value for all users who need to organize, evaluate, or process hydrologic information on a continental scale.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_HYDBAS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrology",
+    "Watersheds",
+    "Drainage",
+    "Altitudes",
+    "Inland Waters",
+    "elevation"
+  ],
+  "dc_title_s": "Global GIS : Drainage Basins",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Earth",
+    "Northern Hemisphere",
+    "Southern Hemisphere",
+    "Eastern Hemisphere",
+    "Western Hemisphere",
+    "Africa",
+    "Asia",
+    "Australia",
+    "Europe",
+    "North America",
+    "South America"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GLB_HYDBAS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-hydbas",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.999347, 179.999, 83.217361, -59.484882)",
+  "solr_year_i": 2003
+}

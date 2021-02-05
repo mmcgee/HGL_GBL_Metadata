@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "The polygons represent Congressional Districts (104th Congress) for the entire state. Congressional districts (CDs) are the 435 areas from which people are elected to the U.S. House of Representatives. After the apportionment of congressional seats among the states, based on census population counts, each state is responsible for establishing CDs for the purpose of electing representatives. Each CD is to be as equal in population to all other CDs in the state as practicable. The CDs of the 103rd Congress (January 1993 to 1995) were the first to reflect redistricting based on the 1990 census. These CD boundaries and numbers will remain in effect until after Census 2000, except where a state initiative or a court-ordered redistricting had required a change. Six states were redistricted for the 104th Congress (Georgia, Louisiana, Maine, Minnesota, South Carolina, and Virginia).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95OHCDCPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Political divisions",
+    "Legislators",
+    "United States. Congress"
+  ],
+  "dc_title_s": "Census Congressional Districts, 1995 - Ohio",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Ohio"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95OHCDCPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95ohcdcpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-84.820184, -80.518693, 41.977523, 38.403186)",
+  "solr_year_i": 1995
+}

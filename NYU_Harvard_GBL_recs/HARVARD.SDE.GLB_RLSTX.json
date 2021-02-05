@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer is a point coverage representing United States Geological Survey (USGS) realtime streamflow sampling station locations in the United States and territories. This layer contains geographic and attribute data for 7,055 stations with streamflow measurements recorded for a single date between July 7, 2003 and August 4, 2003. Attribute data also includes a URL for each station that provides a direct link to the most recent streamflow data available from the USGS water resources Web site. Historical data is also available from the USGS water resources Web site. The datalayer was published as part of the USGS Global GIS : global coverage database. Sampling stations are equipped with telemetry to transmit data on streamflow, temperature, and other parameters back to a database for real-time viewing via the World Wide Web. A map of the realtime stations is produced every day and is available from the USGS Web site: http://waterdata.usgs.govwis/.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_RLSTX",
+  "dc_language_s": "English",
+  "dc_publisher_s": "American Geological Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Streamflow",
+    "Stream measurement",
+    "Hydrology",
+    "Rivers",
+    "Inland Waters"
+  ],
+  "dc_title_s": "Global GIS : Realtime streamgaging stations (2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1973"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:GLB_RLSTX",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-rlstx",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-164.171051, -64.779717, 70.281105, 17.729393)",
+  "solr_year_i": 1973
+}

@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Venice. Venezia. Venedig, drawn by W. B. Clarke; engraved by B. R. Davies. It was published under the superintendence of the Society for the Diffusion of Useful Knowledge by George Cox Jan. 1, 1853. Scale [ca. 1:10,750]. This layer is image 1 of 2 total images of the two sheet source map, representing the western portion of the map.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950 UTM Zone 33N coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, canals, drainage, built-up areas and selected buildings, and more. Includes insets map and view: Plan of the environs of Venice shewing the Lagunes,  c.,  c.,  c. -- View of the Mint, St. Mark's Church, the Palace,  c., and illustrations of buildings. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6714_V4_1853_C4_SH1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Venice, Italy, 1853 (Image 1 of 2) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Italy",
+    "Venice"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6714_V4_1853_C4_SH1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6714-v4-1853-c4-sh1",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.293537, 12.347254, 45.454516, 45.413653)",
+  "solr_year_i": 1853
+}

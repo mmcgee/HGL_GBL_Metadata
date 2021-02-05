@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Schedion Athenon : emphainon ten te nÃ©an pÃ³lin tÃ² archaion Asty, synoikÃ­as, komas kaÃ¬ pÃ©rix demos hos eichon tÃ² pÃ¡lai kaÃ¬ tous neotÃ©rous, syntachtheis men hypo Athan. S. Georgiadou ... enkritheis de hypo Archaiologo Hellenon kai xenon dia psephismatos tou Demotikou Symvouliou Athenaion kai dia V. Diatagmatos 7 Iouniou 1908. It was published by Ekdosis Deutera in 1923. Scale 1:12,500. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Greek Geodetic Reference System (also called the Greek Grid). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, built-up areas, selected buildings, historic sites and points of interest, and more. Relief is shown hachures and contours. Includes illustrations, tables, indexes, and text. Map in Greek.  This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6814_A9_1923_G4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Athens, Greece, 1923 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Greece",
+    "Athens",
+    "AthÃ­na"
+  ],
+  "dct_temporal_sm": [
+    "1923"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6814_A9_1923_G4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6814-a9-1923-g4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.686748, 23.784571, 38.037336, 37.929391)",
+  "solr_year_i": 1923
+}

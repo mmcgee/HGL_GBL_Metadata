@@ -1,0 +1,67 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: An accurate plan of 189,120 acres of land on Penobscot River being the purchase from the Penobscot Indians by government on each side said river together with two gores of land, one on each side, drawn from the original by Osgood Carleton. It was published ca. 1798. Scale not given. Covers area along the Penobscot River, in Penobscot County, Maine in the Orono region. Also covers portions of  Piscataquis and Hancock counties. The image inside the map neatline is georeferenced to the surface of the earth and fit to Universal Transverse Mercator projection (UTM Zone 19N, meters, NAD 83). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows township divisions with areas in acres, drainage, and more. Relief is shown pictorially. Includes manuscript annotations. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.ME3732_P4_1798_C3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages"
+  ],
+  "dc_title_s": "Penobscot River, Penobscot County, Maine, 1798 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Penobscot River",
+    "Penobscot County",
+    "Piscataquis County",
+    "Hancock County",
+    "Orneville",
+    "Lagrange",
+    "Edinburg",
+    "Passadumkeag",
+    "Lowell",
+    "Greenbush",
+    "Argyle",
+    "Alton",
+    "Bradford",
+    "Hudson",
+    "Glenburn",
+    "Old Town",
+    "Milford",
+    "Bradley",
+    "Eddington",
+    "Orono",
+    "Amherst",
+    "Clifton",
+    "Greenfield",
+    "Summit"
+  ],
+  "dct_temporal_sm": [
+    "1798"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:ME3732_P4_1798_C3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-me3732-p4-1798-c3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-68.977125, -68.341555, 45.309455, 44.719836)",
+  "solr_year_i": 1798
+}

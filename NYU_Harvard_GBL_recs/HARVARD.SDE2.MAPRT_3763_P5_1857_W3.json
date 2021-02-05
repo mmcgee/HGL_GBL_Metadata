@@ -1,0 +1,71 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the county of Plymouth, Massachusetts, from actual surveys under the direction of Henry F. Walling, supt. of the state map ; H. Koch, engraver. It was published by D.R. Smith   Co. in 1857. Scale 1:47,520.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, public buildings, schools, churches, cemeteries, industry locations (e.g. mills, factories, mines, etc.), private buildings with names of property owners, town and county boundaries and more. Relief is shown by hachures. It includes many cadastral insets of individual county towns and villages, and an inset geological map of county. It also includes illustrations, business directories, and tables of statistics and distances. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MAPRT_3763_P5_1857_W3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Plymouth County, Massachusetts, 1857 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Plymouth County",
+    "Hull",
+    "Hingham",
+    "Scituate",
+    "Norwell",
+    "Hanover",
+    "Rockland",
+    "Abington",
+    "Whitman",
+    "Brockton",
+    "West Bridgewater",
+    "East Bridgewater",
+    "Bridgewater",
+    "Halifax",
+    "Hanson",
+    "Pembroke",
+    "Marshfield",
+    "Duxbury",
+    "Plymouth",
+    "Kingston",
+    "Carver",
+    "Plympton",
+    "Middleborough",
+    "Lakeville",
+    "Rochester",
+    "Mattapoisett",
+    "Marion",
+    "Wareham"
+  ],
+  "dct_temporal_sm": [
+    "1857"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MAPRT_3763_P5_1857_W3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-maprt-3763-p5-1857-w3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.134233, -70.201854, 42.306712, 41.584391)",
+  "solr_year_i": 1857
+}

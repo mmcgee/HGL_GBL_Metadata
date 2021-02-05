@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Tilforladelig kort over eylandet St. Croix : udi America saaledes som det ved en acurat udmaaling er besunden med qvarterernes navne og enhver plantagies nummer efter hvilke de udi matriculen findes indfÃ¶rte og til enhver kiÃ¶ber cederet beliggende paa 17 grader 38 minuter norder brede, Tegnet af I.M. Beck ; O.H. de Lode, Ch. R.S.D., sculpt. It was published by O.H. de Lode in 1754. Scale [ca. 1:60,000]. Map in Danish. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, shoreline features, built-up areas, quarter boundaries, roads, windmills, and more. Includes index and listing of plantation owners by quarter, and insets: Tegning til byen Friderichsstaed -- Tegning over byen Christianstaed paa eylandet St. Croix, faavit den allerede er bebygt.  This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5012_S2G46_1754_B4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Saint Croix, Virgin Islands, 1754 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Virgin Islands",
+    "Saint Croix"
+  ],
+  "dct_temporal_sm": [
+    "1754"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5012_S2G46_1754_B4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5012-s2g46-1754-b4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-64.962935, -64.528002, 17.912787, 17.57579)",
+  "solr_year_i": 1754
+}

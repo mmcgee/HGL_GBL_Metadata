@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This point layer contains locations of six types of historical markers throughout Cambridge, including blue oval historic markers, African American Heritage Trail markers, North Cambridge historic markers, granite tombstone markers, cast-iron markers, and Cambridge History Stations. The markers commemorate significant sites, events, buildings, and prominent figures in Cambridge history. A list of historical markers was created and is maintained by the Cambridge Historical Commission. Cambridge founded its historical marker program in 1976.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14HISTORICALMARKERS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Historic sites",
+    "Location",
+    "Historical Markers",
+    "Historical"
+  ],
+  "dc_title_s": "Historical Markers, Cambridge, Massachusetts, 2014",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2014"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14HISTORICALMARKERS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14historicalmarkers",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.148796, -71.077272, 42.402137, 42.355835)",
+  "solr_year_i": 2014
+}

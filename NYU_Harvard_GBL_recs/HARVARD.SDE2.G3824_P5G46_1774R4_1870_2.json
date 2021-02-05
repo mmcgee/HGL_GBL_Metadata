@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Fac simile of Reed's map : to the honourable House of Representatives of the freemen of Pennsylvania this map of the city and liberties of Philadelphia with the catalogue of purchasers is humbly dedicated by their most obedient humble servant, Iohn Reed, James Smither sculp. Facsimile of a map originally published in 1774. Republished by Charles L. Warner in 1870. Scale [1:23,760]. Covers portions of Philadelphia, Pa. This layer is image 2 of 2 total images of the two sheet source map, representing the western portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Pennsylvania South State Plane Coordinate System NAD83 (in Feet) (Fipszone 3702). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. Cadastral map showing property boundaries, areas, lot numbers, and names of landowers. Includes features such as roads, drainage, and more. Includes inset: A ground plan of the city of Philadelphia. Also includes extensive text and index of landowners. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3824_P5G46_1774R4_1870_2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Real property",
+    "Landowners",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms"
+  ],
+  "dc_title_s": "Philadelphia, Pennsylvania, Reed's map, 1774 (Raster Image) (Image 2 of 2)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania",
+    "Philadelphia"
+  ],
+  "dct_temporal_sm": [
+    "1774"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3824_P5G46_1774R4_1870_2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3824-p5g46-1774r4-1870-2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-75.372708, -75.192541, 40.120808, 39.915538)",
+  "solr_year_i": 1774
+}

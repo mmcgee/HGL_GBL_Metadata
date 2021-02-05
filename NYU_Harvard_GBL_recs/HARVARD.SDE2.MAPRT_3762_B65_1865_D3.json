@@ -1,0 +1,57 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Boston Harbor : showing the steamboat routes to places of amusement, engraved by G.W. Boynton. It was published by J.H. Daniels in 1865. Scale [ca. 1:63,360]. Covers Boston Harbor and adjacent lands.    The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows coastal features such as rocks, shoals, light houses, beacons, channels, steam boat routes and landings, points, coves, islands, and more. Depths are shown by shading. It also shows land features such as roads, settlements, forts, drainage, and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MAPRT_3762_B65_1865_D3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Bodies of water",
+    "Steamboat lines",
+    "Harbors",
+    "Coasts",
+    "Imagery and Base Maps",
+    "oceans"
+  ],
+  "dc_title_s": "Boston Harbor, Massachusetts, 1865 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston Harbor",
+    "Boston Bay",
+    "Boston",
+    "Revere",
+    "Winthrop",
+    "Chelsea",
+    "Everett",
+    "Nahant",
+    "Quincy",
+    "Hingham",
+    "Hull",
+    "Weymouth",
+    "Cohasset",
+    "Scituate"
+  ],
+  "dct_temporal_sm": [
+    "1865"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MAPRT_3762_B65_1865_D3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-maprt-3762-b65-1865-d3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.098477, -70.715826, 42.455212, 42.2209)",
+  "solr_year_i": 1865
+}

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata hollisno="010063731" layerid="GLB_GSODATA">
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>National Climatic Data Center (U.S.)</origin>
+        <origin>American Geological Institute</origin>
+        <origin>Geological Survey (U.S.)</origin>
+        <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+        <pubdate>2003</pubdate>
+        <title>Global GIS : NCDC worldwide station list for global surface summary of day sites</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>[Alexandria, VA]</pubplace>
+          <publish>American Geological Institute</publish>
+        </pubinfo>
+        <onlink>http://hgl.harvard.edu:8080/HGL/jsp/HGL.jsp?action=VColl&amp;VCollName=GLB_GSODATA</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>American Geological Institute</origin>
+            <origin>Geological Survey (U.S.)</origin>
+            <origin>Environmental Systems Research Institute (Redlands, Calif.)</origin>
+            <origin>Hearn, Paul P.</origin>
+            <pubdate>2003</pubdate>
+            <title>Global GIS : global coverage</title>
+            <geoform>digital data</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey digital data series</sername>
+              <issue>DDS-62A-H</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>[Alexandria, VA]</pubplace>
+              <publish>American Geological Institute</publish>
+            </pubinfo>
+            <othercit>1 DVD-ROM; Developed by the U.S. Geological Survey; Published by the American Geological Institute; by P. Hearn ... [et al.].</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This datalayer is a point coverage representing worldwide climate monitoring station locations as of October 24, 2002.  It was originally produced by the National Climatic Data Center (NCDC) and was published as part of the USGS Global GIS : global coverage database (2003). 
+
+This layer represents a complete list of all stations in the dataset, including station number, station name, country/state ID, latitude, longitude, and elevation for the NCDC global surface summary of day data. This dataset is used in the Global GIS volumes to link to an on-line dataset, which displays the NCDC data. Any data that had NULL longitudes or latitudes were removed. The web link will look like http://www.earthscienceworld.org/edata/gsod.html?station=&lt;&lt;stationid>>
+
+[Note: The URLs provided in the attribute table of this layer are outdated as of March 2006; please refer to the NCDC Website for current station information: http://www.ncdc.noaa.gov/cgi-bin/res40.pl?page=gsod.html)
+
+NCDC Information:
+Global surface summary of day data is produced by the National Climatic Data Center (NCDC) in Asheville, NC. The hourly data used in building these daily summaries are obtained from the USAF Climatology Center, located in the Federal Climate Complex with NCDC. The latest week of the daily summary data is placed on line by NCDC for easy access and download by outside users, and is normally available about 4 days after the end of the data week. The on line data files begin with January 1994. 
+
+About 8000 stations' data are typically included in the dataset. They are accessible through our WWW server (http://www.ncdc.noaa.gov/) or through direct ftp connection. Other periods of the summary of day data (up to 20 years or more) can be obtained off-line from NCDC. Also, the data can be displayed in graphical form using the visualization software on our WWW server. This allows the user to select the country and station(s) of interest, and quickly display the element(s) chosen.
+
+The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.</abstract>
+      <purpose>This layer is a general purpose global climatic monitoring stations datalayer intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production. This layer will provide a basemap for layers related to socio-economic and political anaylsis, statistical enumeration and analysis, or to support graphical overlays and analysis with other spatial data. More advanced user applications may focus on demographics, urban and rural land use planning and related areas including defining boundaries, managing assets and facilities, integrating attribute databases with geographic features, spatial analysis, and presentation output.</purpose>
+      <supplinf>Portions of this metadata are taken directly from the American Geological Institute, Global GIS, Web pages: http://www.agiweb.org/pubs/globalgis/</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20021024</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.900000</westbc>
+        <eastbc>179.750000</eastbc>
+        <northbc>83.680000</northbc>
+        <southbc>-90.000000</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>LCSH</themekt>
+        <themekey>Meteorological stations</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>climatologyMeteorologyAtmosphere</themekey>
+      </theme>
+      <place>
+        <placekt>LCSH</placekt>
+        <placekey>Earth</placekey>
+        <placekey>Northern Hemisphere</placekey>
+        <placekey>Southern Hemisphere</placekey>
+        <placekey>Eastern Hemisphere</placekey>
+        <placekey>Western Hemisphere</placekey>
+        <placekey>Africa</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Australia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>North America</placekey>
+        <placekey>South America</placekey>
+        <placekey>Polar regions</placekey>
+      </place>
+    </keywords>
+    <accconst>See Use constraints</accconst>
+    <useconst>The following data and products may have conditions placed on their international commercial use. They can be used within the U.S. or for non-commercial international activities without restriction. Re-distribution of these data by others must provide this same notification. A log of IP addresses accessing these data and products will be maintained and may be made available to data providers. For details, please consult: http://www.wmo.ch/web/www/DPS/RA%20VI%20WG%20Commercialization%202001.htm</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Climatic Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Federal Building</address>
+          <address>151 Patton Avenue</address>
+          <city>Asheville</city>
+          <state>NC</state>
+          <postal>28801-5001</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>(828) 271-4800</cntvoice>
+        <cntfax>(828) 271-4876</cntfax>
+        <cntemail>ncdc.info@noaa.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.1.0.722</native>
+  </idinfo>
+  <dataqual>
+    <logic>Unknown</logic>
+    <complete>A complete list of all stations in the dataset, including station number, station name, country/state ID, latitude, longitude, and elevation for the NCDC global surface summary of day data.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>National Climatic Data Center (U.S.)</origin>
+            <pubdate>Unknown</pubdate>
+            <title>Global surface summary of the day</title>
+            <geoform>digital data</geoform>
+            <pubinfo>
+              <pubplace>Asheville, N.C.</pubplace>
+              <publish>National Climatic Data Center</publish>
+            </pubinfo>
+            <onlink>http://www.ncdc.noaa.gov/cgi-bin/res40.pl?page=gsod.html</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19940101</begdate>
+              <enddate>current</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>NCDC</srccitea>
+        <srccontr>Dataset from which layer is derived</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Global GIS data was obtained via a DVD-ROM in the format of ESRI shapefiles.  The shapefiles were then imported to ArcSDE layers using the ArcSDE command line importing tool, shp2sde, version 8.3.</procdesc>
+        <srcused>Global GIS Data Set</srcused>
+        <procdate>20041101</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>Harvard Geospatial Library</cntorg>
+            </cntorgp>
+            <cntpos>GIS Technician</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>Harvard University Library</address>
+              <address>Office For Information Systems</address>
+              <address>1280 Massachusetts Avenue</address>
+              <city>Cambridge</city>
+              <state>MA</state>
+              <postal>02138</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>617-495-2417</cntvoice>
+            <cntfax>617-496-0440</cntfax>
+            <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+            <hours>Monday through Friday 9:00 A.M. to 4:00 P.M. EST-USA</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>17703</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.000001</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>WGS_1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257224</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Unknown</altdatum>
+        <altres>1.000000</altres>
+        <altunits>Unknown</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Global GIS Climate Monitoring Sites</enttypl>
+        <enttypd>NCDC worldwide climate monitoring stations list</enttypd>
+        <enttypds>American Geological Institute</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATION</attrlabl>
+        <attrdef>Station Id. The 6-digit station number (first 5 digits correspond to WMO number if one exists)</attrdef>
+        <attrdefs>NCDC</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Volume A, Observing Stations, WMO - No. 9</codesetn>
+            <codesets>World Meteorological Organization, Geneva Switzerland (issued periodically).</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Station name. The name is normally in the format of city name + qualifier, where the qualifier differentiates locations among stations or sites having the same town name (e.g. GREENVILLE 1 SW, GREENVILLE 2 NE). Exceptions to the city name convention include some military sites (e.g. LANGLEY AFB), and certain natural features or private holdings in remote areas (e.g. STAMPEDE PASS, JOHNSON RANCH, CAPE HATTERAS).</attrdef>
+        <attrdefs>NCDC</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>Two character state abbreviation (U.S. only)</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>United States Postal Code State Abbreviations</codesetn>
+            <codesets>USPS</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUNTRY</attrlabl>
+        <attrdef>Country of station</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ELEVATION</attrlabl>
+        <attrdef>Elevation in meters of station</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5181</rdommax>
+            <attrunit>meters</attrunit>
+            <attrmres>1</attrmres>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>9999</edomv>
+            <edomvd>Unknown</edomvd>
+            <edomvds>None</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAT</attrlabl>
+        <attrdef>Latitude of station location in decimal degrees</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-90</rdommin>
+            <rdommax>83.68</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LON</attrlabl>
+        <attrdef>Longitude of station location in decimal degrees</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-179.9</rdommin>
+            <rdommax>179.75</rdommax>
+            <attrunit>decimal degrees</attrunit>
+            <attrmres>.01</attrmres>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WEBLINK</attrlabl>
+        <attrdef>URL link to current station information. [Note: The URLs in this file are outdated as of March 2006; please refer to the NCDC Website for current station information: http://www.ncdc.noaa.gov/cgi-bin/res40.pl?page=gsod.html)</attrdef>
+        <attrdefs>American Geological Institute</attrdefs>
+        <attrdomv>
+          <udom>URL</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MARC.GLB_GSODATA.FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Although this data is being distributed by Harvard University, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SHAPE</formname>
+          <filedec>ZIP</filedec>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://hgl.harvard.edu/</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+      <ordering>Web-based distribution only</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20060317</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Harvard Geospatial Library</cntorg>
+        </cntorgp>
+        <cntpos>Geospatial Resources Cataloger</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Harvard University Library</address>
+          <address>Office For Information Systems</address>
+          <address>1280 Massachusetts Avenue</address>
+          <city>Cambridge</city>
+          <state>MA</state>
+          <postal>02138</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>617-495-2417</cntvoice>
+        <cntfax>617-496-0440</cntfax>
+        <cntemail>hgl_ref@hulmail.harvard.edu</cntemail>
+        <hours>Monday - Friday, 9:00 am - 4:00 pm EST-USA</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+</metadata>

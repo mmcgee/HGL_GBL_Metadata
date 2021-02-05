@@ -1,0 +1,62 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper nautical entitled: Boston Harbor, Massachusetts, from a trigonometrical survey under the direction of A.D. Bache, superintendent of the Survey of the Coast of the United States. It was published by United States Coast and Geodetic Survey in 1889. Scale 1:40,000. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as beacons, buoys, lighthouses, rocks, ledges, shoals, channels, points, coves, islands, and more. Includes also land features such as roads, railroads, settlements, selected buildings, wharves, life saving stations, drainage, and more. Relief shown by hachures. Depths shown by soundings and shading. Includes also tables of tides, lighthouses, and bottom types, and 3 coastal views.This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3762_B65P5_1889_U5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Bodies of water",
+    "Nautical charts",
+    "Harbors",
+    "Coasts",
+    "Hydrography"
+  ],
+  "dc_title_s": "Boston Harbor, Massachusetts, 1889 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Boston Harbor",
+    "Boston Bay",
+    "Boston",
+    "Braintree",
+    "Brookline",
+    "Cambridge",
+    "Chelsea",
+    "Cohasset",
+    "Everett",
+    "Hingham",
+    "Hull",
+    "Malden",
+    "Milton",
+    "Nahant",
+    "Quincy",
+    "Revere",
+    "Scituate",
+    "Somerville",
+    "Weymouth",
+    "Winthrop"
+  ],
+  "dct_temporal_sm": [
+    "1889"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3762_B65P5_1889_U5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3762-b65p5-1889-u5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.161647, -70.66482, 42.466048, 42.162544)",
+  "solr_year_i": 1889
+}

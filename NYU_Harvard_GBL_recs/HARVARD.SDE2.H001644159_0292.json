@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of a map plate entitled: Pascaarte vant Noordersche deel van Noorwegen van Dronten aff tot om de Noortcaap toe, met alle de eijlanden aende selfde custen gheleghen, alles gestelt op zijne rechte Streckinghen en behoorlijcke distantien, from the Willem Blaeu atlas entitled: Het licht der see-vaert : daerinne claerlijck beschreven ende afghebeeldet werde, alle de custen ende havenen vande Westersche, Noordsche, Oostersche ende Middelandsche zeen. It was published by Jan Janszoon, 1623-1625. This image covers Norwegian Sea, north coast of Norway. Scale ca. 1:2,000,000. Map in Dutch and French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Geodetic System 1984 (WGS 84) coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as harbors, inlets, rocks, channels, points, coves, shoals, islands, and more. Includes also selected land features such as roads, cities and towns, and other points of interest. Shows relief with hachures. Depths shown by shading and soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.H001644159_0292",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Coasts",
+    "Bodies of water",
+    "Harbors",
+    "Hydrography",
+    "Human settlements"
+  ],
+  "dc_title_s": "Norwegian Sea, North Coast of Norway, 1625 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Norwegian Sea",
+    "Barents Sea",
+    "Norway",
+    "SÃ¸r-TrÃ¸ndelag",
+    "Nord-TrÃ¸ndelag",
+    "Nordland",
+    "Troms",
+    "Finnmark"
+  ],
+  "dct_temporal_sm": [
+    "1625"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:H001644159_0292",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-h001644159-0292",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(6.101274, 28.809672, 77.420364, 60.947197)",
+  "solr_year_i": 1625
+}

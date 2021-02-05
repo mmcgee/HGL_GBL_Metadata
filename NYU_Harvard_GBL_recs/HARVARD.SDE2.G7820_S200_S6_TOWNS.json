@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "Vector dataset showing populated places (with names in Russian) over an area of the Zhejiang Sheng region, China, 1979. Dataset was derived from 6 sheet maps from a series of Soviet Army topographic maps of China 1:200,000, prepared and printed by the Soviet Army General Headquarters, 1976-1991.   Source maps were scanned and georeferenced to the Gauss-Kruger projection by Harvard Map Collection staff. Roads were traced and points were placed in ArcMap from the GeoTIFF using heads-up digitizing by East View Cartographic, Inc.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.G7820_S200_S6_TOWNS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Location",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "China, roads, Russian, cyrillic"
+  ],
+  "dc_title_s": "Zhejiang Sheng, China : Towns",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China",
+    "Zhejiang Sheng"
+  ],
+  "dct_temporal_sm": [
+    "1979"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:G7820_S200_S6_TOWNS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7820-s200-s6-towns",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(118.964018, 121.064941, 30.041674, 27.960412)",
+  "solr_year_i": 1979
+}

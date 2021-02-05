@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This datalayer depicts feature location and other associated data for Alaska Native Regional Corporations (ANRC). Categories included here are: the ANRC code and ANRC Name. ANRCs are corporate entities established by the Alaska Native Claims Settlement Act. Twelve ANRCs have specific boundaries that together cover the state of Alaska except for the Annette Islands Reserve (an American Indian reservation). A thirteenth corporation represents Alaska Natives not resident in Alaska who do not identify with any of the other 12 corporations.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95AKARCPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Indian reservations",
+    "Census",
+    "Population",
+    "Demography"
+  ],
+  "dc_title_s": "Alaska Native Regional Corporations, 1995 - Alaska",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Alaska"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95AKARCPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95akarcpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.14734, 179.778464, 71.389613, 51.215265)",
+  "solr_year_i": 1995
+}

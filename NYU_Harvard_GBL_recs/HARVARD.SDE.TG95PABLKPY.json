@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The polygons in this datalayer represent U.S. Census Blocks for the entire state of Pennsylvania. Census blocks are areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and by invisible boundaries, such as city, town, township, and county limits, property lines, and short, imaginary extensions of streets and roads. Generally, census blocks are small in area; for example, a block bounded by city streets. However, census blocks in sparsely settled areas may contain many square miles of territory. All territory in the United States, Puerto Rico, and the Island Areas has been assigned block numbers. For the 1990 census, water was not uniquely identified within a census block; instead, all water area internal to a block group was given a single block number ending in ''99''  (The 1990 census block numbers had three digits, with a potential alphabetic suffix.) For the 1990 census, the U.S. Census Bureau created a separate block with a suffix of ''Z'' to identify crews-of-vessels.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95PABLKPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Population",
+    "Demography",
+    "Boundaries",
+    "Census blocks"
+  ],
+  "dc_title_s": "Census Blocks, 1990 - Pennsylvania",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Pennsylvania"
+  ],
+  "dct_temporal_sm": [
+    "1990"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95PABLKPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95pablkpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-80.519891, -74.690143, 42.26986, 39.7198)",
+  "solr_year_i": 1990
+}

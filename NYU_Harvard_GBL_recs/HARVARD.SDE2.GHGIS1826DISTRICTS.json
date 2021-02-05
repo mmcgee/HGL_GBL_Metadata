@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "These polygons represent 72 governmental districts (Regierungsbezirke) existing in several of the sovereign states of the German Confederation (the Deutscher Bund) in 1826. All were located within the (future) boundaries of the German Empire that would be founded in 1871(\"core Germany\"). In 1826, governmental districts formed the middle level administrative units in nearly all of the larger territorial German states: Prussia, Hanover, Saxony, Bavaria, Wurttemberg, Baden, Hesse-Kassel, and Hesse-Darmstadt.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.GHGIS1826DISTRICTS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Political Divisions",
+    "sovereign states",
+    "Boundaries",
+    "Administrative and political divisions",
+    "Population Statistics"
+  ],
+  "dc_title_s": "Germany Governmental District Boundaries, 1826, German Historical GIS",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "German Confederation",
+    "Central Europe",
+    "Germany",
+    "Poland",
+    "Kaliningrad Oblast",
+    "Belgium",
+    "Lithuania",
+    "Czech Republic"
+  ],
+  "dct_temporal_sm": [
+    "1826"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GHGIS1826DISTRICTS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ghgis1826districts",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(4.819391, 23.157687, 56.025202, 47.056982)",
+  "solr_year_i": 1826
+}

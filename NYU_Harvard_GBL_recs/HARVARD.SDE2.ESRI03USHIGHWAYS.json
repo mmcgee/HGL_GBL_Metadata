@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "U.S. National Transportation Atlas Highways represents rural interstates and arteries; and urban freeways, expressways, interstates, and arteries. U.S. National Transportation Atlas Highways is part of the National Highway Planning Network version 4.0 (line) published by the Federal Highway Administration as part of the National Transportation Atlas Databases for the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.ESRI03USHIGHWAYS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Roads",
+    "Express highways",
+    "Toll roads",
+    "Transportation",
+    "line",
+    "highways"
+  ],
+  "dc_title_s": "ESRI Data   Maps 2003 : U.S. National Transportation Atlas Highways",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:ESRI03USHIGHWAYS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-esri03ushighways",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-176.766473, 179.3916, 71.316578, 18.912034)",
+  "solr_year_i": 2002
+}

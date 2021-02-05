@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper manuscript map entitled: A plan of a part of the land belonging to the honorable Frances Dana, Esqr. lying in Cambridge, by Peter Tufts, May 23rd, 1810. Scale [1:1,980]. Manuscript: pen-and-ink and watercolor on paper. Covers area [Quincy St.] to Lee St., [Massachusetts Ave.] to [Broadway], Cambridge, Massachusetts.   The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This is a cadastral map showing lot numbers, dimensions and areas, and names of adjacent property owners with dates of purchase. Buildings are shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.MATWN_3764_C2_2H25_G46_1810_T8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps, Manuscript",
+    "Real property",
+    "Land use",
+    "Imagery and Base Maps",
+    "Planning and Cadastral"
+  ],
+  "dc_title_s": "Frances Dana's lands, Cambridge, Massachusetts, 1810 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "1810"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MATWN_3764_C2_2H25_G46_1810_T8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-matwn-3764-c2-2h25-g46-1810-t8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.119435, -71.102013, 42.377685, 42.365453)",
+  "solr_year_i": 1810
+}

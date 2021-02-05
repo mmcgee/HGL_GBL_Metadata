@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "Location of trails in King County, Washington. City trails and private trails may not be complete. Covers also small portions of Pierce, Kittitas, and Chelan Counties.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.KNG_TRAILS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "King County GIS Center",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Municipal",
+    "Trails",
+    "Society"
+  ],
+  "dc_title_s": "King County, Washington : Trails",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Washington",
+    "King County",
+    "Chelan County",
+    "Kittitas County",
+    "Pierce County"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:KNG_TRAILS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-kng-trails",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-122.50861, -121.04232, 47.790637, 47.060922)",
+  "solr_year_i": 2003
+}

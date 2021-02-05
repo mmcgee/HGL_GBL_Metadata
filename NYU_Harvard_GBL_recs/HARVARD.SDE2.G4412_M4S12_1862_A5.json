@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carta hidrogrÃ¡fica del Valle de MÃ©xico, levantada de Ã³rden del Ministerio de Fomento por los ingenieros Miguel Iglesias, Ramon Almaraz, Mariano Santa-MarÃ­a y JosÃ© Antonio de la PeÃ±a, bajo la direccion del Ingeniero GeÃ³grafo Francisco Diaz Covarrubias antiguos alumnos del Colegio Nacional de MinerÃ­a 1862 ; RamÃ³n Almaraz delineo. It was published by La Sociedad in 1863. Scale 1:80,000. Covers the Valley of Mexico region. Map in Spanish.The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, canals, aqueducts, cities, towns, and other human settlements, selected buildings, ranches and properties, built-up areas, roads, ground cover, and more. Relief shown by hachures. Depths shown by soundings. Includes 2 profiles: Plano de Comparacion -- Perfil de los acueductos with chart entitled \"Tabla comparativa de alturas de los puntos principales del perfil.\"This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4412_M4S12_1862_A5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Transportation",
+    "Infrastructure (Economics)",
+    "Land use"
+  ],
+  "dc_title_s": "Valle de MÃ©xico, Mexico, Hydrography, 1862 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mexico",
+    "Mexico, Valle de",
+    "Federal, Distrito",
+    "Hidalgo, Estado de",
+    "Mexico, Estado de"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4412_M4S12_1862_A5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4412-m4s12-1862-a5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-99.355359, -98.786345, 19.993682, 19.152906)",
+  "solr_year_i": 1862
+}

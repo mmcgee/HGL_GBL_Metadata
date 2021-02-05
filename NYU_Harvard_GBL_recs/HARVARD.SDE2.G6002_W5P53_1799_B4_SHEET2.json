@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Reconnoissance du cours du Hont ou Wester Schelde (Escaut occidental) depuis Anwerpen (Anvers) jusqu'Ã  l'embouchure, faite par ordre du Ministre de la marine et des colonies, en thermidor et fructidor, an VII, vendÃ©miaire et brumaire, an VIII, par Beautemps-BeauprÃ©; assistÃ© des Cens. Daussy et Portier, et de Jh. Raoul. It was published ca. 1799. Scale [ca. 1:41,300]. Covers Westerschelde, Netherlands and Belgium, from Middelburg to Antwerp. This layer is image 2 of 3 total images of the three sheet source map, representing the center portion of the map. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the RD_New (Rijksdriehoekstelsel), GCS Amersfoort coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows coastal features such as rocks, channels, points, ports, coves, islands, flats, canals, and more. Includes also selected land features such as roads, towns, fortification, drainage, land cover, selected buildings, and more. Relief shown pictorially and with hachures. Depths shown by contours and soundings. Includes \"Nota\" and text with insigne of the DÃ©pÃ´t gÃ©nÃ©ral de la marine. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6002_W5P53_1799_B4_SHEET2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water"
+  ],
+  "dc_title_s": "Westerschelde, Netherlands and Belgium, ca. 1799 (Image 2 of 3) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Netherlands",
+    "Westerschelde"
+  ],
+  "dct_temporal_sm": [
+    "1799"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6002_W5P53_1799_B4_SHEET2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6002-w5p53-1799-b4-sheet2",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(3.73193, 4.10683, 51.544315, 51.193913)",
+  "solr_year_i": 1799
+}

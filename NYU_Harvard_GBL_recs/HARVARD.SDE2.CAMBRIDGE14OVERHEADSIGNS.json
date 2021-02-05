@@ -1,0 +1,46 @@
+{
+  "dc_description_s": "This layer contains line features representing overhead signs in Cambridge, Massachusetts, 2010",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14OVERHEADSIGNS",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Signs and signboards",
+    "Display boards",
+    "Safety signs",
+    "Street signs",
+    "Location",
+    "Society",
+    "Structure"
+  ],
+  "dc_title_s": "Overhead Signs, Cambridge, Massachusetts, 2010 (pub. 2014)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "City of Cambridge, MA",
+    "USA",
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14OVERHEADSIGNS",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14overheadsigns",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.148088, -71.063699, 42.399469, 42.354468)",
+  "solr_year_i": 2010
+}

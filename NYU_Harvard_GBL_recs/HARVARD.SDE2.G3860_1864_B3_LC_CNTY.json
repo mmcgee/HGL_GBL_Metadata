@@ -1,0 +1,60 @@
+{
+  "dc_description_s": "County borders during the US Civil War in the Confederate States. Vector data extracted from digital map provided by the Library of Congress at http://hdl.loc.gov/loc.gmd/g3860.cw0048100. Image georeferencing and feature extraction work done by EastView.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.G3860_1864_B3_LC_CNTY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "county",
+    "canton",
+    "parish",
+    "constituency",
+    "state",
+    "territory",
+    "district"
+  ],
+  "dc_title_s": "Civil War Southern States : County Boundaries, ca. 1864",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "southeastern US",
+    "confederate states",
+    "Alabama",
+    "Arkansas",
+    "Florida",
+    "Georgia",
+    "Kentucky",
+    "Louisiana",
+    "Mississippi",
+    "Missouri",
+    "North Carolina",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia",
+    "West Virginia",
+    "Confederate States of America",
+    "Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1864"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:G3860_1864_B3_LC_CNTY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3860-1864-b3-lc-cnty",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-98.393278, -75.50065, 40.647123, 25.093579)",
+  "solr_year_i": 1864
+}

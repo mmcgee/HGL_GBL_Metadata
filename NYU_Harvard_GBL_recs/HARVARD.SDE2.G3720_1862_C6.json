@@ -1,0 +1,54 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: G. Woolworth Colton's railroad, township   distance map of New England : with adjacent portions of New York, Canada   New Brunswick, drawn, engraved   published by G. Woolworth Colton. It was published in 1862. Scale 1:900,000.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the USA Contiguous Albers Equal Area Conic projection (Meters). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, state, county, and town boundaries, and more. Relief shown by hachures. Includes table of distances and inset: The eastern portion of Massachusetts on an enlarged scale. Scale 1:350,000. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3720_1862_C6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Bodies of water",
+    "Transportation",
+    "Railroads"
+  ],
+  "dc_title_s": "New England, 1862 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Vermont",
+    "New Hampshire",
+    "Massachusetts",
+    "Rhode Island",
+    "Connecticut",
+    "New York",
+    "New Jersey",
+    "Canada",
+    "Quebec",
+    "New Brunswick",
+    "New England"
+  ],
+  "dct_temporal_sm": [
+    "1862"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3720_1862_C6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3720-1862-c6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.574931, -62.799371, 49.847524, 38.24936)",
+  "solr_year_i": 1862
+}

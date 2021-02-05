@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: åºœæ‡¸æ”¹æ­£å¤§æ—¥æœ¬å…¨åœ– : å…¨ [Fuken kaisei Dai Nihon zenzu : zen], Sekiguchi Bisho shu. It was published by Kobayashi ShinbÄ“, Nakamura Nakamura KumajirÅ in Meiji 9 [1876]. Scale: 1:100,000. Map in Japanese. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Asia North Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, administrative boundaries, shoreline features, and more. Includes 3 island insets: HokkaidÅ, RyÅ«kyÅ« shotÅ, and Ogasawara guntÅ; and 6 additional insets: Owari Nagoya, Rikuzen Sendai, Aki Hiroshima, and Higo Kumamoto. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7960_1876_S35_VF",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Japan, 1876 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Japan"
+  ],
+  "dct_temporal_sm": [
+    "1876"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7960_1876_S35_VF",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7960-1876-s35-vf",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(122.309418, 150.391049, 47.522761, 24.92769)",
+  "solr_year_i": 1876
+}

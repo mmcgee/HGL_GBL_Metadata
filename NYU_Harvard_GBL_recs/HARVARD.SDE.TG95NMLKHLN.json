@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This datalayer displays the hydrographic features throughout the state. This category includes shorelines of all water regardless of the classification of the water itself. Predominant features represented in this layer have Census Feature Class Codes (CFCCs) of: H01 (Shoreline of perennial water feature); H11 (Perennial stream or river); H12 (Intermittent stream, river, or wash). The Feature Name attribute further identifies water bodies as rivers, reservoirs, creeks, branches, forks, etc.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95NMLKHLN",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Inland Waters",
+    "Census",
+    "Hydrography",
+    "Hydrology",
+    "Rivers",
+    "Reservoirs",
+    "Shorelines"
+  ],
+  "dc_title_s": "Census Hydrographic Features, 1995 - New Mexico",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Mexico"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:TG95NMLKHLN",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95nmlkhln",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-109.050172, -103.002065, 37.00023, 31.332196)",
+  "solr_year_i": 1995
+}

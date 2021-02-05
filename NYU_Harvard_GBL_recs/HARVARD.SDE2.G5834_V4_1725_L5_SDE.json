@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan gÃ©nÃ©ral de la ville et du chÃ¢teau de Versailles : de ses jardins, bosquets et fontaines dediÃ© au Roy, par Pierre le Pautre, architecte et graveur ordinaire de sa MajestÃ© ; Eleazar Gouman fecit. It was published by And. en Hand. de Leth. op de Beurszluys in de Visser in [1725]. Scale [ca. 1:7,500]. Covers the grounds of Versailles. Map in French and Dutch. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950, Universal Transverse Mercator (UTM) Zone 31N projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, paths, drainage, buildings, gardens, ground cover, and more. Relief is shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5834_V4_1725_L5_SDE",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Versailles, France, 1725 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "France",
+    "Versailles"
+  ],
+  "dct_temporal_sm": [
+    "1725"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5834_V4_1725_L5_SDE",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5834-v4-1725-l5-sde",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(2.060298, 2.163281, 48.838669, 48.7779)",
+  "solr_year_i": 1725
+}

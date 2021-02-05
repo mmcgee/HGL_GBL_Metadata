@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The US Geological Survey (USGS) maintains stream-gaging stations in Massachusetts. This coverage maps the location of the 71 continuous stream-gaging stations managed by USGS in 1994. Though maintained by USGS, these seventy one stations are funded by various sources. The points in this datalayer are fairly stable from year to year, though new gages are added and others removed as project work requires. Steam-gaging stations in Massachusetts are identified by gaging-station number, location, and funding source for 1994 sites.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISGAGESX1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Stream-gaging stations",
+    "Stream measurements",
+    "Hydrology",
+    "Rivers",
+    "Streamflow",
+    "Inland Waters"
+  ],
+  "dc_title_s": "MassGIS 2000 Stream-Gaging Stations (1994)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISGAGESX1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisgagesx1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.354833, -70.507806, 42.752869, 41.592332)",
+  "solr_year_i": 1994
+}

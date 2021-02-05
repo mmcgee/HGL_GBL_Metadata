@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "Bus Terminals for the Tehran and Karaj region, Iran. VECTOR DATA of 1:25,000 scale mapping of IRAN. Source data is from an aerial photography mission which ran from 2002-2008.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.LI_IRTEH_BUSTERMINAL",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "xxFeature",
+    "Inland Waters"
+  ],
+  "dc_title_s": "Bus Terminals, Tehran and Karaj Region, Iran, 2002-2008",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Iran",
+    "Tehran",
+    "Karaj",
+    "Shahriar"
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:LI_IRTEH_BUSTERMINAL",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-li-irteh-busterminal",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(50.973484, 51.580824, 35.84331, 35.424499)",
+  "solr_year_i": 0
+}

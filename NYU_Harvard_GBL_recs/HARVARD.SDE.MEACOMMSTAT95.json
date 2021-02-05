@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer is a point coverage which displays the status of Commuter Rail Stations throughout the Metropolitan Area Planning Council region of Massachusetts. This file describes the status of commuter rail stations (existing, proposed, or under construction) in the MAPC Plan for Massachusetts published in 1997. Included are new extensions under construction on the north shore, to Worcester and the recently opened and proposed lines of the Old Colony Line on the south shore. This layer was derived from the Massachusetts Electronic Atlas database published by the Harvard Map Collection in 2001. The Massachusetts Electronic Atlas (MEA) was a collaborative project to provides access, via the Internet, to data about the Commonwealth, its thirteen regional planning agency districts and 351 cities and towns. This dataset is now only available via The Harvard Geospatial Library.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MEACOMMSTAT95",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Structure",
+    "Railroads",
+    "Railroad stations",
+    "Commuting",
+    "Transportation"
+  ],
+  "dc_title_s": "Massachusetts Commuter Rail Stations Status",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MEACOMMSTAT95",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-meacommstat95",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.519051, -70.62628, 42.679402, 42.080449)",
+  "solr_year_i": 1995
+}

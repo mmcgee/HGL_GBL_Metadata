@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carta geogro. topogrÃ¡fica de la isla de Cuba : dedicanla a la Reyna Nuestra SeÃ±ora DoÃ± a Isabel II, El Teniente General Conde de Cuba y la ComisiÃ³n de Gefes y Oficiales Militares y de Agrimensores PÃºblicos que la levantÃ³ y formÃ³ de su orden en los aÃ±os de 1824 Ã¡ 1831/Do. Estruch lo grabÃ³ en Barcelona 1835 ; Carlos Roca lo dibujÃ³. It was published in 1835. Scale [ca. 1:325,000]. This layer is image 5 of 6 total images of the six sheet source map. Map in Spanish. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Mercator project coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, shoreline features, and more. Relief shown by hachures, depths by soundings. Includes also indexes, table of distances, statistical tables, and insets: \"Plano de la ciudad y puerto de La Habana\" [ca. 1:16.000]. -- \"Plano de la ciudad y bahÃ­a de Sn. Carlos de Matanzas\" [ca. 1:14.500]. -- \"Ciudad de Sta. MarÃ­a del Puerto Principe\" [ca. 1:16.000]. -- \"Plano de la ciudad de Santiago de Cuba\" [ca. 1:16.000] -- \"Plano de la bahÃ­a de Cuba\" [ca. 1:48.000]. -- \"Plano de la ciudad de Trinidad\" [ca. 1:16.000]. -- \"Puerto de Casilda\" [ca. 1:43.000]. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4920_1835_C3_SH5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Cuba, 1835 (Image 5 of 6) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "dct_temporal_sm": [
+    "1835"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4920_1835_C3_SH5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4920-1835-c3-sh5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.342487, -75.342358, 23.324863, 19.749757)",
+  "solr_year_i": 1835
+}

@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Road map of Massachusetts, prepared by General Drafting Co., Inc. ; published and presented by the First National Bank of Boston, May 1922. Scale [ca. 1:285,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads by condition (first class trunk line highways, trunk line highways, good or fairly good roads, poor roads, very poor roads), distances in miles between places, drainage, county boundaries and more. Relief is shown by hachures. Includes insets: Important routes of lower New England -- Cape Cod -- [Boston and Cambridge]. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE.MA_3761_P2_1922_G4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Harvard Map Collection, Harvard College Library",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Roads",
+    "Bodies of water",
+    "Imagery and Base Maps",
+    "Transportation"
+  ],
+  "dc_title_s": "Road map of Massachusetts, 1922 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1922"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MA_3761_P2_1922_G4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ma-3761-p2-1922-g4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-73.63442, -70.306096, 42.985499, 41.302435)",
+  "solr_year_i": 1922
+}

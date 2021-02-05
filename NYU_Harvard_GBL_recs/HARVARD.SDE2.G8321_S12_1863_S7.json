@@ -1,0 +1,53 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the route explored by Captns. Speke   Grant from Zanzibar to Egypt : showing the outfall of the Nile from the Victoria Nyanza (Lake) and the various Negro territories discovered by them. It was published by Edward Stanford in 1863. Scale [ca. 1:5,800,000]. Covers portions of north and eastern Africa including parts of Sudan, Eritrea, Ethiopia, Uganda, Kenya, Rwanda, Burundi, and Tanzania. The image inside the map neatline is georeferenced to the surface of the earth and projected to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, expedition routes of John Speke and James Grant, cities and other human settlements, tribe and territorial boundaries, and more. Relief is shown by hachures. Includes location map and text. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8321_S12_1863_S7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Travel",
+    "Discovery and exploration",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water"
+  ],
+  "dc_title_s": "Eastern Africa showing expedition route of Speke and Grant, 1863 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa, Eastern",
+    "Burundi",
+    "Eritrea",
+    "Ethiopia",
+    "Kenya",
+    "Rwanda",
+    "Sudan",
+    "Tanzania",
+    "Uganda",
+    "Nile River",
+    "Victoria, Lake"
+  ],
+  "dct_temporal_sm": [
+    "1863"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8321_S12_1863_S7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8321-s12-1863-s7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.571297, 43.353946, 21.246208, -10.530818)",
+  "solr_year_i": 1863
+}

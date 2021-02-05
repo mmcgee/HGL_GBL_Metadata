@@ -1,0 +1,50 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Royaume de Siam, avec les royaumes qui luy sont tributaires, et les isles de Sumatra, Andemaon, etc., corrigÃ©s selon les observations des six Peres Jesuites ... ; dressÃ© et dedie Ã  Mr. l'abbÃ© de Dangeau par ... le Pere Coronelli, Cosmographe de la Republique de Venisse. It was published by chez Jean Baptiste Nolin in 1742. Scale [ca. 1:4,400,000]. Covers a portion of Southeast Asia including: Indonesia, Malaysia, Thailand, India, Burma, Laos, Cambodia, and Vietnam. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Universal Transverse Mercator (UTM Zone 48N, meters, WGS 1984) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial and administrative boundaries, shoreline features, and more. Relief shown pictorially. Depth shown by sounding. Includes notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8000_1742_C6",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Southeast Asia, 1742 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Burma,",
+    "Cambodia",
+    "India",
+    "Indonesia",
+    "Laos",
+    "Malaysia",
+    "Thailand",
+    "Vietnam",
+    "Southeast Asia"
+  ],
+  "dct_temporal_sm": [
+    "1742"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8000_1742_C6",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8000-1742-c6",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(87.859163, 115.927608, 20.118748, -10.944629)",
+  "solr_year_i": 1742
+}

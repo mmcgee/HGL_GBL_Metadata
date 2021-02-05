@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "The Aqueducts layer contains linework representing water-transporting conduits from 1:100,000 U.S. Geological Survey Digital Line Graph (DLG) files, with additional linework added by the Massachusetts Water Resources Authority.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISAQUEDCTA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Aqueducts",
+    "Canals",
+    "Hydrology",
+    "Hydraulic Structures",
+    "Communication"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts aqueducts (July 1998)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISAQUEDCTA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisaquedcta",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.20555, -70.804604, 42.590367, 41.989562)",
+  "solr_year_i": 1998
+}

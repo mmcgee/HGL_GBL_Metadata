@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "The MassGIS 1:25,000 Hydrography datalayer represents hydrographic (water-related) features, including surface water (lakes, ponds, reservoirs), wetlands, bogs, flats, rivers, streams, and others (see attributes section below). MassGIS has edited and modified the USGS 1:25,000 Hydrography Digital Line Graph (DLG) quadrangle files and the USGS 1:100,000 Hydrography DLG files and digitized hydrographic features from the USGS 1:25,000 Topographic Quadrangles to produce a hybrid 1:25,000 Massachusetts Hydrography Datalayer. The 1:100,000 DLG features were enhanced by digitizing those streams and ponds from the USGS quadrangles that were not part of the 1:100,000 data. MassGIS has also scanned USGS mylar separates to begin replacing the 1:100,000 enhanced data with 1:25,000 features.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISHDP2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hydrography",
+    "Bodies of water",
+    "Inland Waters",
+    "oceans"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Hydrography (1:25,000) (Polygons) (March 2003)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISHDP2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgishdp2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.525811, -69.826032, 43.002511, 41.109704)",
+  "solr_year_i": 2003
+}

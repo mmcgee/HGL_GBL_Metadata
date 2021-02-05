@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "The Massachusetts State Senate Legislative Districts (1993) datalayer reflects the State Senate district boundaries as defined by Chapter 274 of the Acts of 1993. The name of the statewide datalayer is SENATE93. Names of elected officials are up-to-date through March 1997.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISSENATEP1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Election districts",
+    "Administrative and political division",
+    "Legislators",
+    "Boundaries"
+  ],
+  "dc_title_s": "MassGIS 2000 Massachusetts Senate Legislative Districts (1993)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISSENATEP1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgissenatep1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.50814, -69.927802, 42.88679, 41.237962)",
+  "solr_year_i": 1997
+}

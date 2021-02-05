@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of a portion of the historic paper map: [Oceania], corrected August 1872 ... R.H. Wyman, Commo. U.S.N. Hydrographer to the Bureau of Navigation. It was published by the Hydrographic Office in 1890. This dataset is georeferenced for the component map entitled: Flint's Island, by the U.S. Ex.Ex. 1841. Scale [ca. 1:80,000]. Covers Flint Island, Line Islands, Kiribati. The original map contains multiple maps on one sheet. Because the map images are non-contiguous and possibly at differing scales, each map image was georeferenced separately. Please see the 'cross references' section for other maps on this sheet. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'Mercator' projection. All map collar and inset information is also available as part of the raster image, including any ancillary maps, inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows shoreline features such as shoals, sand banks, boat moorings, and more. Relief shown by hachures. Depths shown by soundings. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9251_S12_1890_U5_MAPB",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Islands",
+    "Coral reefs and islands",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Flint Island, Kiribati, 1841 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Kiribati",
+    "Line Islands",
+    "Flint Island"
+  ],
+  "dct_temporal_sm": [
+    "1841"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9251_S12_1890_U5_MAPB",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9251-s12-1890-u5-mapb",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-152.108977, -151.671224, -11.310888, -11.802386)",
+  "solr_year_i": 1841
+}

@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "Polygons represent provincial boundaries in China for the year 1820. The CHGIS will establish a database of historical administrative units, as well as physical and cultural features for different periods in Chinese History, and will also provide a base GIS platform for researchers to use for spatial analysis, temporal statistical modeling, and representation of selected historical units as digital maps.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.CHGIS_PROV_PY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "CHGIS, Harvard Yenching Institute",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Location",
+    "Administrative Divisions",
+    "Political Divisions",
+    "Provinces",
+    "Provincial Boundaries"
+  ],
+  "dc_title_s": "CHGIS China Province Boundaries, 1820",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1820"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:CHGIS_PROV_PY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-chgis-prov-py",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(69.756578, 144.751587, 55.923805, 3.853723)",
+  "solr_year_i": 1820
+}

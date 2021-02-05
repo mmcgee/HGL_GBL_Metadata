@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Ulma memorabilis ac permunita libera Imperii Civitas ad Danubium, ubi Ilara et Blavus ei miscentur = Ulm eine considerable Freye Reichs Statt in Schwaben, wo die FlÃ¼sse Iler u. Blau in die Donau fallen, verfertigt durch Matthaeum Seutter, Seiner Kayserl. u. KÃ¶nigl. Cathol. Majest. Geogr. in Augspurg. It was published by Matthaeus Seutter, ca. 1740. Scale [ca. 1:4,300]. Covers Ulm, Germany. Map in Latin and German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Deutsches Hauptdreiecksnetz (DHDN) 3-degree Gauss-Kruger Zone 3 coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, drainage, built-up areas and selected buildings, fortifications, ground cover, and more. Relief shown pictorially. Includes also index, text, and panorama of Ulm seen from the North East. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6299_U4A3_1740_S4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Aerial views",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Ulm, Germany, ca. 1740 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Germany",
+    "Ulm"
+  ],
+  "dct_temporal_sm": [
+    "1740"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6299_U4A3_1740_S4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6299-u4a3-1740-s4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(9.967139, 10.020282, 48.407555, 48.385097)",
+  "solr_year_i": 1740
+}

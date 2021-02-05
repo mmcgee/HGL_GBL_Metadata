@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: City of Calcutta, E. P. Richards. It was printed by Jennings   Bewley in 1913. Scale 1:21,120. Covers Kolkata and a portion of H?ora, India. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'WGS 1984 UTM Zone 45N' coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as residential and industrial zoning districts and redevelopment zones, roads, railroads, drainage, canals, built-up areas and selected buildings, fortification, docks, parks, and more. Includes index, note, legend of class dwellings, and census \"map\" (i.e., chart). This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7654_C2_1913_R5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "City planning",
+    "Zoning",
+    "Landforms"
+  ],
+  "dc_title_s": "Kolkata, India, City Planning, 1913 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "India",
+    "Kolkata",
+    "HÄora"
+  ],
+  "dct_temporal_sm": [
+    "1913"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7654_C2_1913_R5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7654-c2-1913-r5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(88.242073, 88.425488, 22.649903, 22.470755)",
+  "solr_year_i": 1913
+}

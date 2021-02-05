@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "Sudan thematic grassland aggregation landcover from The Multipurpose Africover Database for the Environmental Resources produced by the Food and Agriculture Organization of the United Nations (FAO). Scale of the dataset: 1:200,000. This dataset is a reaggregated version of the original national Africover landcover multipurpose database. It contains all natural vegetation with a herbaceous component. The land cover has been produced from visual interpretation of digitally enhanced LANDSAT TM images (Bands 4,3,2) acquired mainly in the year 1994-1999. The land cover classes have been developed using the FAO/UNEP international standard LCCS classification system.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.AFRICOVER_SD_GRASS_AGG",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Land use",
+    "Vegetation mapping",
+    "Grasslands",
+    "Earth Surface",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Sudan Thematic Grassland Aggregation Landcover",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Sudan"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:AFRICOVER_SD_GRASS_AGG",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-africover-sd-grass-agg",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(21.826113, 38.468327, 21.83659, 3.411526)",
+  "solr_year_i": 2003
+}

@@ -1,0 +1,59 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: To the King, this map containing a chart of the Arabian Gulf with its Egyptian, Ethiopian and Arabian coasts, from Suez to Bab el Mandeb, a journey through Abyssinia to Gondar, its capital, from thence to the source of the Nile, the whole of that river from its source to the Mediterranean : now first laid down from astronomical observations of all those points necessary to ascertain the form of its course, the return by Sennaar and the great desert of Nubia and Beja, all laid down by actual survey with the largest and most perfect instruments now in use by ... James Bruce ; Taylor Sculpt., Donnybrook near Dublin. It was published ca. 1790. Scale [ca. 1:4,200,000]. Covers the Red Sea region, North Africa. The image inside the map neatline is georeferenced to the surface of the earth and fit to the World Miller Cylindrical projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, major roads, territorial boundaries, shoreline features, and more. Relief shown pictorially. Includes insets of the harbor of Rabac, Ibraim, Sebt and the island and harbor of Masuah. Shows the travels of James Bruce and Charles Jacques Poncet. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5687_R3_1790_B7_COPYA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Land use"
+  ],
+  "dc_title_s": "Red Sea Region, North Africa, ca. 1790 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa",
+    "Africa, North",
+    "Red Sea",
+    "Arabian Peninsula",
+    "Nile River",
+    "Dijibouti",
+    "Egypt",
+    "Eritrea",
+    "Ethiopia",
+    "Gaza Strip",
+    "Israel",
+    "Jordan",
+    "Saudi Arabia",
+    "Somalia",
+    "Sudan",
+    "West Bank",
+    "Yemen"
+  ],
+  "dct_temporal_sm": [
+    "1790"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:G5687_R3_1790_B7_COPYA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5687-r3-1790-b7-copya",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(25.082603, 46.385864, 32.57315, 5.427845)",
+  "solr_year_i": 1790
+}

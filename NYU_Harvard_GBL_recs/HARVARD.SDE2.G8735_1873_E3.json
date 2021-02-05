@@ -1,0 +1,63 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Stanford's map of the Guinea Coast, West Africa including the whole course of the Niger, and shewing Ashanti and its surroundings. It was published by E. Stanford in 1873. Scale 1:6,336,000. Covers portions of West and Central Africa. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries and claims, roads, exploration routes, shoreline features, and more. Relief shown by hachures and spot heights. Includes notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8735_1873_E3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "West   Central Africa, 1873 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Algeria",
+    "Benin",
+    "Burkina Faso",
+    "Cameroon",
+    "CÃ´te d'Ivoire",
+    "Equatorial Guinea",
+    "Gambia, The",
+    "Ghana",
+    "Guinea",
+    "Guinea-Bissau",
+    "Liberia",
+    "Mali",
+    "Mauritania",
+    "Niger",
+    "Nigeria",
+    "Sao Tome and Principe",
+    "Senegal",
+    "Sierra Leone",
+    "Togo",
+    "Africa, West",
+    "Africa, Central"
+  ],
+  "dct_temporal_sm": [
+    "1873"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8735_1873_E3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8735-1873-e3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-20.855578, 12.76012, 22.222097, -0.237956)",
+  "solr_year_i": 1873
+}

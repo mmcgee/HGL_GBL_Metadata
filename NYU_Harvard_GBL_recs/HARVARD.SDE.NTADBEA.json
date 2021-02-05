@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The Bureau of Economic Analysis (BEA)database is a Geographic polygon dataset representing county based economic regions for the United States.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.NTADBEA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "economy",
+    "Economic zones",
+    "Administrative and political divisions",
+    "Boundaries"
+  ],
+  "dc_title_s": "Bureau of Economic Analysis (BEA) Economic Areas",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Territories and possessions"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:NTADBEA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ntadbea",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.149375, 179.776404, 71.382377, 18.911255)",
+  "solr_year_i": 1998
+}

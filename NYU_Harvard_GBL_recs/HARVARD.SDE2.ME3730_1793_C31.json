@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled:The district of Main : from the latest surveys, by Osgood Carleton. It was published in 1793 by Isaiah Thomas and Ebenezer T. Andrews, in Jedidiah Morse's The American universal geography. Vol. 1 (1793). p. 345. Scale [ca. 1:2,800,000]. Covers Maine and portions of Massachusetts, New Hampshire, the provinces of Quebec, New Brunswick, and Nova Scotia, Canada. The image inside the map neatline is georeferenced to the surface of the earth and fit to Universal Transverse Mercator projection (UTM Zone 19N, meters, NAD 83). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as cities and towns, drainage, county, state, and national boundaries and more. Relief is shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.ME3730_1793_C31",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Land use",
+    "Bodies of water",
+    "Administrative and political divisions",
+    "Cities and towns",
+    "Villages"
+  ],
+  "dc_title_s": "Maine, 1793 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Maine",
+    "Massachusetts",
+    "New Hampshire",
+    "Canada",
+    "Quebec",
+    "New Brunswick",
+    "Nova Scotia"
+  ],
+  "dct_temporal_sm": [
+    "1793"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:ME3730_1793_C31",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-me3730-1793-c31",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-72.697004, -62.73061, 49.499493, 41.320965)",
+  "solr_year_i": 1793
+}

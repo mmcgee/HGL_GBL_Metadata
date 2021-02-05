@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "The Department of Fisheries, Wildlife and Environmental Law Enforcement (DFWELE) GIS Program working in conjunction with biologists from the MA Division of Marine Fisheries and the MA Division of Fisheries and Wildlife compiled and automated a point coverage of anadromous fish data. The data include all known coastal anadromous fish runs spawning habitat and runs for three major inland rivers - the Nashua, the Concord and the Shawsheen. Note, this data layer should not be considered definitive in determining the presence or absence of fish runs, spawning habitat, barriers or fishways. It is the DFWELE GIS Program's best current representation of these features. Neither should this layer or its derived maps be used for making site specific regulatory decisions. Rather, its appropriate use is for education and regional planning. This is a transition coverage. When MASSGIS completes its \"hydro centerline\" project, producing a complete hydro network for the Commonwealth, inherently linear features such as fish runs and many of the spawning habitat features will be represented as such.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISFISHRNA1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Fisheries",
+    "Marine fisheries",
+    "Wildlife habitat",
+    "Anadromous fishes",
+    "Fish",
+    "Inland Waters",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2000 Anadromous Fish Runs for Cape Cod (1997)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Nashua River",
+    "Concord River",
+    "Shawsheen River",
+    "Cape Cod"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:MGISFISHRNA1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisfishrna1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-70.641979, -69.966774, 42.063625, 41.53418)",
+  "solr_year_i": 1997
+}

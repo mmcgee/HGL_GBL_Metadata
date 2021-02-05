@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer identifies the locations of more than 29,000 potential, unverified, vernal pool habitats. Vernal pools are small, shallow ponds characterized by a lack of fish and annual or semi-annual periods of dryness. Vernal pool habitats are extremely important to a variety of wildlife species, including some amphibians that breed exclusively in vernal pools, and other organisms such as fairy shrimp which spend their entire life cycles confined to such locales. Potential vernal pools visible on aerial photographs were interpreted and included in this layer. However, this datalayer does not include every vernal pool in Massachusetts. Many vernal pools have not been identified due to unfavorable conditions in the landscape topography, pool physiography and/or photograph quality. Furthermore, vernal pool habitats occur in a wide variety of landscape settings, including forested swamps, bogs, and other wetlands. Vernal pools within these settings were not typically interpreted, but are nonetheless legitimate and valuable vernal pools. Also, field verification of all potential vernal pools in this study will identify errors such as the inclusion of features that are not actually vernal pools. Potential vernal pools identified in this survey are not to be confused with Certified Vernal Pools. Data pursuant to the official \"Guidelines for the Certification of Vernal Pool Habitat\" must be collected in the field and presented to the Massachusetts Natural Heritage   Endangered Species Program to obtain official certification for a vernal pool. Potential vernal pools identified in this survey do not receive protection under the Massachusetts Wetlands Protection Act Regulations (310 CMR 10.00), or under any other state or federal wetlands protection laws.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISPVPX",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Bodies of water",
+    "Vernal pools",
+    "biota",
+    "environment",
+    "Inland Waters"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts NHESP Potential Vernal Pools (December 2000)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISPVPX",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgispvpx",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.542261, -69.900829, 42.903595, 41.249033)",
+  "solr_year_i": 2000
+}

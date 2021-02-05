@@ -1,0 +1,39 @@
+{
+  "dc_description_s": "This datalayer displays the non-visible features for the state. This layer contains various types of nonvisible lines used to maintain the topology in the Census TIGER database. Non-visible features are used to delimit tabulation entities, property areas, legal and administrative entities. The U.S. Census Bureau separately identifies non-visible boundaries only when they do not follow a visible feature such as a road, stream, or ridge line. The predominant Census Feature Class Codes (CFCC) in this layer are: F10 (Non-visible jurisdictional boundary of a legal or administrative entity); F23 (Closure extension to complete database topological closure between extremely close features - used to close small gaps between complete chains and create polygons to improve block labeling on cartographic products); F40 (Property line, non-visible boundary of either public or private lands, e.g., a park boundary); F71 (1980 statistical boundary); F72 (1990 statistical boundary; used to hold 1990 collection and tabulation census block boundaries not represented by existing physical features); F73 (Internal U.S. Census Bureau use) and F81 (School district boundary).",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95IDLKFLN",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Census",
+    "Boundaries"
+  ],
+  "dc_title_s": "Census Non-Visible Features, 1995 - Idaho",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Idaho"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:TG95IDLKFLN",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95idlkfln",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-117.243027, -111.043495, 49.001146, 41.988005)",
+  "solr_year_i": 1995
+}

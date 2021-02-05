@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This map layer portrays the 2000 state and county boundaries of the United States, Puerto Rico, and the U.S. Virgin Islands. The map layer was created by extracting county polygon features from the individual 1:2,000,000-scale State boundary Digital Line Graph (DLG) files produced by the U.S. Geological Survey. These files were then merged into a single file. This is a revised version of the January 2002 data set. This version of the data set was published as part of the USGS Global GIS : global coverage database (2003). The USGS Global GIS database contains a wealth of USGS and other public domain data, including global coverages of elevation, landcover, seismicity, and resources of minerals and energy at a nominal scale of 1:1 million. The U.S. Geological Survey (USGS) and The American Geological Institute (AGI) announced a cooperative agreement that will focus on making the USGS Global Geographic Information System (GIS) database readily available to educators and the general public in the form of a DVD based world atlas.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.GLB_CO_USA",
+  "dc_language_s": "English",
+  "dc_publisher_s": "U.S. Geological Survey",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Boundaries",
+    "Boundaries, State",
+    "Counties"
+  ],
+  "dc_title_s": "County Boundaries of the United States, 2000",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1998"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:GLB_CO_USA",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-glb-co-usa",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.133392, 179.788208, 71.398048, 17.674692)",
+  "solr_year_i": 1998
+}

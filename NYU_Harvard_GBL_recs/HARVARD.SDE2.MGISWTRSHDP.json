@@ -1,0 +1,38 @@
+{
+  "dc_description_s": "This datalayer contains polygons representing Massachusetts watersheds (see also the Watersheds (Arcs) datalayer).  MassGIS has produced a statewide digital datalayer of the 32 major watersheds covering Massachusetts as defined by the USGS Water Resources Division and the MA Water Resources Commission. The datalayer is called Watersheds. Unlike the Major Drainage Basins layer, the watersheds in this layer extend beyond the state boundary to include the full extent of either the full watershed or a full USGS sub-basin.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISWTRSHDP",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Watersheds",
+    "Inland Waters"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts Major Watersheds (Polygons) (June 2000)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISWTRSHDP",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgiswtrshdp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.586242, -69.88433, 42.963408, 41.220468)",
+  "solr_year_i": 2000
+}

@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "This datalayer represents tangible physical features throughout the state. These features are neither transportation nor hydrographic in nature but may be used to determine boundary lines. The predominant Feature Codes in this layer are: E00 (Physical feature, major and minor categories unknown); E20 (Topographic feature; major category used when the minor category could not be determined); and  E21 (Ridge line, the line of highest elevation of a linear mountain). Additional features which may be identified in this, or other layers, include: Fences: Fence lines locate a visible and permanent fence between separately identified property. For example, a fence around a military reservation or prison separates the reservation from civilian land. Thus, a fence line is a property line marked by a fence. Topographic Feature:Topographical features that may be used as boundaries or as a reference for an area. The Census TIGER database contains topographic features used to define the limits of statistical entities in locations where no other visible feature can be identified. Other Topographic Feature: Mountain Peaks, Islands, (identified by name), levees, an embankment, as of earth or concrete, used to prevent a river or other body of water from overflowing.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG00UTLKE",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Imagery and Base Maps",
+    "Census",
+    "Boundaries",
+    "Mountains",
+    "Topographical surveying",
+    "Islands"
+  ],
+  "dc_title_s": "UA Census Physical Features, 2000 - Utah",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Utah"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:TG00UTLKE",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg00utlke",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-113.805496000316, -109.33898, 41.3649400013641, 37.000265)",
+  "solr_year_i": 2000
+}

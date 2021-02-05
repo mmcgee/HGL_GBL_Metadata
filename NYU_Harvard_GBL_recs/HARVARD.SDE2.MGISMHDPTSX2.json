@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer is a point coverage that may be used for plotting route shields that have the look of those on actual highway signs (i.e. red, white and blue Interstate; U.S. shields; boxes for State routes). The layer is intended to be used in conjuction with other Massachusetts Highway Department (MHD) datalayers. Please note that the locations of these points have been chosen to optimize display and do not represent actual roadside locations of route signs. To download and use Massachusetts highway route shields created by Jim Mossman, visit the MassGIS Web MHD page: http://www.mass.gov/mgis/majrdmhd.htm",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISMHDPTSX2",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Roads",
+    "Express highway interchanges",
+    "Express highways",
+    "Transportation"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts MHD Routemarker Locations (December 2002)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISMHDPTSX2",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgismhdptsx2",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.475213, -69.930467, 42.873144, 41.533054)",
+  "solr_year_i": 2002
+}

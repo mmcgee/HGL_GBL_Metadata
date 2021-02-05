@@ -1,0 +1,52 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Empire Ottoman : division administrative, dressee d'apres le Salname 1899/1317 par R. Huber. It was published by F. Loeffler in 1899. Scale 1:1,500,000. Covers the Ottoman Empire. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to a modified 'Europe Lambert Conformal Conic' projection with a central meridian of 38 degrees East projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, railroads, territorial and administrative boundaries, shoreline features, and more. Includes index, tables of statistics and insets: Crete -- [Vilayets Andrinople, Salonique, Monastir, Janina, Uskub, Scoutari, Constantinople] -- [Beyrouth] -- [Basra]. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection as part of the Open Collections Program at Harvard University project: Islamic Heritage Project. Maps selected for the project represent a range of regions, originators, ground condition dates, scales, and purposes. The Islamic Heritage Project consists of over 100,000 digitized pages from Harvard's collections of Islamic manuscripts and published materials. Supported by Prince Alwaleed Bin Talal and developed in association with the Prince Alwaleed Bin Talal Islamic Studies Program at Harvard University.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7430_1899_H8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Land use",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Ottoman Empire, 1899 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Armenia",
+    "Greece",
+    "Iran",
+    "Iraq",
+    "Israel",
+    "Jordan",
+    "Lebanon",
+    "Syria",
+    "Turkey",
+    "West Bank"
+  ],
+  "dct_temporal_sm": [
+    "1899"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7430_1899_H8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7430-1899-h8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(23.414883, 48.174573, 42.996576, 29.347559)",
+  "solr_year_i": 1899
+}

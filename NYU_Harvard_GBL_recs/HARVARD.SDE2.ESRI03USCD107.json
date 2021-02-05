@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "U.S. 107th Congressional Districts represents political boundaries for the U.S. 107th Congressional Districts.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.ESRI03USCD107",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Census",
+    "Legislators",
+    "United States. Congress",
+    "Administrative and political divisions",
+    "Election districts",
+    "Boundaries"
+  ],
+  "dc_title_s": "ESRI Data   Maps 2003 : U.S. 107th Congressional Districts",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2001"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:ESRI03USCD107",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-esri03uscd107",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-179.14734, 179.77847, 71.35256, 17.884813)",
+  "solr_year_i": 2001
+}

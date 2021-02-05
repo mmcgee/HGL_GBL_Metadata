@@ -1,0 +1,49 @@
+{
+  "dc_description_s": "The Public-Use Airports database is a geographic point database of aircraft landing facilities in the United States and U.S. Territories. Attribute data is provided on the physical and operational characteristics of the landing facility, current usage including enplanements and aircraft  operations, congestion levels and usage categories.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.NTADAIRPORT",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Airports",
+    "Airplanes",
+    "Helicopters",
+    "Transportation"
+  ],
+  "dc_title_s": "Public Use Airports",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States",
+    "Federated States of Micronesia",
+    "Marshall Islands",
+    "Guam",
+    "Northern Mariana Islands",
+    "Puerto Rico",
+    "Republic of Palau",
+    "U.S. Minor Outlying Islands",
+    "Virgin Islands of the United States"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:NTADAIRPORT",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-ntadairport",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-177.380963, 174.111532, 71.285125, -14.328437)",
+  "solr_year_i": 1995
+}

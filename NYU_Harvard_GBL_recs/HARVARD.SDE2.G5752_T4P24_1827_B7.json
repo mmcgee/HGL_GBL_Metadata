@@ -1,0 +1,51 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of the roads and main objects on the eastern part of London : as connected with the tunnel excavating under the Thames from Rotherhithe to Wapping, projected by M.I. Brunel, C.E. F.R.S., 1827. It was published by H. Teape   Son in 1827. Scale [ca. 1:48,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the British National Grid coordinate system (British National Grid, Airy Spheroid OSGB (1936) Datum). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, docks, drainage, canals, selected buildings, and more. Includes text, advertisement, and engravings: View of the Thames River -- View of the Interior of the Thames Tunnel -- View of the iron shield compartments for workers. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5752_T4P24_1827_B7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Underwater tunnels",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Thames Tunnel, London, England, 1827 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "London",
+    "Thames",
+    "Greenwich",
+    "Lewisham",
+    "London, City of",
+    "Southwark",
+    "Tower Hamlets",
+    "Thames Tunnel (London, England)"
+  ],
+  "dct_temporal_sm": [
+    "1827"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5752_T4P24_1827_B7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5752-t4p24-1827-b7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.139039, 0.057474, 51.596408, 51.45922)",
+  "solr_year_i": 1827
+}

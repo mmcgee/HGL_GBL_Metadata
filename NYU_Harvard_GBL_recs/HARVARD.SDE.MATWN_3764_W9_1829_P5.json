@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the village of Worcester, by Ed. E. Phelps, M.D., civ. eng'r. It was published by Clarendon Harris in the Worcester village directory, July 1829. Scale [1:3,960]. Covers the central area of the City of Worcester, Massachusetts, Main Street to Summer Street, Belmont Street to Franklin Street.  The image inside the map neatline is georeferenced to the surface of the earth and fit to the Massachusetts State Plane Coordinate System, Mainland Zone (in Feet) (Fipszone 2001). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, residences, businesses, cemeteries, and more. Buildings are shown with keyed numbers that correspond to entries in the Worcester village directory. The map includes illustrations of: New Unitarian Church -- Court House -- Town Hall -- South Meeting House -- Antiquarian Hall. This layer is part of a selection of digitally scanned and georeferenced historic maps of Massachusetts from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates (1755-1922), scales, and purposes. The digitized selection includes maps of: the state, Massachusetts counties, town surveys, coastal features, real property, parks, cemeteries, railroads, roads, public works projects, etc.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE.MATWN_3764_W9_1829_P5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "Harvard Map Collection, Harvard College Library",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Worcester Center, Massachusetts, 1829 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Worcester",
+    "Worcester Center"
+  ],
+  "dct_temporal_sm": [
+    "1829"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:MATWN_3764_W9_1829_P5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-matwn-3764-w9-1829-p5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.813419, -71.78159, 42.277003, 42.249532)",
+  "solr_year_i": 1829
+}

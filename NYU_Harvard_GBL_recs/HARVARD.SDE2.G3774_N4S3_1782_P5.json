@@ -1,0 +1,47 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan de la position de l'armee francaise au tour de Newport dans Rhode jsland et du mouillage de l'escadre dans la rade de cette ville. It was published in 1782 Chez le Rouge. Scale [ca. 1:22,200]. Covers the Newport, Rhode Island region including a portion of Narragansett Bay. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Rhode Island State Plane Coordinate System (Feet) (FIPS 3800). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, or other information associated with the principal map. This map shows features such as roads, drainage, selected buildings, American Revolution military fortifications, French army camps, French naval vessels with lines of fire, and more. Relief shown by hachures. Includes \"legende.\"  This layer is part of a selection of digitally scanned and georeferenced historic maps of New England from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of regions, originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3774_N4S3_1782_P5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "United States History Revolution, 1775-1783",
+    "Fortification",
+    "Human settlements",
+    "Land use",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Newport, Rhode Island, 1782 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Rhode Island",
+    "Newport",
+    "Narragansett Bay",
+    "Jamestown",
+    "Middletown"
+  ],
+  "dct_temporal_sm": [
+    "1782"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3774_N4S3_1782_P5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3774-n4s3-1782-p5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-71.431747, -71.247506, 41.533734, 41.427406)",
+  "solr_year_i": 1782
+}

@@ -1,0 +1,52 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Syria, by W. Hughes. It was published by George Cox, Jan. 1st, 1853. Scale [ca. 1:2,200,000]. Covers a portion of the Middle East including all or portions of Syria, Lebanon, Israel, Gaza Strip, West Bank, Jordan, Turkey, Iraq, Saudi Arabia, and Egypt. The image inside the map neatline is georeferenced to the surface of the earth and fit to a modified 'Europe Lambert Conformal Conic' projection with a central meridian of 38 degrees East projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures. Includes note and inset: Continuation from the Dead Sea top Mount Sinai (Scale [ca. 1:2,200,000]). This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection as part of the Open Collections Program at Harvard University project: Islamic Heritage Project. Maps selected for the project represent a range of regions, originators, ground condition dates, scales, and purposes. The Islamic Heritage Project consists of over 100,000 digitized pages from Harvard's collections of Islamic manuscripts and published materials. Supported by Prince Alwaleed Bin Talal and developed in association with the Prince Alwaleed Bin Talal Islamic Studies Program at Harvard University.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7460_1853_H8",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Imagery and Base Maps"
+  ],
+  "dc_title_s": "Middle East, 1853 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Middle East",
+    "Egypt",
+    "Gaza Strip",
+    "Iraq",
+    "Israel",
+    "Jordan",
+    "Lebanon",
+    "Saudi Arabia",
+    "Syria",
+    "Turkey",
+    "West Bank"
+  ],
+  "dct_temporal_sm": [
+    "1853"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7460_1853_H8",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7460-1853-h8",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(32.693501, 42.469043, 38.898936, 29.925897)",
+  "solr_year_i": 1853
+}

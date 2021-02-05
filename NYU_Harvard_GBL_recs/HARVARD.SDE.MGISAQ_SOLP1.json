@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "The Sole Source Aquifer datalayer was compiled by the Department of Environmental Protection (DEP) Division of Water Supply (DWS). Seven Sole Source Aquifers have been designated by the US Environmental Protection Agency (EPA) for Massachusetts. The Sole Source Aquifers are stored as a statewide polygon coverage, AQ_SOLE. A Sole Source Aquifer (SSA) is an aquifer designated by US EPA as the 'sole or principal source' of drinking water for a given aquifer service area; that is, an aquifer which is needed to supply 50% or more of the drinking water for that area and for which there are no reasonably available alternative sources should that aquifer become contaminated.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.MGISAQ_SOLP1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Aquifers",
+    "Hydrology",
+    "Water",
+    "Water-supply",
+    "Inland Waters"
+  ],
+  "dc_title_s": "MassGIS 2000 EPA Designated Sole Source Aquifers (May 1996)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:MGISAQ_SOLP1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisaq-solp1",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-72.701492, -69.927802, 42.265542, 41.237962)",
+  "solr_year_i": 1996
+}

@@ -1,0 +1,42 @@
+{
+  "dc_description_s": "The Massachusetts Department of Environmental Protection (DEP) major facilities datalayer is a statewide point dataset containing the location of a subset of facility types regulated by DEP's Bureau of Waste Prevention (BWP). In a preliminary effort to begin locating facilities regulated by DEP, the BWP chose to locate facility types having the greatest potential environmental significance. At this time, the following facility types have been located:   Large Quantity Generators of Hazardous Waste (LQG)  Large Quantity Toxic Users (LQTU)   Hazardous Waste Recyclers  Hazardous Waste Treatment, Storage and/or Disposal Facilities (TSDF)  Facilities with Air Operating Permits   Facilities with Groundwater Discharge Permits",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.MGISBWPMAJX",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Hazardous waste treatment facilities",
+    "Hazardous waste sites",
+    "Factory and trade waste",
+    "Hazardous wastes",
+    "Recycling (Waste, etc.)",
+    "environment"
+  ],
+  "dc_title_s": "MassGIS 2003 Massachusetts DEP BWP major facilities (August 2000)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "hglshapefiles:MGISBWPMAJX",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-mgisbwpmajx",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-73.382913, -69.981743, 42.870574, 41.251789)",
+  "solr_year_i": 2000
+}

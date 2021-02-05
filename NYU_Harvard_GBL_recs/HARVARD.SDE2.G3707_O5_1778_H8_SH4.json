@@ -1,0 +1,65 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: A new map of the western parts of Virginia, Pennsylvania, Maryland, and North Carolina : comprehending the River Ohio, and all the rivers, which fall into it; part of the River Mississippi, the whole of the Illinois River, Lake Erie; part of the lakes Huron, Michigan  c. and all the country bordering on these lakes and rivers, by Thos. Hutchins ; engrav'd by T. Cheevers. It was published by T. Hutchins in 1778. Scale [ca. 1:1,270,000]. This layer is image 4 of 4 total images of the four sheet source map, representing the southeast portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Great Lakes and St. Lawrence Albers (NAD 1983) projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities, Native American villages, and other human settlements, forts, territorial boundaries, shoreline features, roads, portages, and more. Relief shown pictorially and by hachures. Includes descriptive and historical notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3707_O5_1778_H8_SH4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Mississippi River Valley   Ohio River Valley, 1778 (Image 4 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mississippi River Valley",
+    "Ohio River Valley",
+    "Alabama",
+    "Arkansas",
+    "Georgia",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kentucky",
+    "Maryland",
+    "Michigan",
+    "Mississippi",
+    "Missouri",
+    "New York",
+    "North Carolina",
+    "Ohio",
+    "Pennsylvania",
+    "South Carolina",
+    "Tennessee",
+    "Virginia",
+    "West Virginia",
+    "Canada",
+    "Ontario"
+  ],
+  "dct_temporal_sm": [
+    "1778"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3707_O5_1778_H8_SH4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3707-o5-1778-h8-sh4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-85.26186, -76.628796, 39.056374, 33.02083)",
+  "solr_year_i": 1778
+}

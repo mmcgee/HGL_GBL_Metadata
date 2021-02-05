@@ -1,0 +1,41 @@
+{
+  "dc_description_s": "This datalayer displays the Voting Districts throughout the state. A Voting District (VTD) is the generic name for a variety of geographic entities, such as precincts, legislative districts, wards, and election districts, established by state, local, and tribal governments for the purpose of conducting elections. The U.S. Census Bureau first reported data for VTDs following the 1980 census. The 1990 census term voting district replaces the 1980 term election precinct. Because the U.S. Census Bureau requires that VTDs follow boundaries of census blocks, participating states often adjusted the boundaries of the VTDs they submit to conform to pre-established census block boundaries.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95GAVOTPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Census",
+    "Election districts",
+    "Polling places",
+    "Political divisions"
+  ],
+  "dc_title_s": "Census Voting Districts, 1995 - Georgia",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95GAVOTPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95gavotpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-85.605165, -80.840549, 35.000771, 30.355644)",
+  "solr_year_i": 1995
+}

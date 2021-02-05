@@ -1,0 +1,45 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Cambridgshire : described with the deuision of the hundreds, the townes situation, with the armes of the colleges of that famous vniuersiti and also the armes of all such princes and noblemen as haue heertofore borne the honorable tytles   dignities of the Earldome of Cambridge, performed by Iohn Speede and are to be solde in popes head alley by John Sudbury and G. Humbell. It was published by J. Sudbury and G. Humbell in 1610. Scale [ca. 1:109,890]. Covers Cambridgeshire and portions of surrounding counties. The image inside the map neatline is georeferenced to the surface of the earth and fit to the British National Grid coordinate system (British National Grid, Airy Spheroid OSGB (1936) Datum). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, cities and towns, drainage, and more. Relief is shown pictorially. Includes inset of Cambridge with index identifying colleges, churches and other places of interest. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G5753_C3_1610_S7_RECTO",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Cambridgeshire, England and vicinity, 1610 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United Kingdom",
+    "Cambridgeshire",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "1610"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G5753_C3_1610_S7_RECTO",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g5753-c3-1610-s7-recto",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-0.979599, 1.14023, 53.000144, 51.582495)",
+  "solr_year_i": 1610
+}

@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Map of the discoveries in Australia : copied from the latest M.S. surveys in the Colonial Office, by permission dedicated to the Right Hon.ble Viscount Goderich, H.M. principal Secretary of State for the Colonies, and President of the Royal Geographical Society, by his Lordships obliged servant J. Arrowsmith. It was published by Pubd. by J. Arrowsmith, 35 Essex St., Strand in Feb. 15 1834. Scale [ca. 1:3,041,280]. Covers southeastern Australia with additions to the east of the Gulf of St. Vincent and Granite Island inserted in Encounter Bay. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Asia South Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, shoreline features, and more. Relief shown by hachures and spot heights. Major explorations shown. Includes also notes and insets: The Colony of Western Australia ... -- [Map of Australia in Asia]. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8960_1834_A7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Discoveries in geography"
+  ],
+  "dc_title_s": "Southeastern Australia, 1834 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Australia",
+    "Australia, Southeastern"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8960_1834_A7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8960-1834-a7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(133.446357, 156.290968, -23.414301, -40.94748)",
+  "solr_year_i": 1834
+}

@@ -1,0 +1,43 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Carte dÃ©taillÃ©e (en deux feuilles), de l'Afrique et des Ã®les qui en dependent (partie septentrionale), par A. BrouÃ©, GÃ©ographe du Roi, d'aprÃ¨s les observations astronomiques, les dÃ©couvertes et les hypothÃ¨ses les plus rÃ©centes. Revue en 1834. It was published by Chez l'Auteur in 1828, i.e. 1834. Scale [ca. 1:16,250,000]. Covers Africa and a small portion of Europe and the Middle East. Map in French. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Sinusoidal projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, territorial boundaries, roads, mines, shoreline features, and more. Relief shown by hachures. Includes notes and insets: ExtrÃ©mitÃ© Sud de l'Afrique, ou Colonie du Cap, Pays des Hottentots et Betjouanas; Archipel du Nord-Est de Madagascar; Abyssinie et Pays des Gallas, etc. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8200_1834_B7",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Africa, 1834 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa"
+  ],
+  "dct_temporal_sm": [
+    "1834"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8200_1834_B7",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8200-1834-b7",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-45.965406, 82.865009, 51.679764, -51.621508)",
+  "solr_year_i": 1834
+}

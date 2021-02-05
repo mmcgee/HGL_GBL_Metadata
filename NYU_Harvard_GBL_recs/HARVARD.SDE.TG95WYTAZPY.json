@@ -1,0 +1,40 @@
+{
+  "dc_description_s": "This datalayer displays the Traffic Analysis Zones (TAZ) for the state. A traffic analysis zone (TAZ) is a statistical entity delineated by state or local transportation officials for tabulating traffic-related census data-especially journey-to-work and place-of-work statistics. A TAZ usually consists of one or more census blocks, block groups, or census tracts. For the 1990 census, TAZs were defined as part of the Census Transportation Planning Package (CTPP). The U.S. Census Bureau first provided data for TAZs in conjunction with the 1980 census, when it identified them as ''traffic zones.'' Each TAZ is identified by a six-character alphanumeric code that is unique within county or statistically equivalent entity. For the 1990 census, TAZ codes were unique within CTPP area, which generally conformed to a metropolitan area.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE.TG95WYTAZPY",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "",
+    "Census",
+    "Transportation",
+    "Traffic surveys"
+  ],
+  "dc_title_s": "Census Traffic Analysis Zones, 1995 - Wyoming",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Wyoming"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "hglshapefiles:TG95WYTAZPY",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-tg95wytazpy",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-107.543526, -104.052055, 43.501897, 40.998048)",
+  "solr_year_i": 1995
+}

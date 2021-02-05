@@ -1,0 +1,56 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Charte von einem Theile der Ost-KÃ¼ste von Africa : begreifend di Kaffer-KÃ¼ste, die KÃ¼ste Mozambique und Zanguebar, nebst der Insel Madagascar. It was published by im Verlage des Geograph. Instituts in 1809. Scale [ca. 1:6,900,000]. Covers Madagascar, and portions of Mozambique, Zimbabwe, Malawi, Zambia, Tanzania, Kenya, Comoros, Mayotte, Glorioso Islands, Seychelles, Juan de Nova Island, Reunion, and Mauritius. Map in German. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Africa Lambert Conformal Conic projected coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, roads, cities and other human settlements, territorial and administrative boundaries, shoreline features, and more. Relief shown by hachures. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G8400_1809_G4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Transportation"
+  ],
+  "dc_title_s": "Madagascar and Region, 1809 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Madagascar",
+    "Comoros",
+    "Glorioso Islands",
+    "Juan de Nova Island",
+    "Kenya",
+    "Malawi",
+    "Mauritius",
+    "Mayotte",
+    "Mozambique",
+    "Reunion",
+    "Seychelles",
+    "Tanzania",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "dct_temporal_sm": [
+    "1809"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G8400_1809_G4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g8400-1809-g4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(26.316311, 57.096953, 2.210683, -29.71698)",
+  "solr_year_i": 1809
+}

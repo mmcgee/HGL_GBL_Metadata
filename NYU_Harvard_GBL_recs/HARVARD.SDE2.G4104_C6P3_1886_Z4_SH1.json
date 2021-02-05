@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Railway terminal and industrial map of Chicago : showing the termini, connections, and general system by which interchanges and transfers of freights are effected between all railroads centering in and about Chicago, also indicating the location of freight and passenger depots, elevators, warehouses, coal, ore, and other docks, and the leading manufactories, with an alphabetical list of the principle industries located along the lines of the same, drawn   engraved by A. Zecse   Co. It was published by Industrial World. Co. in 1886. Scale [ca. 1:19,300]. This layer is image 1 of 2 total images of the two sheet source map, representing the northern portion of the map. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Illinois East State Plane Coordinate System NAD83 (in Feet) (Fipszone 1201). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, selected buildings and industry locations (e.g. mills, factories, etc.), and more. Includes index of principal industries. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G4104_C6P3_1886_Z4_SH1",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Chicago, Illinois, railroads and industry, 1886 (Image 1 of 2) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Illinois",
+    "Chicago"
+  ],
+  "dct_temporal_sm": [
+    "1886"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G4104_C6P3_1886_Z4_SH1",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g4104-c6p3-1886-z4-sh1",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-87.752956, -87.484897, 41.935361, 41.795166)",
+  "solr_year_i": 1886
+}

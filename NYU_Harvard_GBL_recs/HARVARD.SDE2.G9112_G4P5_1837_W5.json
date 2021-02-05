@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Chart of Georges Shoal   Bank, surveyed by Charles Wilkes, Lieut. Commandant ... [et al.] in U.S. brig Porpoise, schooners Maria   Hadassah, by order of the Hon. Mahlon Dickerson, Secretary of the Navy ; drawn by J. Alden and W. May ; engraved by S. Stiles, Sherman   Smith, New-York. It was published under direction of the Navy Commissioners in 1837. Scale [ca. 1:62,000]. The image inside the map neatline is georeferenced to the surface of the earth and fit to the 'World Mercator' projection. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows hydrographic features such as as banks, shoals, bottom soil types, tide information, and more. Relief shown by soundings. Includes notes. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection and the Harvard University Library as part of the Open Collections Program at Harvard University project: Organizing Our World: Sponsored Exploration and Scientific Discovery in the Modern Age. Maps selected for the project correspond to various expeditions and represent a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G9112_G4P5_1837_W5",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Nautical charts",
+    "Bodies of water",
+    "Hydrography",
+    "Ocean bottom",
+    "Imagery and Base Maps",
+    "oceans"
+  ],
+  "dc_title_s": "Georges Bank, 1837 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Atlantic Ocean",
+    "Georges Bank"
+  ],
+  "dct_temporal_sm": [
+    "1837"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G9112_G4P5_1837_W5",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g9112-g4p5-1837-w5",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-67.987507, -67.138925, 41.979227, 41.415072)",
+  "solr_year_i": 1837
+}

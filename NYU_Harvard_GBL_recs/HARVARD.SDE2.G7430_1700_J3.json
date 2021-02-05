@@ -1,0 +1,63 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Estats de l'Empire des Turqs en Europe : divisÃ©s suivant l'estendue des beglerbeglicz, ou gouvernements dans lequels sont marquÃ©es les residences, des sangiacs qui'en dependent : ou sont encor la Transylvanie, La Valaquie, la Modavie, La Petite Tartarie  tc, tributaires des Turqs : Ã  l'usage de monseigneur le Duc de Bourgogne, par H. Jaillot. It was published by Chez P. Mortier, between 1700 and 1709. Scale [ca. 1:5,000,000]. Covers the Balkan Peninsula region. Map in French and Latin. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Europe Lambert Conformal Conic coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as drainage, cities and other human settlements, roads, territorial boundaries, shoreline features, and more. Relief shown pictorially. This layer is part of a selection of digitally scanned and georeferenced historic maps from the Harvard Map Collection. These maps typically portray both natural and manmade features. The selection represents a range of originators, ground condition dates, scales, and map purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G7430_1700_J3",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Villages",
+    "Landforms",
+    "Bodies of water",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Balkan Peninsula Region, 1700-1709 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Albania",
+    "Austria",
+    "Bosnia and Herzegovina",
+    "Bulgaria",
+    "Croatia",
+    "Czech Republic",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Italy",
+    "Macedonia",
+    "Malta",
+    "Moldova",
+    "Montenegro",
+    "Romania",
+    "Serbia",
+    "Slovakia",
+    "Slovenia",
+    "Turkey",
+    "Ukraine",
+    "Bulkan Peninsula"
+  ],
+  "dct_temporal_sm": [
+    "1700"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G7430_1700_J3",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g7430-1700-j3",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(8.483907, 42.178347, 52.434427, 29.743063)",
+  "solr_year_i": 1700
+}

@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer contains lines showing how parcels were historically divided in the Assessor's database, where two or more lots were merged into a single parcel. When the layer was originally created, it was used to illustrate lots that were owned and used in common and were combined to form a \"main lot\" for valuation purposes. More recently, any parcels that are merged trigger the creation of a sited parcel line to retain a historical record of the original parcel boundaries. Historical parcel IDs can be found in the \"Supplemental Data\" area in the assessing database. This data is updated through January 1, 2012.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "HARVARD.SDE2.CAMBRIDGE14SUBPARCELLNFY13",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Tax assessment",
+    "Real property",
+    "Planning and Cadastral",
+    "Cambridge",
+    "Tax",
+    "Assessing",
+    "Sited Parcel Lines"
+  ],
+  "dc_title_s": "Sub Parcel Lines, Cambridge, Massachusetts, FY 2013",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Massachusetts",
+    "Cambridge"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "hglshapefiles:CAMBRIDGE14SUBPARCELLNFY13",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-cambridge14subparcellnfy13",
+  "nyu_addl_format_sm": [
+    "Shapefile"
+  ],
+  "solr_geom": "ENVELOPE(-71.158765, -71.063986, 42.402389, 42.353496)",
+  "solr_year_i": 2013
+}

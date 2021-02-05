@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: Plan of the city intended for the permanent seat of the government of t[he] United States : projected agreeable to the direction of the President of the United States, in pursuance of an act of Congress passed the sixteenth day of July, MDCCXC, \"establishing the permanent seat on the bank of the Potowmac\", by Peter Charles L'Enfant. It was published by U.S. Coast and Geodetic Survey in 1887. Scale ca. 1:15,840. Facsimile of L'Enfant's 1791 plan for Washington, D.C. The image inside the map neatline is georeferenced to the surface of the earth and fit to the Maryland State Plane Coordinate System Meters NAD83 (Fipszone 1900). All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as proposed streets and government building locations, drainage, parks, and more. Includes notes, text, statistical data, and index to points of interest. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G3850_1791_E5_1887",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "City planning",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)"
+  ],
+  "dc_title_s": "Washington, D.C., 1791 (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "District of Columbia",
+    "Washington (D.C.)"
+  ],
+  "dct_temporal_sm": [
+    "1791"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G3850_1791_E5_1887",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g3850-1791-e5-1887",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(-77.126536, -76.89399, 38.953015, 38.830501)",
+  "solr_year_i": 1791
+}

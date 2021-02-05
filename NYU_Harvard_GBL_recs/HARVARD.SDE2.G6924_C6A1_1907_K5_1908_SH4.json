@@ -1,0 +1,44 @@
+{
+  "dc_description_s": "This layer is a georeferenced raster image of the historic paper map entitled: KjÃ¶benhavn : med naermeste omegn 1903, suppleret 1907 ubdarbejdet ved KjÃ¸benhavns Kommunes Foranstaltning med delvis Benyttelse af Generalstabens Opmaalinger; Axel E. Aamodts ligthog[r] Etabl. It was published by KjÃ¸benhavns Kommunes Ejendomme, October 1908. Scale 1:10,000. This layer is image 4 of 4 total images of the four sheet source map, representing the northwest portion of the map. Map in Danish. Covers Copenhagen, Denmark region. The image inside the map neatline is georeferenced to the surface of the earth and fit to the European Datum 1950 UTM Zone 33N coordinate system. All map collar and inset information is also available as part of the raster image, including any inset maps, profiles, statistical tables, directories, text, illustrations, index maps, legends, or other information associated with the principal map. This map shows features such as roads, railroads, drainage, built-up areas and selected buildings, docks, wharves, parks, and more. Relief is shown by contours and spot heights. Depths shown by soundings and bathymetric lines. This layer is part of a selection of digitally scanned and georeferenced historic maps from The Harvard Map Collection as part of the Imaging the Urban Environment project. Maps selected for this project represent major urban areas and cities of the world, at various time periods. These maps typically portray both natural and manmade features at a large scale. The selection represents a range of regions, originators, ground condition dates, scales, and purposes.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "HARVARD.SDE2.G6924_C6A1_1907_K5_1908_SH4",
+  "dc_language_s": "English",
+  "dc_publisher_s": "",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Maps",
+    "Human settlements",
+    "Cities and towns",
+    "Land use",
+    "Landforms",
+    "Infrastructure (Economics)",
+    "Transportation"
+  ],
+  "dc_title_s": "Copenhagen, Denmark Region, 1907 (Image 4 of 4) (Raster Image)",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_provenance_s": "Harvard",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Denmark",
+    "Copenhagen"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "cite:G6924_C6A1_1907_K5_1908_SH4",
+  "layer_modified_dt": "2019-02-26T17:01:08Z",
+  "layer_slug_s": "harvard-g6924-c6a1-1907-k5-1908-sh4",
+  "nyu_addl_format_sm": [
+    "GeoTIFF"
+  ],
+  "solr_geom": "ENVELOPE(12.436245, 12.563568, 55.74881, 55.664805)",
+  "solr_year_i": 1907
+}
