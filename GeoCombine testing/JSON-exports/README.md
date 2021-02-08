@@ -1,4 +1,5 @@
 ## Example steps to run Geocombine
+
 1.SSH into the Geoblacklight container 
 > docker exec -it geoblacklight_web bash
   
