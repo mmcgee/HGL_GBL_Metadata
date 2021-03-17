@@ -1,0 +1,37 @@
+{
+  "geoblacklight_version": "1.0",
+  "dc_identifier_s": "http://hgl.harvard.edu:8080/HGL/jsp/HGL.jsp?action=VColl&VCollName=CH2000_RAILWAY",
+  "dc_title_s": "China 2000 railways",
+  "dc_description_s": "This datalayer contains lines representing China railroads/railways for 2000.  \n\nThis datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003).  The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts.  Source scale: 1:1,000,000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Harvard",
+  "layer_id_s": "urn:CH2000_RAILWAY",
+  "layer_slug_s": "Harvard-CH2000_RAILWAY",
+  "layer_modified_dt": "2006-10-24",
+  "dc_creator_sm": [
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si",
+    "University of Michigan. China Data Center"
+  ],
+  "dc_publisher_sm": [
+    "All China Marketing Research Co. ; distributed by University of Michigan China Data Center, Ann Arbor, Mich."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_type_s": "Dataset",
+  "dc_subject_sm": [
+    "Transportation",
+    "Railroads",
+    "transportation"
+  ],
+  "dc_spatial_sm": [
+    "China"
+  ],
+  "dct_issued_s": "2005",
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_isPartOf_sm": [
+    "Zhongguo 2000 xian ji ren kou pu cha zi liao = China 2000 county population census"
+  ],
+  "solr_geom": "ENVELOPE(84.708039, 133.12265, 52.969341, 18.222338)",
+  "solr_year_i": 2000
+}
