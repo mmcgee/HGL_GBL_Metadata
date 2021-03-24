@@ -106,7 +106,7 @@
 
     <xsl:text>"geoblacklight_version": "1.0",</xsl:text>
 
-    <xsl:text>"dc_identifier_s": "</xsl:text>
+    <xsl:text>"dc_identifier_s": "harvard-</xsl:text>
     <xsl:value-of select="idinfo/citation/citeinfo/onlink"/>
     <xsl:text>",</xsl:text>
 
