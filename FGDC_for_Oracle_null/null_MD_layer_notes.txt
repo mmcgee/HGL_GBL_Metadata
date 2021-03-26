@@ -1,0 +1,12 @@
+G5834_P3_1705_L3_SH1 - data in HGL and md available
+G3707_O5_1778_H8_SH3 - data in HGL and md available
+
+Are the following in GeoServer?  If not, throw out for migration
+H009375496_0029 - data not in HGL, md found; in geoserver?
+G3764_M84_1989_M5 - data not in HGL, md found - copyright issue?
+G3764_N6G45_1983_E4 - data not in HGL, md found - copyright issue?
+G3764_N777_1982_N6 - data not in HGL, md found - copyright issue?
+G3764_N87_1972_J3 - data not in HGL, md found - copyright issue?
+G3764_R65_1976_P4 - data not in HGL, md found - copyright issue?
+G3764_S2_1963_S3 - data not in HGL, md found - copyright issue?
+
