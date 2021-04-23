@@ -21,12 +21,12 @@ More advanced user applications may focus on demographics, urban and rural land 
       </citeinfo>
     </citation>
     <timeperd>
-      <current>ground condition</current>
       <timeinfo>
         <rngdates>
           <begdate>1998</begdate>
           <enddate>2001</enddate>
         </rngdates>
+		<current>ground condition</current>
       </timeinfo>
     </timeperd>
     <status>
