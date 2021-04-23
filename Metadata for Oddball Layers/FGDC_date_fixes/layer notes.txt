@@ -1,0 +1,7 @@
+G3763_M5E63_1997_M32 - geoserver metadata; found original fgdc xml
+G5833_P6_1584_R6_fgdc.xml - updated, added date
+GHGIS1820PROVINCES - iso char encoding ... updated to UTF-8?
+MEAAREACODE01_fgdc.xml - range dates, encoded incorrectly; updated. esri xml dtd, will these work?
+
+
+
