@@ -20,7 +20,7 @@
 
   ],
   "dct_provenance_s": "Harvard",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://raw.githubusercontent.com/harvard-library/harvard-geodata/main/fgdc/G3770_1795_H31_fgdc.xml\", \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://hgl.harvard.edu:8090/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://hgl.harvard.edu:8090/geoserver/wms\"}",
   "dct_source_sm": [
 
   ],
